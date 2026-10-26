@@ -790,9 +790,7 @@
    "part": "भाग 3",
    "kitabi": "(1)\nThe right to move the Supreme Court by appropriate proceedings for the\nenforcement of the rights conferred by this Part is guaranteed.\n(2) The Supreme Court shall have power to issue directions or orders or\nwrits, including writs in the nature of habeas corpus, mandamus, prohibition,\nquo warranto and certiorari, whichever may be appropriate, for the\nenforcement of any of the rights conferred by this Part.\n(3) Without prejudice to the powers conferred on the Supreme Court by\nclauses (1) and (2), Parliament may by law empower any other court to exercise\nwithin the local limits of its jurisdiction all or any of the powers exercisable by\nthe Supreme Court under clause (2).\n(4) The right guaranteed by this article shall not be suspended except as\notherwise provided for by this Constitution.\n132A. [Constitutional validity of State laws not to be considered in\nproceedings under article 32.].—Omitted by the Constitution (Forty-third\nAmendment) Act, 1977, s. 3 (w.e.f. 13-4-1978).",
    "aasan": "इस अनुच्छेद को संविधान का हृदय कहा गया है, क्योंकि यह बाकी सारे मूल अधिकारों को लागू कराने का रास्ता देता है। इसमें कहा गया है कि मूल अधिकारों के उल्लंघन पर सर्वोच्च न्यायालय में जाकर उपचार माँगने का अधिकार है, और अदालत उसके लिए आदेश यानी रिट जारी कर सकती है। ये रिट हैं: बंदी प्रत्यक्षीकरण, परमादेश, प्रतिषेध, अधिकार-पृच्छा और उत्प्रेषण। आसान शब्दों में: अगर आपका मूल अधिकार छीना जाए, तो आप सीधे अदालत जा सकते हैं, और अदालत सरकार को आदेश दे सकती है। उच्च न्यायालय में यही सुविधा अनुच्छेद 226 के तहत मिलती है, जो और भी व्यापक है।",
-   "amendments": [
-    "Forty-third\nAmendment संशोधन, 1977"
-   ],
+   "amendments": [],
    "source": "भारत का संविधान, अनुच्छेद 32",
    "sourceUrl": "https://legislative.gov.in/",
    "status": "in_force",
@@ -815,7 +813,9 @@
    "status": "in_force",
    "statusNote": "",
    "chapter": "",
-   "amendmentNotes": []
+   "amendmentNotes": [
+    "संविधान (पचासवां संशोधन) अधिनियम, 1984 की धारा 2 से यह पूरा अनुच्छेद बदला गया (11-9-1984 से प्रभावी)।"
+   ]
   },
   {
    "number": "34",
@@ -901,7 +901,9 @@
    "status": "in_force",
    "statusNote": "",
    "chapter": "",
-   "amendmentNotes": []
+   "amendmentNotes": [
+    "संविधान (बयालीसवां संशोधन) अधिनियम, 1976 की धारा 7 से खंड (च) बदला गया।"
+   ]
   },
   {
    "number": "39A",
@@ -1555,7 +1557,10 @@
    "status": "in_force",
    "statusNote": "",
    "chapter": "अध्याय 1 — संघ की कार्यपालिका",
-   "amendmentNotes": []
+   "amendmentNotes": [
+    "संविधान (बयालीसवां संशोधन) अधिनियम, 1976 की धारा 14 से खंड (4) जोड़ा गया (3-1-1977 से प्रभावी)।",
+    "वही खंड (4) संविधान (चवालीसवां संशोधन) अधिनियम, 1978 की धारा 12 से हटा दिया गया (20-6-1979 से प्रभावी)।"
+   ]
   },
   {
    "number": "78",
