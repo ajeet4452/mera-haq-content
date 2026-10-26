@@ -811,6 +811,23 @@
    "amendmentNotes": []
   },
   {
+   "number": "32A",
+   "title": "राज्य के कानूनों की संवैधानिकता पर अनुच्छेद 32 की कार्यवाही में विचार न किया जाना (अब लागू नहीं)",
+   "part": "भाग 3",
+   "chapter": "",
+   "kitabi": "32A. [Constitutional validity of State laws not to be considered in proceedings under article 32.].—Omitted by the Constitution (Forty-third Amendment) Act, 1977, s. 3 (w.e.f. 13-4-1978).",
+   "aasan": "यह अनुच्छेद कभी यह कहता था कि अगर किसी राज्य के कानून की संवैधानिकता पर सवाल उठे, तो उस पर अनुच्छेद 32 के तहत सर्वोच्च न्यायालय में सीधे विचार नहीं किया जाएगा। इसे 1976 में जोड़ा गया था, पर 1977 में हटा दिया गया, इसलिए अब यह लागू नहीं है। आसान शब्दों में: यह प्रावधान अब संविधान में नहीं है।",
+   "amendments": [],
+   "amendmentNotes": [
+    "जोड़ा गया — संविधान (बयालीसवां संशोधन) अधिनियम, 1976 की धारा 6 से (1-2-1977 से प्रभावी)।",
+    "हटाया गया — संविधान (तैंतालीसवां संशोधन) अधिनियम, 1977 की धारा 3 से (13-4-1978 से प्रभावी)।"
+   ],
+   "status": "repealed",
+   "statusNote": "43वें संशोधन, 1977 से निरसित (13-4-1978 से प्रभावी)",
+   "source": "भारत का संविधान, अनुच्छेद 32A",
+   "sourceUrl": "https://legislative.gov.in/"
+  },
+  {
    "number": "33",
    "title": "बलों आदि पर मूल अधिकारों के लागू होने की सीमा तय करने की संसद की शक्ति",
    "part": "भाग 3",
@@ -3873,6 +3890,20 @@
    ]
   },
   {
+   "number": "218",
+   "title": "उच्चतम न्यायालय से संबंधित कुछ उपबंधों का उच्च न्यायालयों को लागू होना",
+   "part": "भाग 6",
+   "chapter": "अध्याय 5 — उच्च न्यायालय",
+   "kitabi": "218. Application of certain provisions relating to Supreme Court to High Courts.—The provisions of clauses (4) and (5) of article 124 shall apply in relation to a High Court as they apply in relation to the Supreme Court with the substitution of references to the High Court for references to the Supreme Court.",
+   "aasan": "यह अनुच्छेद कहता है कि अनुच्छेद 124 के खंड (4) और (5) — जो सर्वोच्च न्यायालय के न्यायाधीशों की नियुक्ति की प्रक्रिया और शपथ से जुड़े हैं — उसी तरह उच्च न्यायालयों पर भी लागू होंगे। बस ‘सर्वोच्च न्यायालय’ की जगह ‘उच्च न्यायालय’ पढ़ा जाएगा। आसान शब्दों में: उच्च न्यायालय के जजों पर भी वही नियम लागू हैं जो सर्वोच्च न्यायालय के जजों पर हैं।",
+   "amendments": [],
+   "amendmentNotes": [],
+   "status": "in_force",
+   "statusNote": "",
+   "source": "भारत का संविधान, अनुच्छेद 218",
+   "sourceUrl": "https://legislative.gov.in/"
+  },
+  {
    "number": "219",
    "title": "उच्च न्यायालयों के न्यायाधीशों द्वारा शपथ या प्रतिज्ञान",
    "part": "भाग 6",
@@ -4553,6 +4584,20 @@
    "amendmentNotes": []
   },
   {
+   "number": "243I",
+   "title": "वित्तीय स्थिति की समीक्षा के लिए वित्त आयोग का गठन",
+   "part": "भाग 9",
+   "chapter": "",
+   "kitabi": "243I. Constitution of Finance Commission to review financial position.—(1) The Governor of a State shall, as soon as may be within one year from the commencement of the Constitution (Seventy-third Amendment) Act, 1992, and thereafter at the expiration of every fifth year, constitute a Finance Commission to review the financial position of the Panchayats and to make recommendations to the Governor as to— (a) the principles which should govern— (i) the distribution between the State and the Panchayats of the net proceeds of the taxes, duties, tolls and fees leviable by the State, which may be divided between them under this Part and the allocation between the Panchayats at all levels of their respective shares of such proceeds; 124 THE CONSTITUTION OF INDIA (Part IX.—The Panchayats) (ii) the determination of the taxes, duties, tolls and fees which may be assigned to, or appropriated by, the Panchayats; (iii) the grants-in-aid to the Panchayats from the Consolidated Fund of the State; (b) the measures needed to improve the financial position of the Panchayats; (c) any other matter referred to the Finance Commission by the Governor in the interests of sound finance of the Panchayats. (2) The Legislature of a State may, by law, provide for the composition of the Commission, the qualifications which shall be requisite for appointment as members thereof and the manner in which they shall be selected.",
+   "aasan": "यह अनुच्छेद कहता है कि राज्यपाल हर पाँच साल में एक वित्त आयोग बनाएँगे, जो पंचायतों की आर्थिक स्थिति की समीक्षा करे और बताए कि राज्य के करों में से पंचायतों को कितना हिस्सा मिले और किन आधारों पर। आसान शब्दों में: पंचायतों को पैसा कैसे मिले, यह तय करने के लिए हर पाँच साल में एक आयोग बनता है — जैसे केंद्र में वित्त आयोग होता है।",
+   "amendments": [],
+   "amendmentNotes": [],
+   "status": "in_force",
+   "statusNote": "",
+   "source": "भारत का संविधान, अनुच्छेद 243I",
+   "sourceUrl": "https://legislative.gov.in/"
+  },
+  {
    "number": "243J",
    "title": "पंचायतों के लेखाओं की लेखा-परीक्षा",
    "part": "भाग 9",
@@ -4610,6 +4655,20 @@
    "statusNote": "",
    "chapter": "",
    "amendmentNotes": []
+  },
+  {
+   "number": "243O",
+   "title": "निर्वाचन विषयों में न्यायालयों के हस्तक्षेप का वर्जन",
+   "part": "भाग 9",
+   "chapter": "",
+   "kitabi": "243O. Bar to interference by courts in electoral matters.— Notwithstanding anything in this Constitution,— (a) the validity of any law relating to the delimitation of constituencies or the allotment of seats to such constituencies, made or purporting to be made under article 243K, shall not be called in question in any court; (b) no election to any Panchayat shall be called in question except by an election petition presented to such authority and in such manner as is provided for by or under any law made by the Legislature of a State.",
+   "aasan": "यह अनुच्छेद कहता है कि पंचायत चुनाव में सीटों के बँटवारे या परिसीमन को अदालत में सीधे चुनौती नहीं दी जा सकती, और किसी पंचायत चुनाव को चुनाव के बाद चुनाव-याचिका के जरिए ही चुनौती दी जा सकती है। आसान शब्दों में: चुनाव को बीच में रोकने के लिए अदालत नहीं जाया जा सकता, बाद में याचिका दी जा सकती है।",
+   "amendments": [],
+   "amendmentNotes": [],
+   "status": "in_force",
+   "statusNote": "",
+   "source": "भारत का संविधान, अनुच्छेद 243O",
+   "sourceUrl": "https://legislative.gov.in/"
   },
   {
    "number": "243Q",
@@ -4872,6 +4931,20 @@
    "amendmentNotes": []
   },
   {
+   "number": "243ZI",
+   "title": "सहकारी समितियों का निगमन",
+   "part": "भाग 9ख",
+   "chapter": "",
+   "kitabi": "243ZI. Incorporation of co-operative societies.—Subject to the provisions of this Part, the Legislature of a State may, by law, make provisions with respect to the incorporation, regulation and winding up of co-operative societies based on the principles of voluntary formation, democratic member-control, member-economic participation and autonomous functioning.",
+   "aasan": "यह अनुच्छेद कहता है कि राज्य का विधानमंडल कानून बनाकर सहकारी समितियों के बनने, उनके नियमन और उन्हें बंद करने की व्यवस्था करेगा — और ये समितियाँ स्वेच्छा से बनें, सदस्यों का लोकतांत्रिक नियंत्रण रहे और सदस्य आर्थिक रूप से भाग लें। आसान शब्दों में: सहकारी समिति कैसे बनेगी और कैसे चलेगी, यह कानून तय करता है।",
+   "amendments": [],
+   "amendmentNotes": [],
+   "status": "in_force",
+   "statusNote": "",
+   "source": "भारत का संविधान, अनुच्छेद 243ZI",
+   "sourceUrl": "https://legislative.gov.in/"
+  },
+  {
    "number": "243ZJ",
    "title": "बोर्ड के सदस्यों की संख्या और उनका कार्यकाल",
    "part": "भाग 9ख",
@@ -4940,6 +5013,20 @@
    "statusNote": "",
    "chapter": "",
    "amendmentNotes": []
+  },
+  {
+   "number": "243ZO",
+   "title": "सदस्य को जानकारी पाने का अधिकार",
+   "part": "भाग 9ख",
+   "chapter": "",
+   "kitabi": "243ZO. Right of a member to get information.—(1) The Legislature of a State may, by law, provide for access to every member of a co-operative society to the books, information and accounts of the co-operative society kept in regular transaction of its business with such member. (2) The Legislature of a State may, by law, make provisions to ensure the participation of members in the management of the co-operative society providing minimum requirement of attending meetings by the members and utilising the minimum level of services as may be provided in such law. (3) The Legislature of a State may, by law, provide for co-operative education and training for its members.",
+   "aasan": "यह अनुच्छेद कहता है कि सहकारी समिति का हर सदस्य को अपनी समिति के बही-खाते, जानकारी और हिसाब देखने का अधिकार है, और सदस्यों को बैठकों में आने तथा प्रबंधन में भाग लेने की सुविधा मिलनी चाहिए। आसान शब्दों में: समिति का सदस्य होने के नाते आपको हिसाब देखने और सवाल पूछने का पूरा अधिकार है।",
+   "amendments": [],
+   "amendmentNotes": [],
+   "status": "in_force",
+   "statusNote": "",
+   "source": "भारत का संविधान, अनुच्छेद 243ZO",
+   "sourceUrl": "https://legislative.gov.in/"
   },
   {
    "number": "243ZP",
@@ -6574,6 +6661,20 @@
    ]
   },
   {
+   "number": "330",
+   "title": "लोकसभा में अनुसूचित जातियों और अनुसूचित जनजातियों के लिए स्थानों का आरक्षण",
+   "part": "भाग 16",
+   "chapter": "",
+   "kitabi": "330. Reservation of seats for Scheduled Castes and Scheduled Tribes in the House of the People.—(1) Seats shall be reserved in the House of the People for — (a) the Scheduled Castes; (b) the Scheduled Tribes except the Scheduled Tribes in the autonomous districts of Assam; and] (c) the Scheduled Tribes in the autonomous districts of Assam. (2) The number of seats reserved in any State or Union territory] for the Scheduled Castes or the Scheduled Tribes under clause (1) shall bear, as nearly as may be, the same proportion to the total number of seats allotted to that State or Union territory] in the House of the People as the population of the Scheduled Castes in the State or Union territory] or of the Scheduled Tribes in the State or Union territory] or part of the State or Union territory], as the case may be, in respect of which seats are so reserved, bears to the total population of the State or Union territory]. (3) Notwithstanding anything contained in clause (2), the number of seats reserved in the House of the People for the Scheduled Tribes in the autonomous districts of Assam shall bear to the total number of seats allotted to that State a proportion not less than the population of the Scheduled Tribes in the said autonomous districts bears to the total population of the State.] Explanation.—In this article and in article 332, the expression “population” means the population as ascertained at the last preceding census of which the relevant figures have been published: Provided that the reference in this Explanation to the last preceding census of which the relevant figures have been published shall, until the relevant figures for the first census taken after the year 2026] have been",
+   "aasan": "यह अनुच्छेद कहता है कि लोकसभा में अनुसूचित जातियों और अनुसूचित जनजातियों के लिए सीटें आरक्षित रहेंगी — असम के स्वायत्त जिलों की जनजातियों के लिए अलग व्यवस्था है। आरक्षित सीटों की संख्या उस राज्य की आबादी के अनुपात में तय होती है। आसान शब्दों में: संसद में दलितों और आदिवासियों के लिए तय सीटें आरक्षित हैं, ताकि उनकी आवाज़ भी सुनी जाए।",
+   "amendments": [],
+   "amendmentNotes": [],
+   "status": "in_force",
+   "statusNote": "",
+   "source": "भारत का संविधान, अनुच्छेद 330",
+   "sourceUrl": "https://legislative.gov.in/"
+  },
+  {
    "number": "330A",
    "title": "लोकसभा में महिलाओं के लिए स्थानों का आरक्षण",
    "part": "भाग 16",
@@ -6609,6 +6710,20 @@
    "statusNote": "104वें संशोधन, 2020 के बाद समाप्त (आंग्ल-भारतीय नामांकन)",
    "chapter": "",
    "amendmentNotes": []
+  },
+  {
+   "number": "332",
+   "title": "राज्यों की विधानसभाओं में अनुसूचित जातियों और अनुसूचित जनजातियों के लिए स्थानों का आरक्षण",
+   "part": "भाग 16",
+   "chapter": "",
+   "kitabi": "332. Reservation of seats for Scheduled Castes and Scheduled Tribes in the Legislative Assemblies of the States.—(1) Seats shall be reserved for the Scheduled Castes and the Scheduled Tribes, except the Scheduled Tribes in the autonomous districts of Assam], in the Legislative Assembly of every State 3***. (2) Seats shall be reserved also for the autonomous districts in the Legislative Assembly of the State of Assam. (3) The number of seats reserved for the Scheduled Castes or the Scheduled Tribes in the Legislative Assembly of any State under clause (1) shall bear, as nearly as may be, the same proportion to the total number of seats in the Assembly as the population of the Scheduled Castes in the State or of the Scheduled Tribes in the State or part of the State, as the case may be, in respect of which seats are so reserved, bears to the total population of the State. (3A) Notwithstanding anything contained in clause (3), until the taking effect, under article 170, of the re-adjustment, on the basis of the first census after the year 2026], of the number of seats in the Legislative Assemblies of the States of Arunachal Pradesh, Meghalaya, Mizoram and Nagaland, the seats which shall be reserved for the Scheduled Tribes in the Legislative Assembly of any such State shall be,—",
+   "aasan": "यह अनुच्छेद कहता है कि हर राज्य की विधानसभा में अनुसूचित जातियों और अनुसूचित जनजातियों के लिए सीटें आरक्षित रहेंगी, और असम के स्वायत्त जिलों के लिए भी अलग सीटें रहेंगी। आरक्षित सीटों की संख्या आबादी के अनुपात में तय होती है। आसान शब्दों में: विधानसभा में भी दलितों और आदिवासियों के लिए सीटें आरक्षित हैं।",
+   "amendments": [],
+   "amendmentNotes": [],
+   "status": "in_force",
+   "statusNote": "",
+   "source": "भारत का संविधान, अनुच्छेद 332",
+   "sourceUrl": "https://legislative.gov.in/"
   },
   {
    "number": "332A",
@@ -7446,6 +7561,20 @@
    "statusNote": "",
    "chapter": "",
    "amendmentNotes": []
+  },
+  {
+   "number": "371B",
+   "title": "असम राज्य के संबंध में विशेष उपबंध",
+   "part": "भाग 21",
+   "chapter": "",
+   "kitabi": "371B. Special provision with respect to the State of Assam.— Notwithstanding anything in this Constitution, the President may, by order made with respect to the State of Assam, provide for the constitution and functions of a committee of the Legislative Assembly of the State consisting of",
+   "aasan": "यह अनुच्छेद कहता है कि राष्ट्रपति आदेश देकर असम विधानसभा की एक समिति बना सकते हैं, जिसमें पहाड़ी इलाकों के सदस्य हों, और वह समिति उन इलाकों के कल्याण और विकास का काम देखे। आसान शब्दों में: असम के पहाड़ी इलाकों के लिए अलग समिति बनाई जा सकती है, ताकि उनकी ज़रूरतें पूरी हों।",
+   "amendments": [],
+   "amendmentNotes": [],
+   "status": "in_force",
+   "statusNote": "",
+   "source": "भारत का संविधान, अनुच्छेद 371B",
+   "sourceUrl": "https://legislative.gov.in/"
   },
   {
    "number": "371C",
