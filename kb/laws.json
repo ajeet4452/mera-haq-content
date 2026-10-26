@@ -15,23 +15,23 @@
      "sections": [
       {
        "number": "1",
-       "title": "Name and territory of the Union"
+       "title": "संघ का नाम और राज्यक्षेत्र"
       },
       {
        "number": "2",
-       "title": "Admission or establishment of new States"
+       "title": "नए राज्यों का प्रवेश या स्थापना"
       },
       {
        "number": "2A",
-       "title": "Sikkim to be associated with the Union.—Omitted"
+       "title": "सिक्किम का संघ के साथ संबंध (अब लागू नहीं)"
       },
       {
        "number": "3",
-       "title": "Formation of new States and alteration of areas, boundaries or"
+       "title": "नए राज्यों का निर्माण और क्षेत्रों, सीमाओं या नामों में परिवर्तन"
       },
       {
        "number": "4",
-       "title": "Laws made under articles 2 and 3 to provide for the amendment of"
+       "title": "अनुच्छेद 2 और 3 के अंतर्गत बनाए गए कानून"
       }
      ]
     },
@@ -42,31 +42,31 @@
      "sections": [
       {
        "number": "5",
-       "title": "Citizenship at the commencement of the Constitution"
+       "title": "संविधान के प्रारंभ में नागरिकता"
       },
       {
        "number": "6",
-       "title": "Rights of citizenship of certain persons who have migrated to"
+       "title": "कुछ प्रवासियों के नागरिकता के अधिकार (पाकिस्तान से आए)"
       },
       {
        "number": "7",
-       "title": "Rights of citizenship of certain migrants to Pakistan"
+       "title": "कुछ प्रवासियों के नागरिकता के अधिकार (पाकिस्तान गए)"
       },
       {
        "number": "8",
-       "title": "Rights of citizenship of certain persons of Indian origin residing"
+       "title": "भारत के बाहर रहने वाले भारतीय मूल के व्यक्तियों के नागरिकता के अधिकार"
       },
       {
        "number": "9",
-       "title": "Persons voluntarily acquiring citizenship of a foreign State not to"
+       "title": "विदेशी राज्य की नागरिकता स्वेच्छा से ग्रहण करने वाले व्यक्ति नागरिक नहीं होंगे"
       },
       {
        "number": "10",
-       "title": "Continuance of the rights of citizenship"
+       "title": "नागरिकता के अधिकारों का बना रहना"
       },
       {
        "number": "11",
-       "title": "Parliament to regulate the right of citizenship by law"
+       "title": "संसद नागरिकता के अधिकार को विधि द्वारा विनियमित करेगी"
       }
      ]
     },
@@ -77,123 +77,115 @@
      "sections": [
       {
        "number": "12",
-       "title": "Definition"
+       "title": "राज्य की परिभाषा"
       },
       {
        "number": "13",
-       "title": "Laws inconsistent with or in derogation of the fundamental"
+       "title": "मूल अधिकारों से असंगत या उनका अतिक्रमण करने वाले कानून"
       },
       {
        "number": "14",
-       "title": "Equality before law"
+       "title": "कानून के समक्ष समानता"
       },
       {
        "number": "15",
-       "title": "Prohibition of discrimination on grounds of religion, race, caste,"
+       "title": "धर्म, नस्ल, जाति, लिंग या जन्मस्थान के आधार पर भेदभाव का प्रतिषेध"
       },
       {
        "number": "16",
-       "title": "Equality of opportunity in matters of public employment"
+       "title": "लोक नियोजन में अवसर की समानता"
       },
       {
        "number": "17",
-       "title": "Abolition of Untouchability"
+       "title": "अस्पृश्यता का अंत"
       },
       {
        "number": "18",
-       "title": "Abolition of titles"
+       "title": "उपाधियों का अंत"
       },
       {
        "number": "19",
-       "title": "Protection of certain rights regarding freedom of speech, etc"
+       "title": "वाक्-स्वातंत्र्य आदि कुछ अधिकारों की रक्षा"
       },
       {
        "number": "20",
-       "title": "Protection in respect of conviction for offences"
+       "title": "अपराधों के लिए दोषसिद्धि के संबंध में संरक्षण"
       },
       {
        "number": "21",
-       "title": "Protection of life and personal liberty"
+       "title": "प्राण और दैहिक स्वतंत्रता का संरक्षण"
       },
       {
        "number": "21A",
-       "title": "Right to education"
+       "title": "शिक्षा का अधिकार"
       },
       {
        "number": "22",
-       "title": "Protection against arrest and detention in certain cases"
+       "title": "कुछ दशाओं में गिरफ्तारी और निरोध से संरक्षण"
       },
       {
        "number": "23",
-       "title": "Prohibition of traffic in human beings and forced labour"
+       "title": "मानव तस्करी और बलात् श्रम का प्रतिषेध"
       },
       {
        "number": "24",
-       "title": "Prohibition of employment of children in factories, etc"
+       "title": "कारखानों आदि में बच्चों के नियोजन का प्रतिषेध"
       },
       {
        "number": "25",
-       "title": "Freedom of conscience and free profession, practice and"
+       "title": "अंतःकरण की स्वतंत्रता और धर्म के अबाध पालन, आचरण और प्रचार का अधिकार"
       },
       {
        "number": "26",
-       "title": "Freedom to manage religious affairs"
+       "title": "धार्मिक कार्यों के प्रबंधन की स्वतंत्रता"
       },
       {
        "number": "27",
-       "title": "Freedom as to payment of taxes for promotion of any particular"
+       "title": "धर्म के प्रचार के लिए कर देने की स्वतंत्रता"
       },
       {
        "number": "28",
-       "title": "Freedom as to attendance at religious instruction or religious"
+       "title": "कुछ शिक्षण संस्थानों में धार्मिक शिक्षा के संबंध में स्वतंत्रता"
       },
       {
        "number": "29",
-       "title": "Protection of interests of minorities"
+       "title": "अल्पसंख्यक वर्गों के हितों का संरक्षण"
       },
       {
        "number": "30",
-       "title": "Right of minorities to establish and administer educational"
+       "title": "अल्पसंख्यक वर्गों के शिक्षण संस्थानों की स्थापना और प्रशासन का अधिकार"
       },
       {
        "number": "31",
-       "title": "Compulsory acquisition of property —Omitted"
+       "title": "संपत्ति का अनिवार्य अर्जन (अब अनुच्छेद 300A के अंतर्गत)"
       },
       {
        "number": "31A",
-       "title": "Saving of Laws providing for acquisition of estates, etc"
+       "title": "कुछ भूमि-सुधार कानूनों का संरक्षण"
       },
       {
        "number": "31B",
-       "title": "Validation of certain Acts and Regulations"
+       "title": "नौवीं अनुसूची के कुछ अधिनियमों का विधिमान्यकरण"
       },
       {
        "number": "31C",
-       "title": "Saving of laws giving effect to certain directive principles"
-      },
-      {
-       "number": "31D",
-       "title": "Saving of laws in respect of anti-national activities.—Omitted"
+       "title": "कुछ निदेशक तत्वों को प्रभावी करने वाले कानूनों का संरक्षण"
       },
       {
        "number": "32",
-       "title": "Remedies for enforcement of rights conferred by this Part"
-      },
-      {
-       "number": "32A",
-       "title": "Constitutional validity of State laws not to be considered in"
+       "title": "मूल अधिकारों को लागू कराने के उपचार"
       },
       {
        "number": "33",
-       "title": "Power of Parliament to modify the rights conferred by this Part"
+       "title": "बलों आदि पर मूल अधिकारों के लागू होने की सीमा तय करने की संसद की शक्ति"
       },
       {
        "number": "34",
-       "title": "Restriction on rights conferred by this Part while martial law is"
+       "title": "मार्शल लॉ लागू होने के समय मूल अधिकारों पर निर्बंधन"
       },
       {
        "number": "35",
-       "title": "Legislation to give effect to the provisions of this Part"
+       "title": "इस भाग के उपबंधों को प्रभावी करने का विधान"
       }
      ]
     },
@@ -204,83 +196,79 @@
      "sections": [
       {
        "number": "36",
-       "title": "Definition"
+       "title": "परिभाषा"
       },
       {
        "number": "37",
-       "title": "Application of the principles contained in this Part"
+       "title": "इस भाग में दिए गए सिद्धांतों का लागू होना"
       },
       {
        "number": "38",
-       "title": "State to secure a social order for the promotion of welfare of the"
+       "title": "राज्य लोक कल्याण के प्रवर्तन के लिए सामाजिक व्यवस्था सुनिश्चित करेगा"
       },
       {
        "number": "39",
-       "title": "Certain principles of policy to be followed by the State"
+       "title": "राज्य द्वारा अनुसरणीय कुछ नीति सिद्धांत"
       },
       {
        "number": "39A",
-       "title": "Equal justice and free legal aid"
+       "title": "समान न्याय और मुफ़्त कानूनी सहायता"
       },
       {
        "number": "40",
-       "title": "Organisation of village panchayats"
+       "title": "ग्राम पंचायतों का संगठन"
       },
       {
        "number": "41",
-       "title": "Right to work, to education and to public assistance in certain"
+       "title": "काम, शिक्षा और कुछ दशाओं में लोक सहायता पाने का अधिकार"
       },
       {
        "number": "42",
-       "title": "Provision for just and humane conditions of work and maternity"
+       "title": "काम की न्यायसंगत और मानवोचित दशाओं तथा प्रसूति सहायता का उपबंध"
       },
       {
        "number": "43",
-       "title": "Living wage, etc., for workers"
+       "title": "कामगारों के लिए निर्वाह मजदूरी आदि"
       },
       {
        "number": "43A",
-       "title": "Participation of workers in management of Industries"
+       "title": "उद्योगों के प्रबंधन में कामगारों का भाग लेना"
       },
       {
        "number": "43B",
-       "title": "Promotion of co-operative societies"
+       "title": "सहकारी समितियों का संवर्धन"
       },
       {
        "number": "44",
-       "title": "Uniform civil code for the citizens"
+       "title": "नागरिकों के लिए एक समान सिविल संहिता"
       },
       {
        "number": "45",
-       "title": "Provision for early childhood care and education to children"
+       "title": "छह वर्ष से कम आयु के बच्चों के लिए पूर्व-प्राथमिक देखभाल और शिक्षा"
       },
       {
        "number": "46",
-       "title": "Promotion of educational and economic interests of Scheduled"
+       "title": "अनुसूचित जातियों, जनजातियों और दुर्बल वर्गों के शिक्षा और आर्थिक हितों का संवर्धन"
       },
       {
        "number": "47",
-       "title": "Duty of the State to raise the level of nutrition and the standard"
+       "title": "पोषाहार स्तर, जीवन स्तर और लोक स्वास्थ्य उठाने का राज्य का कर्तव्य"
       },
       {
        "number": "48",
-       "title": "Organisation of agriculture and animal husbandry"
-      },
-      {
-       "number": "48A",
-       "title": "Protection and improvement of environment and safeguarding of"
+       "title": "कृषि और पशुपालन का संगठन"
       },
       {
        "number": "49",
-       "title": "Protection of monuments and places and objects of national"
+       "title": "राष्ट्रीय महत्व के स्मारकों, स्थानों और वस्तुओं का संरक्षण"
       },
       {
        "number": "50",
-       "title": "Separation of judiciary from executive"
+       "title": "लोक सेवाओं में न्यायपालिका का कार्यपालिका से पृथक्करण"
       },
       {
        "number": "51",
-       "title": "Promotion of international peace and security"
+       "title": "अंतरराष्ट्रीय शांति और सुरक्षा का संवर्धन"
       }
      ]
     },
@@ -291,7 +279,7 @@
      "sections": [
       {
        "number": "51A",
-       "title": "Fundamental duties"
+       "title": "मूल कर्तव्य"
       }
      ]
     },
@@ -302,431 +290,431 @@
      "sections": [
       {
        "number": "52",
-       "title": "The President of India"
+       "title": "भारत का राष्ट्रपति"
       },
       {
        "number": "53",
-       "title": "Executive power of the Union"
+       "title": "संघ की कार्यपालिका शक्ति"
       },
       {
        "number": "54",
-       "title": "Election of President"
+       "title": "राष्ट्रपति का निर्वाचन"
       },
       {
        "number": "55",
-       "title": "Manner of election of President"
+       "title": "राष्ट्रपति के निर्वाचन की रीति"
       },
       {
        "number": "56",
-       "title": "Term of office of President"
+       "title": "राष्ट्रपति की पदावधि"
       },
       {
        "number": "57",
-       "title": "Eligibility for re-election"
+       "title": "पुनर्निर्वाचन के लिए पात्रता"
       },
       {
        "number": "58",
-       "title": "Qualifications for election as President"
+       "title": "राष्ट्रपति निर्वाचित होने के लिए अर्हताएं"
       },
       {
        "number": "59",
-       "title": "Conditions of President’s office"
+       "title": "राष्ट्रपति के पद के लिए शर्तें"
       },
       {
        "number": "60",
-       "title": "Oath or affirmation by the President"
+       "title": "राष्ट्रपति द्वारा शपथ या प्रतिभान"
       },
       {
        "number": "61",
-       "title": "Procedure for impeachment of the President"
+       "title": "राष्ट्रपति पर महाभियोग चलाने की प्रक्रिया"
       },
       {
        "number": "62",
-       "title": "Time of holding election to fill vacancy in the office of President"
+       "title": "राष्ट्रपति के पद में रिक्ति को भरने के लिए निर्वाचन करने का समय और आकस्मिक रिक्ति को भरने के लिए निर्वाचित व्यक्ति की पदावधि"
       },
       {
        "number": "63",
-       "title": "The Vice-President of India"
+       "title": "भारत का उपराष्ट्रपति"
       },
       {
        "number": "64",
-       "title": "The Vice-President to be ex officio Chairman of the Council of"
+       "title": "उपराष्ट्रपति का राज्य सभा का पदेन सभापति होना"
       },
       {
        "number": "65",
-       "title": "The Vice-President to act as President or to discharge his"
+       "title": "राष्ट्रपति के पद में आकस्मिक रिक्ति के दौरान या उसकी अनुपस्थिति में उपराष्ट्रपति का राष्ट्रपति के रूप में कार्य करना या उसके कृत्यों का निर्वहन"
       },
       {
        "number": "66",
-       "title": "Election of Vice-President"
+       "title": "उपराष्ट्रपति का निर्वाचन"
       },
       {
        "number": "67",
-       "title": "Term of office of Vice-President"
+       "title": "उपराष्ट्रपति की पदावधि"
       },
       {
        "number": "68",
-       "title": "Time of holding election to fill vacancy in the office of Vice-President"
+       "title": "उपराष्ट्रपति के पद में रिक्ति को भरने के लिए निर्वाचन करने का समय और आकस्मिक रिक्ति को भरने के लिए निर्वाचित व्यक्ति की पदावधि"
       },
       {
        "number": "69",
-       "title": "Oath or affirmation by the Vice-President"
+       "title": "उपराष्ट्रपति द्वारा शपथ या प्रतिभान"
       },
       {
        "number": "70",
-       "title": "Discharge of President’s functions in other contingencies"
+       "title": "अन्य आकस्मिकताओं में राष्ट्रपति के कृत्यों का निर्वहन"
       },
       {
        "number": "71",
-       "title": "Matters relating to, or connected with, the election of a President"
+       "title": "राष्ट्रपति या उपराष्ट्रपति के निर्वाचन से संबंधित या संसक्त विषय"
       },
       {
        "number": "72",
-       "title": "Power of President to grant pardons, etc., and to suspend, remit"
+       "title": "क्षमा आदि की और कुछ मामलों में दंडादेश के निलंबन, परिहार या लघूकरण की राष्ट्रपति की शक्ति"
       },
       {
        "number": "73",
-       "title": "Extent of executive power of the Union"
+       "title": "संघ की कार्यपालिका शक्ति का विस्तार"
       },
       {
        "number": "74",
-       "title": "Council of Ministers to aid and advise President"
+       "title": "राष्ट्रपति को सहायता और सलाह देने के लिए मंत्रि-परिषद"
       },
       {
        "number": "75",
-       "title": "Other provisions as to Ministers"
+       "title": "मंत्रियों के बारे में अन्य उपबंध"
       },
       {
        "number": "76",
-       "title": "Attorney-General for India"
+       "title": "भारत का महान्यायवादी"
       },
       {
        "number": "77",
-       "title": "Conduct of business of the Government of India"
+       "title": "भारत सरकार के कार्य का संचालन"
       },
       {
        "number": "78",
-       "title": "Duties of Prime Minister as respects the furnishing of"
+       "title": "राष्ट्रपति को जानकारी देने, आदि के संबंध में प्रधान मंत्री के कर्तव्य"
       },
       {
        "number": "79",
-       "title": "Constitution of Parliament"
+       "title": "संसद का गठन"
       },
       {
        "number": "80",
-       "title": "Composition of the Council of States"
+       "title": "राज्य सभा की संरचना"
       },
       {
        "number": "81",
-       "title": "Composition of the House of the People"
+       "title": "लोक सभा की संरचना"
       },
       {
        "number": "82",
-       "title": "Readjustment after each census"
+       "title": "प्रत्येक जनगणना के पश्चात् पुनःसमायोजन"
       },
       {
        "number": "83",
-       "title": "Duration of Houses of Parliament"
+       "title": "संसद के सदनों की अवधि"
       },
       {
        "number": "84",
-       "title": "Qualification for membership of Parliament"
+       "title": "संसद की सदस्यता के लिए अर्हता"
       },
       {
        "number": "85",
-       "title": "Sessions of Parliament, prorogation and dissolution"
+       "title": "संसद के सत्र, सत्रावसान और विघटन"
       },
       {
        "number": "86",
-       "title": "Right of President to address and send messages to Houses"
+       "title": "सदनों में अभिभाषण का और उनको संदेश भेजने का राष्ट्रपति का अधिकार"
       },
       {
        "number": "87",
-       "title": "Special address by the President"
+       "title": "राष्ट्रपति का विशेष अभिभाषण"
       },
       {
        "number": "88",
-       "title": "Rights of Ministers and Attorney-General as respects Houses"
+       "title": "सदनों के बारे में मंत्रियों और महान्यायवादी के अधिकार"
       },
       {
        "number": "89",
-       "title": "The Chairman and Deputy Chairman of the Council of States"
+       "title": "राज्य सभा का सभापति और उपसभापति"
       },
       {
        "number": "90",
-       "title": "Vacation and resignation of, and removal from, the office of"
+       "title": "उपसभापति का पद रिक्त होना, पदत्याग और पद से हटाया जाना"
       },
       {
        "number": "91",
-       "title": "Power of the Deputy Chairman or other person to perform the"
+       "title": "सभापति के पद के कर्तव्यों का पालन करने या सभापति के रूप में कार्य करने की उपसभापति या अन्य व्यक्ति की शक्ति"
       },
       {
        "number": "92",
-       "title": "The Chairman or the Deputy Chairman not to preside while a"
+       "title": "जब सभापति या उपसभापति को पद से हटाने का कोई संकल्प विचाराधीन है तब उसका पीठासीन न होना"
       },
       {
        "number": "93",
-       "title": "The Speaker and Deputy Speaker of the House of the People"
+       "title": "लोक सभा का अध्यक्ष और उपाध्यक्ष"
       },
       {
        "number": "94",
-       "title": "Vacation and resignation of, and removal from, the offices of"
+       "title": "अध्यक्ष और उपाध्यक्ष का पद रिक्त होना, पद त्याग और पद से हटाया जाना"
       },
       {
        "number": "95",
-       "title": "Power of the Deputy Speaker or other person to perform the"
+       "title": "अध्यक्ष के पद के कर्तव्यों का पालन करने या अध्यक्ष के रूप में कार्य करने की उपाध्यक्ष या अन्य व्यक्ति की शक्ति"
       },
       {
        "number": "96",
-       "title": "The Speaker or the Deputy Speaker not to preside while a"
+       "title": "जब अध्यक्ष या उपाध्यक्ष को पद से हटाने का कोई संकल्प विचाराधीन है तब उसका पीठासीन न होना"
       },
       {
        "number": "97",
-       "title": "Salaries and allowances of the Chairman and Deputy Chairman"
+       "title": "सभापति और उपसभापति तथा अध्यक्ष और उपाध्यक्ष के वेतन और भत्ते"
       },
       {
        "number": "98",
-       "title": "Secretariat of Parliament"
+       "title": "संसद का सचिवालय"
       },
       {
        "number": "99",
-       "title": "Oath or affirmation by members"
+       "title": "सदस्यों द्वारा शपथ या प्रतिभान"
       },
       {
        "number": "100",
-       "title": "Voting in Houses, power of Houses to act notwithstanding"
+       "title": "सदनों में मतदान, रिक्तियों के होते हुए भी सदनों की कार्य करने की शक्ति और गणपूर्ति"
       },
       {
        "number": "101",
-       "title": "Vacation of seats"
+       "title": "स्थानों का रिक्त होना"
       },
       {
        "number": "102",
-       "title": "Disqualifications for membership"
+       "title": "सदस्यता के लिए अर्हताएं"
       },
       {
        "number": "103",
-       "title": "Decision on questions as to disqualifications of members"
+       "title": "सदस्यों की अर्हताओं से संबंधित प्रश्नों पर विनिश्चय"
       },
       {
        "number": "104",
-       "title": "Penalty for sitting and voting before making oath or affirmation"
+       "title": "अनुच्छेद 99 के अधीन शपथ लेने या प्रतिभान करने से पहले या अर्हत न होते हुए या निरर्हत किए जाने पर बैठने और मत देने के लिए शास्ति"
       },
       {
        "number": "105",
-       "title": "Powers, privileges, etc., of the Houses of Parliament and of the"
+       "title": "संसद के सदनों की तथा उनके सदस्यों और समितियों की शक्तियां, विशेषाधिकार, आदि"
       },
       {
        "number": "106",
-       "title": "Salaries and allowances of members"
+       "title": "सदस्यों के वेतन और भत्ते"
       },
       {
        "number": "107",
-       "title": "Provisions as to introduction and passing of Bills"
+       "title": "विधेयकों के पुरःस्थापन और पारित किए जाने के संबंध में उपबंध"
       },
       {
        "number": "108",
-       "title": "Joint sitting of both Houses in certain cases"
+       "title": "कुछ दशाओं में दोनों सदनों की संयुक्त बैठक"
       },
       {
        "number": "109",
-       "title": "Special procedure in respect of Money Bills"
+       "title": "धन विधेयकों के संबंध में विशेष प्रक्रिया"
       },
       {
        "number": "110",
-       "title": "Definition of “Money Bills”"
+       "title": "धन विधेयक की परिभाषा"
       },
       {
        "number": "111",
-       "title": "Assent to Bills"
+       "title": "विधेयकों पर अनुमति"
       },
       {
        "number": "112",
-       "title": "Annual financial statement"
+       "title": "वार्षिक वित्तीय विवरण"
       },
       {
        "number": "113",
-       "title": "Procedure in Parliament with respect to estimates"
+       "title": "संसद में प्राक्कलनों के संबंध में प्रक्रिया"
       },
       {
        "number": "114",
-       "title": "Appropriation Bills"
+       "title": "विनियोग विधेयक"
       },
       {
        "number": "115",
-       "title": "Supplementary, additional or excess grants"
+       "title": "अनुपूरक, अतिरिक्त या अधिक अनुदान"
       },
       {
        "number": "116",
-       "title": "Votes on account, votes of credit and exceptional grants"
+       "title": "लेखानुदान, प्रत्ययानुदान और अपवादानुदान"
       },
       {
        "number": "117",
-       "title": "Special provisions as to financial Bills"
+       "title": "वित्त विधेयकों के बारे में विशेष उपबंध"
       },
       {
        "number": "118",
-       "title": "Rules of procedure"
+       "title": "प्रक्रिया के नियम"
       },
       {
        "number": "119",
-       "title": "Regulation by law of procedure in Parliament in relation to"
+       "title": "संसद में वित्तीय कार्य संबंधी प्रक्रिया का विधि द्वारा विनियमन"
       },
       {
        "number": "120",
-       "title": "Language to be used in Parliament"
+       "title": "संसद में प्रयोग की जाने वाली भाषा"
       },
       {
        "number": "121",
-       "title": "Restriction on discussion in Parliament"
+       "title": "संसद में चर्चा पर निर्बंधन"
       },
       {
        "number": "122",
-       "title": "Courts not to inquire into proceedings of Parliament"
+       "title": "न्यायालयों द्वारा संसद की कार्यवाहियों की जांच न किया जाना"
       },
       {
        "number": "123",
-       "title": "Power of President to promulgate Ordinances during recess of"
+       "title": "संसद के विश्रांतिकाल में अध्यादेश प्रख्यापित करने की राष्ट्रपति की शक्ति"
       },
       {
        "number": "124",
-       "title": "Establishment and constitution of the Supreme Court"
+       "title": "उच्चतम न्यायालय की स्थापना और गठन"
       },
       {
        "number": "124A",
-       "title": "National Judicial Appointments Commission"
+       "title": "राष्ट्रीय न्यायिक नियुक्ति आयोग"
       },
       {
        "number": "124B",
-       "title": "Functions of Commission"
+       "title": "आयोग के कृत्य"
       },
       {
        "number": "124C",
-       "title": "Power of Parliament to make law"
+       "title": "विधि बनाने की संसद की शक्ति"
       },
       {
        "number": "125",
-       "title": "Salaries, etc., of Judges"
+       "title": "न्यायाधीशों के वेतन, आदि"
       },
       {
        "number": "126",
-       "title": "Appointment of acting Chief Justice"
+       "title": "कार्यकारी मुख्य न्यायमूर्ति की नियुक्ति"
       },
       {
        "number": "127",
-       "title": "Appointment of ad hoc Judges"
+       "title": "तदर्थ न्यायाधीशों की नियुक्ति"
       },
       {
        "number": "128",
-       "title": "Attendance of retired Judges at sittings of the Supreme Court"
+       "title": "उच्चतम न्यायालय की बैठकों में सेवानिवृत्ति न्यायाधीशों की उपस्थिति"
       },
       {
        "number": "129",
-       "title": "Supreme Court to be a court of record"
+       "title": "उच्चतम न्यायालय का अभिलेख न्यायालय होना"
       },
       {
        "number": "130",
-       "title": "Seat of Supreme Court"
+       "title": "उच्चतम न्यायालय का स्थान"
       },
       {
        "number": "131",
-       "title": "Original jurisdiction of the Supreme Court"
+       "title": "उच्चतम न्यायालय की आरंभिक अधिकारिता"
       },
       {
        "number": "131A",
-       "title": "Exclusive jurisdiction of the Supreme Court in regard to questions"
+       "title": "केन्द्रीय विधियों की सांविधानिक वैधता से संबंधित प्रश्नों के बारे में उच्चतम न्यायालय की अनन्य अधिकारिता"
       },
       {
        "number": "132",
-       "title": "Appellate jurisdiction of the Supreme Court in appeals from"
+       "title": "कुछ मामलों में उच्च न्यायालयों से अपीलों में उच्चतम न्यायालय की अपीलीय अधिकारिता"
       },
       {
        "number": "133",
-       "title": "Appellate jurisdiction of the Supreme Court in appeals from"
+       "title": "उच्च न्यायालयों से सिविल विषयों से संबंधित अपीलों में उच्चतम न्यायालय की अपीलीय अधिकारिता"
       },
       {
        "number": "134",
-       "title": "Appellate jurisdiction of the Supreme Court in regard to criminal"
+       "title": "दांडिक विषयों में उच्चतम न्यायालय की अपीलीय अधिकारिता"
       },
       {
        "number": "134A",
-       "title": "Certificate for appeal to the Supreme Court"
+       "title": "उच्चतम न्यायालय में अपील के लिए प्रमाणपत्र"
       },
       {
        "number": "135",
-       "title": "Jurisdiction and powers of the Federal Court under existing law"
+       "title": "विद्यमान विधि के अधीन फेडरल न्यायालय की अधिकारिता और शक्तियों का उच्चतम न्यायालय द्वारा प्रयोक्तव्य होना"
       },
       {
        "number": "136",
-       "title": "Special leave to appeal by the Supreme Court"
+       "title": "अपील के लिए उच्चतम न्यायालय की विशेष इजाजत"
       },
       {
        "number": "137",
-       "title": "Review of judgments or orders by the Supreme Court"
+       "title": "निर्णयों या आदेशों का उच्चतम न्यायालय द्वारा पुनर्विलोकन"
       },
       {
        "number": "138",
-       "title": "Enlargement of the jurisdiction of the Supreme Court"
+       "title": "उच्चतम न्यायालय की अधिकारिता की वृद्धि"
       },
       {
        "number": "139",
-       "title": "Conferment on the Supreme Court of powers to issue certain"
+       "title": "कुछ रिट निकालने की शक्तियों का उच्चतम न्यायालय को प्रदत्त किया जाना"
       },
       {
        "number": "139A",
-       "title": "Transfer of certain cases"
+       "title": "कुछ मामलों का अंतरण"
       },
       {
        "number": "140",
-       "title": "Ancillary powers of the Supreme Court"
+       "title": "उच्चतम न्यायालय की आनुषंगिक शक्तियां"
       },
       {
        "number": "141",
-       "title": "Law declared by Supreme Court to be binding on all courts"
+       "title": "उच्चतम न्यायालय द्वारा घोषित विधि का सभी न्यायालयों पर आबद्धकर होना"
       },
       {
        "number": "142",
-       "title": "Enforcement of decrees and orders of the Supreme Court and"
+       "title": "उच्चतम न्यायालय की डिक्रियों और आदेशों का प्रवर्तन और प्रकटीकरण आदि के बारे में आदेश"
       },
       {
        "number": "143",
-       "title": "Power of the President to consult the Supreme Court"
+       "title": "उच्चतम न्यायालय से परामर्श करने की राष्ट्रपति की शक्ति"
       },
       {
        "number": "144",
-       "title": "Civil and judicial authorities to act in aid of the Supreme"
+       "title": "सिविल और न्यायिक अधिकारियों द्वारा उच्चतम न्यायालय की सहायता में कार्य किया जाना"
       },
       {
        "number": "144A",
-       "title": "Special provisions as to disposal of"
+       "title": "विधियों की सांविधानिक वैधता से संबंधित प्रश्नों के निपटारे के बारे में विशेष उपबंध"
       },
       {
        "number": "145",
-       "title": "Rules of Court, etc"
+       "title": "न्यायालय के नियम, आदि"
       },
       {
        "number": "146",
-       "title": "Officers and servants and the expenses of the Supreme Court"
+       "title": "उच्चतम न्यायालय के अधिकारी और सेवक तथा व्यय"
       },
       {
        "number": "147",
-       "title": "Interpretation"
+       "title": "निर्वचन"
       },
       {
        "number": "148",
-       "title": "Comptroller and Auditor-General of India"
+       "title": "भारत का नियंत्रक-महालेखापरीक्षक"
       },
       {
        "number": "149",
-       "title": "Duties and powers of the Comptroller and Auditor-General"
+       "title": "नियंत्रक-महालेखापरीक्षक के कर्तव्य और शक्तियां"
       },
       {
        "number": "150",
-       "title": "Form of accounts of the Union and of the States"
+       "title": "संघ के और राज्यों के लेखाओं का प्ररूप"
       },
       {
        "number": "151",
-       "title": "Audit reports"
+       "title": "संपरीक्षा प्रतिवेदन"
       }
      ]
     },
@@ -737,363 +725,355 @@
      "sections": [
       {
        "number": "152",
-       "title": "Definition"
+       "title": "परिभाषा"
       },
       {
        "number": "153",
-       "title": "Governors of States"
+       "title": "राज्यों के राज्यपाल"
       },
       {
        "number": "154",
-       "title": "Executive power of State"
+       "title": "राज्य की कार्यपालिका शक्ति"
       },
       {
        "number": "155",
-       "title": "Appointment of Governor"
+       "title": "राज्यपाल की नियुक्ति"
       },
       {
        "number": "156",
-       "title": "Term of office of Governor"
+       "title": "राज्यपाल की पदावधि"
       },
       {
        "number": "157",
-       "title": "Qualifications for appointment as Governor"
+       "title": "राज्यपाल नियुक्त होने के लिए अर्हताएं"
       },
       {
        "number": "158",
-       "title": "Conditions of Governor’s office"
+       "title": "राज्यपाल के पद के लिए शर्तें"
       },
       {
        "number": "159",
-       "title": "Oath or affirmation by the Governor"
+       "title": "राज्यपाल द्वारा शपथ या प्रतिज्ञान"
       },
       {
        "number": "160",
-       "title": "Discharge of the functions of the Governor in certain"
+       "title": "कुछ आकस्मिकताओं में राज्यपाल के कृत्यों का निर्वहन"
       },
       {
        "number": "161",
-       "title": "Power of Governor to grant pardons, etc., and to suspend, remit"
+       "title": "क्षमा आदि की और कुछ मामलों में दंडादेश के निलंबन, परिहार या लघूकरण की राज्यपाल की शक्ति"
       },
       {
        "number": "162",
-       "title": "Extent of executive power of State"
+       "title": "राज्य की कार्यपालिका शक्ति का विस्तार"
       },
       {
        "number": "163",
-       "title": "Council of Ministers to aid and advise Governor"
+       "title": "राज्यपाल को सहायता और सलाह देने के लिए मंत्रिपरिषद"
       },
       {
        "number": "164",
-       "title": "Other provisions as to Ministers"
+       "title": "मंत्रियों के बारे में अन्य उपबंध"
       },
       {
        "number": "165",
-       "title": "Advocate-General for the State"
+       "title": "राज्य का महाधिवक्ता"
       },
       {
        "number": "166",
-       "title": "Conduct of business of the Government of a State"
+       "title": "राज्य की सरकार के कार्य का संचालन"
       },
       {
        "number": "167",
-       "title": "Duties of Chief Minister as respects the furnishing of"
+       "title": "राज्यपाल को जानकारी देने, आदि के संबंध में मुख्यमंत्री के कर्तव्य"
       },
       {
        "number": "168",
-       "title": "Constitution of Legislatures in States"
+       "title": "राज्यों में विधानमंडलों का गठन"
       },
       {
        "number": "169",
-       "title": "Abolition or creation of Legislative Councils in States"
+       "title": "राज्यों में विधान परिषदों का उत्सादन या सृजन"
       },
       {
        "number": "170",
-       "title": "Composition of the Legislative Assemblies"
+       "title": "विधान सभाओं की संरचना"
       },
       {
        "number": "171",
-       "title": "Composition of the Legislative Councils"
+       "title": "विधान परिषदों की संरचना"
       },
       {
        "number": "172",
-       "title": "Duration of State Legislatures"
+       "title": "राज्यों के विधानमंडलों की अवधि"
       },
       {
        "number": "173",
-       "title": "Qualification for membership of the State Legislature"
-      },
-      {
-       "number": "174",
-       "title": "Sessions of the State Legislature, prorogation and dissolution"
+       "title": "राज्य के विधानमंडल की सदस्यता के लिए अर्हता"
       },
       {
        "number": "175",
-       "title": "Right of Governor to address and send messages to the House or"
+       "title": "सदन या सदनों में अभिभाषण का और उनको संदेश भेजने का राज्यपाल का अधिकार"
       },
       {
        "number": "176",
-       "title": "Special address by the Governor"
+       "title": "राज्यपाल का विशेष अभिभाषण"
       },
       {
        "number": "177",
-       "title": "Rights of Ministers and Advocate-General as respects the"
+       "title": "सदनों के बारे में मंत्रियों और महाधिवक्ता के अधिकार"
       },
       {
        "number": "178",
-       "title": "The Speaker and Deputy Speaker of the Legislative Assembly"
+       "title": "विधान सभा का अध्यक्ष और उपाध्यक्ष"
       },
       {
        "number": "179",
-       "title": "Vacation and resignation of, and removal from, the offices of"
+       "title": "अध्यक्ष और उपाध्यक्ष के पद रिक्त होना, पदत्याग और पद से हटाया जाना"
       },
       {
        "number": "180",
-       "title": "Power of the Deputy Speaker or other person to perform the"
+       "title": "अध्यक्ष के पद के कर्तव्यों का पालन करने या अध्यक्ष के रूप में कार्य करने की उपाध्यक्ष या अन्य व्यक्ति की शक्ति"
       },
       {
        "number": "181",
-       "title": "The Speaker or the Deputy Speaker not to preside while a"
+       "title": "जब अध्यक्ष या उपाध्यक्ष को पद से हटाने का कोई संकल्प विचाराधीन है तब उसका पीठासीन न होना"
       },
       {
        "number": "182",
-       "title": "The Chairman and Deputy Chairman of the Legislative Council"
+       "title": "विधान परिषद का सभापति और उपसभापति"
       },
       {
        "number": "183",
-       "title": "Vacation and resignation of, and removal from, the offices of"
+       "title": "सभापति और उपसभापति के पद रिक्त होना, पदत्याग और पद से हटाया जाना"
       },
       {
        "number": "184",
-       "title": "Power of the Deputy Chairman or other person to perform the"
+       "title": "सभापति के पद के कर्तव्यों का पालन करने या सभापति के रूप में कार्य करने की उपसभापति या अन्य व्यक्ति की शक्ति"
       },
       {
        "number": "185",
-       "title": "The Chairman or the Deputy Chairman not to preside while a"
+       "title": "जब सभापति या उपसभापति को पद से हटाने का कोई संकल्प विचाराधीन है तब उसका पीठासीन न होना"
       },
       {
        "number": "186",
-       "title": "Salaries and allowances of the Speaker and Deputy Speaker and"
+       "title": "अध्यक्ष और उपाध्यक्ष तथा सभापति और उपसभापति के वेतन और भत्ते"
       },
       {
        "number": "187",
-       "title": "Secretariat of State Legislature"
+       "title": "राज्य के विधानमंडल का सचिवालय"
       },
       {
        "number": "188",
-       "title": "Oath or affirmation by members"
+       "title": "सदस्यों द्वारा शपथ या प्रतिज्ञान"
       },
       {
        "number": "189",
-       "title": "Voting in Houses, power of Houses to act notwithstanding"
+       "title": "सदनों में मतदान, रिक्तियों के होते हुए भी सदनों की कार्य करने की शक्ति और गणपूर्ति"
       },
       {
        "number": "190",
-       "title": "Vacation of seats"
+       "title": "स्थानों का रिक्त होना"
       },
       {
        "number": "191",
-       "title": "Disqualifications for membership"
+       "title": "सदस्यता के लिए निरर्हताएं"
       },
       {
        "number": "192",
-       "title": "Decision on questions as to disqualifications of members"
+       "title": "सदस्यों की निरर्हताओं से संबंधित प्रश्नों पर विनिश्चय"
       },
       {
        "number": "193",
-       "title": "Penalty for sitting and voting before making oath or affirmation"
+       "title": "अनुच्छेद 188 के अधीन शपथ लेने या प्रतिज्ञान करने से पहले या अर्हित न होते हुए या निरर्हित किए जाने पर बैठने और मत देने के लिए शास्ति"
       },
       {
        "number": "194",
-       "title": "Powers, privileges, etc., of the Houses of Legislatures and of the"
+       "title": "विधानमंडलों के सदनों की तथा उनके सदस्यों और समितियों की शक्तियां, विशेषाधिकार, आदि"
       },
       {
        "number": "195",
-       "title": "Salaries and allowances of members"
+       "title": "सदस्यों के वेतन और भत्ते"
       },
       {
        "number": "196",
-       "title": "Provisions as to introduction and passing of Bills"
+       "title": "विधेयकों के पुरःस्थापन और पारित किए जाने के संबंध में उपबंध"
       },
       {
        "number": "197",
-       "title": "Restriction on powers of Legislative Council as to Bills other"
+       "title": "धन विधेयकों से भिन्न विधेयकों के बारे में विधान परिषद की शक्तियों पर निर्बंधन"
       },
       {
        "number": "198",
-       "title": "Special procedure in respect of Money Bills"
+       "title": "धन विधेयकों के संबंध में विशेष प्रक्रिया"
       },
       {
        "number": "199",
-       "title": "Definition of “Money Bills”"
+       "title": "“धन विधेयक” की परिभाषा"
       },
       {
        "number": "200",
-       "title": "Assent to Bills"
+       "title": "विधेयकों पर अनुमति"
       },
       {
        "number": "201",
-       "title": "Bills reserved for consideration"
+       "title": "विचार के लिए आरक्षित विधेयक"
       },
       {
        "number": "202",
-       "title": "Annual financial statement"
+       "title": "वार्षिक वित्तीय विवरण"
       },
       {
        "number": "203",
-       "title": "Procedure in Legislature with respect to estimates"
+       "title": "विधानमंडल में प्राक्कलनों के संबंध में प्रक्रिया"
       },
       {
        "number": "204",
-       "title": "Appropriation Bills"
+       "title": "विनियोग विधेयक"
       },
       {
        "number": "205",
-       "title": "Supplementary, additional or excess grants"
+       "title": "अनुपूरक, अतिरिक्त या अधिक अनुदान"
       },
       {
        "number": "206",
-       "title": "Votes on account, votes of credit and exceptional grants"
+       "title": "लेखानुदान, प्रत्ययानुदान और अपवादानुदान"
       },
       {
        "number": "207",
-       "title": "Special provisions as to financial Bills"
+       "title": "वित्त विधेयकों के बारे में विशेष उपबंध"
       },
       {
        "number": "208",
-       "title": "Rules of procedure"
+       "title": "प्रक्रिया के नियम"
       },
       {
        "number": "209",
-       "title": "Regulation by law of procedure in the Legislature of the State in"
+       "title": "राज्य के विधानमंडल में वित्तीय कार्य संबंधी प्रक्रिया का विधि द्वारा विनियमन"
       },
       {
        "number": "210",
-       "title": "Language to be used in the Legislature"
+       "title": "विधानमंडल में प्रयोग की जाने वाली भाषा"
       },
       {
        "number": "211",
-       "title": "Restriction on discussion in the Legislature"
+       "title": "विधानमंडल में चर्चा पर निर्बंधन"
       },
       {
        "number": "212",
-       "title": "Courts not to inquire into proceedings of the Legislature"
+       "title": "न्यायालयों द्वारा विधानमंडल की कार्यवाहियों की जांच न किया जाना"
       },
       {
        "number": "213",
-       "title": "Power of Governor to promulgate Ordinances during recess of"
+       "title": "विधानमंडल के विश्रांतिकाल में अध्यादेश प्रख्यापित करने की राज्यपाल की शक्ति"
       },
       {
        "number": "214",
-       "title": "High Courts for States"
+       "title": "राज्यों के लिए उच्च न्यायालय"
       },
       {
        "number": "215",
-       "title": "High Courts to be courts of record"
+       "title": "उच्च न्यायालयों का अभिलेख न्यायालय होना"
       },
       {
        "number": "216",
-       "title": "Constitution of High Courts"
+       "title": "उच्च न्यायालयों का गठन"
       },
       {
        "number": "217",
-       "title": "Appointment and conditions of the office of a Judge of a High"
+       "title": "उच्च न्यायालय के न्यायाधीश की नियुक्ति और उसके पद की शर्तें"
       },
       {
        "number": "219",
-       "title": "Application of certain provisions relating to Supreme Court"
+       "title": "उच्च न्यायालयों के न्यायाधीशों द्वारा शपथ या प्रतिज्ञान"
       },
       {
        "number": "220",
-       "title": "Restriction on practice after being a permanent Judge"
+       "title": "स्थायी न्यायाधीश रहने के पश्चात विधि-व्यवसाय पर निर्बंधन"
       },
       {
        "number": "221",
-       "title": "Salaries, etc., of Judges"
+       "title": "न्यायाधीशों के वेतन आदि"
       },
       {
        "number": "222",
-       "title": "Transfer of a Judge from one High Court to another"
+       "title": "किसी न्यायाधीश का एक उच्च न्यायालय से दूसरे उच्च न्यायालय को अंतरण"
       },
       {
        "number": "223",
-       "title": "Appointment of acting Chief Justice"
+       "title": "कार्यकारी मुख्य न्यायमूर्ति की नियुक्ति"
       },
       {
        "number": "224",
-       "title": "Appointment of additional and acting Judges"
+       "title": "अपर और कार्यकारी न्यायाधीशों की नियुक्ति"
       },
       {
        "number": "224A",
-       "title": "Appointment of retired Judges at sittings of High Courts"
+       "title": "उच्च न्यायालयों की बैठकों में सेवानिवृत्त न्यायाधीशों की नियुक्ति"
       },
       {
        "number": "225",
-       "title": "Jurisdiction of existing High Courts"
+       "title": "विद्यमान उच्च न्यायालयों की अधिकारिता"
       },
       {
        "number": "226",
-       "title": "Power of High Courts to issue certain writs"
+       "title": "कुछ रिट निकालने की उच्च न्यायालयों की शक्ति"
       },
       {
        "number": "226A",
-       "title": "Constitutional validity of Central laws not to be considered in"
+       "title": "केन्द्रीय विधियों की सांविधानिक वैधता पर विचार न किया जाना"
       },
       {
        "number": "227",
-       "title": "Power of superintendence over all courts by the High Court"
+       "title": "सभी न्यायालयों के अधीक्षण की उच्च न्यायालय की शक्ति"
       },
       {
        "number": "228",
-       "title": "Transfer of certain cases to High Court"
+       "title": "कुछ मामलों का उच्च न्यायालय को अंतरण"
       },
       {
        "number": "228A",
-       "title": "Special provisions as to disposal of questions relating to"
+       "title": "राज्य विधियों की सांविधानिक वैधता से संबंधित प्रश्नों के निपटारे के बारे में विशेष उपबंध"
       },
       {
        "number": "229",
-       "title": "Officers and servants and the expenses of High Courts"
+       "title": "उच्च न्यायालयों के अधिकारी और सेवक तथा व्यय"
       },
       {
        "number": "230",
-       "title": "Extension of jurisdiction of High Courts to Union territories"
+       "title": "उच्च न्यायालयों की अधिकारिता का संघ राज्यक्षेत्रों पर विस्तार"
       },
       {
        "number": "231",
-       "title": "Establishment of a common High Court for two or more States"
+       "title": "दो या अधिक राज्यों के लिए एक ही उच्च न्यायालय की स्थापना"
       },
       {
        "number": "232",
-       "title": "Articles 230, 231 and 232 substituted by articles 230 and 231]"
+       "title": "निर्वचन"
       },
       {
        "number": "233",
-       "title": "Appointment of district judges"
+       "title": "जिला न्यायाधीशों की नियुक्ति"
       },
       {
        "number": "233A",
-       "title": "Validation of appointments of, and judgments, etc., delivered by,"
+       "title": "कुछ जिला न्यायाधीशों की नियुक्तियों का और उनके द्वारा किए गए निर्णयों आदि का विधिमान्यकरण"
       },
       {
        "number": "234",
-       "title": "Recruitment of persons other than district judges to the judicial"
+       "title": "न्यायिक सेवा में जिला न्यायाधीशों से भिन्न व्यक्तियों की भर्ती"
       },
       {
        "number": "235",
-       "title": "Control over subordinate courts"
+       "title": "अधीनस्थ न्यायालयों पर नियंत्रण"
       },
       {
        "number": "236",
-       "title": "Interpretation"
+       "title": "निर्वचन"
       },
       {
        "number": "237",
-       "title": "Application of the provisions of this Chapter to certain class or"
-      },
-      {
-       "number": "238",
-       "title": "Omitted"
+       "title": "कुछ वर्ग या वर्गों के मजिस्ट्रेटों पर इस अध्याय के उपबंधों का लागू होना"
       }
      ]
     },
@@ -1104,39 +1084,35 @@
      "sections": [
       {
        "number": "239",
-       "title": "Administration of Union territories"
-      },
-      {
-       "number": "239A",
-       "title": "Creation of local Legislatures or Council of Ministers or both for"
+       "title": "संघ राज्यक्षेत्रों का प्रशासन"
       },
       {
        "number": "239AA",
-       "title": "Special provisions with respect to Delhi"
+       "title": "दिल्ली के संबंध में विशेष उपबंध"
       },
       {
        "number": "239AB",
-       "title": "Provision in case of failure of constitutional machinery"
+       "title": "दिल्ली में संवैधानिक तंत्र की विफलता की दशा में उपबंध"
       },
       {
        "number": "239B",
-       "title": "Power of administrator to promulgate Ordinances during recess"
+       "title": "प्रशासक की अध्यादेश जारी करने की शक्ति"
       },
       {
        "number": "240",
-       "title": "Power of President to make regulations for certain Union"
+       "title": "कुछ संघ राज्यक्षेत्रों के लिए राष्ट्रपति द्वारा विनियम बनाने की शक्ति"
       },
       {
        "number": "241",
-       "title": "High Courts for Union territories"
+       "title": "संघ राज्यक्षेत्रों के लिए उच्च न्यायालय"
       },
       {
        "number": "242",
-       "title": "Coorg.⎯Omitted"
+       "title": "कुर्ग (अब लागू नहीं)"
       },
       {
        "number": "243",
-       "title": "Definitions"
+       "title": "परिभाषाएँ"
       }
      ]
     },
@@ -1147,55 +1123,51 @@
      "sections": [
       {
        "number": "243A",
-       "title": "Gram Sabha"
+       "title": "ग्राम सभा"
       },
       {
        "number": "243B",
-       "title": "Constitution of Panchayats"
+       "title": "पंचायतों का गठन"
       },
       {
        "number": "243C",
-       "title": "Composition of Panchayats"
+       "title": "पंचायतों की संरचना"
       },
       {
        "number": "243D",
-       "title": "Reservation of seats"
+       "title": "स्थानों का आरक्षण"
       },
       {
        "number": "243E",
-       "title": "Duration of Panchayats, etc"
+       "title": "पंचायतों की अवधि आदि"
       },
       {
        "number": "243F",
-       "title": "Disqualifications for membership"
+       "title": "सदस्यता के लिए निरर्हताएँ"
       },
       {
        "number": "243G",
-       "title": "Powers, authority and responsibilities of Panchayats"
+       "title": "पंचायतों की शक्तियाँ, प्राधिकार और उत्तरदायित्व"
       },
       {
        "number": "243H",
-       "title": "Powers to impose taxes by, and Funds of, the Panchayats"
+       "title": "पंचायतों द्वारा कर लगाने की शक्ति और उनकी निधियाँ"
       },
       {
        "number": "243J",
-       "title": "Audit of accounts of Panchayats"
+       "title": "पंचायतों के लेखाओं की लेखा-परीक्षा"
       },
       {
        "number": "243K",
-       "title": "Elections to the Panchayats"
+       "title": "पंचायतों के निर्वाचन"
       },
       {
        "number": "243L",
-       "title": "Application to Union territories"
+       "title": "संघ राज्यक्षेत्रों पर लागू होना"
       },
       {
        "number": "243M",
-       "title": "Part not to apply to certain areas"
-      },
-      {
-       "number": "243N",
-       "title": "Continuance of existing laws and Panchayats"
+       "title": "कुछ क्षेत्रों पर इस भाग का लागू न होना"
       }
      ]
     },
@@ -1205,76 +1177,72 @@
      "titleEn": "The Municipalities",
      "sections": [
       {
-       "number": "243P",
-       "title": "Definitions"
-      },
-      {
        "number": "243Q",
-       "title": "Constitution of Municipalities"
+       "title": "नगरपालिकाओं का गठन"
       },
       {
        "number": "243R",
-       "title": "Composition of Municipalities"
+       "title": "नगरपालिकाओं की संरचना"
       },
       {
        "number": "243S",
-       "title": "Constitution and composition of Wards Committees, etc"
+       "title": "वार्ड समितियों का गठन और संरचना"
       },
       {
        "number": "243T",
-       "title": "Reservation of seats"
+       "title": "स्थानों का आरक्षण"
       },
       {
        "number": "243U",
-       "title": "Duration of Municipalities, etc"
+       "title": "नगरपालिकाओं की अवधि आदि"
       },
       {
        "number": "243V",
-       "title": "Disqualifications for membership"
+       "title": "सदस्यता के लिए निरर्हताएँ"
       },
       {
        "number": "243W",
-       "title": "Powers, authority and responsibilities of Municipalities, etc"
+       "title": "नगरपालिकाओं की शक्तियाँ, प्राधिकार और उत्तरदायित्व"
       },
       {
        "number": "243X",
-       "title": "Power to impose taxes by, and Funds of, the Municipalities"
+       "title": "नगरपालिकाओं द्वारा कर लगाने की शक्ति और निधियाँ"
       },
       {
        "number": "243Y",
-       "title": "Finance Commission"
+       "title": "वित्त आयोग"
       },
       {
        "number": "243Z",
-       "title": "Audit of accounts of Municipalities"
+       "title": "नगरपालिकाओं के लेखाओं की लेखा-परीक्षा"
       },
       {
        "number": "243ZA",
-       "title": "Elections to the Municipalities"
+       "title": "नगरपालिकाओं के निर्वाचन"
       },
       {
        "number": "243ZB",
-       "title": "Application to Union territories"
+       "title": "संघ राज्यक्षेत्रों पर लागू होना"
       },
       {
        "number": "243ZC",
-       "title": "Part not to apply to certain areas"
+       "title": "कुछ क्षेत्रों पर इस भाग का लागू न होना"
       },
       {
        "number": "243ZD",
-       "title": "Committee for district planning"
+       "title": "जिला योजना समिति"
       },
       {
        "number": "243ZE",
-       "title": "Committee for Metropolitan planning"
+       "title": "महानगर योजना समिति"
       },
       {
        "number": "243ZF",
-       "title": "Continuance of existing laws and Municipalities"
+       "title": "विद्यमान कानूनों और नगरपालिकाओं का बने रहना"
       },
       {
        "number": "243ZG",
-       "title": "Bar to interference by courts in electoral matters"
+       "title": "निर्वाचन विषयों में न्यायालयों के हस्तक्षेप का वर्जन"
       }
      ]
     },
@@ -1285,47 +1253,47 @@
      "sections": [
       {
        "number": "243ZH",
-       "title": "Definitions"
+       "title": "परिभाषाएँ"
       },
       {
        "number": "243ZJ",
-       "title": "Number and term of members of board and its office bearers"
+       "title": "बोर्ड के सदस्यों की संख्या और उनका कार्यकाल"
       },
       {
        "number": "243ZK",
-       "title": "Election of members of board"
+       "title": "बोर्ड के सदस्यों का निर्वाचन"
       },
       {
        "number": "243ZL",
-       "title": "Supersession and suspension of board and interim management"
+       "title": "बोर्ड का अधिग्रहण और निलंबन तथा अंतरिम प्रबंध"
       },
       {
        "number": "243ZM",
-       "title": "Audit of accounts of co-operative societies"
+       "title": "सहकारी समितियों के लेखाओं की लेखा-परीक्षा"
       },
       {
        "number": "243ZN",
-       "title": "Convening of general body meetings"
+       "title": "साधारण सभा की बैठकें बुलाना"
       },
       {
        "number": "243ZP",
-       "title": "Returns"
+       "title": "विवरणियाँ"
       },
       {
        "number": "243ZQ",
-       "title": "Offences and penalties"
+       "title": "अपराध और शास्तियाँ"
       },
       {
        "number": "243ZR",
-       "title": "Application to multi-State co-operative societies"
+       "title": "बहुराज्यीय सहकारी समितियों को लागू होना"
       },
       {
        "number": "243ZS",
-       "title": "Application to Union territories"
+       "title": "संघ राज्यक्षेत्रों को लागू होना"
       },
       {
        "number": "243ZT",
-       "title": "Continuance of existing laws"
+       "title": "विद्यमान कानूनों का बने रहना"
       }
      ]
     },
@@ -1336,11 +1304,11 @@
      "sections": [
       {
        "number": "244",
-       "title": "Administration of Scheduled Areas and Tribal Areas"
+       "title": "अनुसूचित क्षेत्रों और जनजातीय क्षेत्रों का प्रशासन"
       },
       {
        "number": "244A",
-       "title": "Formation of an autonomous State comprising certain tribal"
+       "title": "असम के भीतर स्वायत्त राज्य का गठन"
       }
      ]
     },
@@ -1351,91 +1319,91 @@
      "sections": [
       {
        "number": "245",
-       "title": "Extent of laws made by Parliament and by the Legislatures of"
+       "title": "संसद और राज्य विधानमंडलों द्वारा बनाए गए कानूनों का विस्तार"
       },
       {
        "number": "246",
-       "title": "Subject-matter of laws made by Parliament and by the"
+       "title": "संसद और राज्य विधानमंडलों की विधायन शक्ति का विषय-क्षेत्र"
       },
       {
        "number": "246A",
-       "title": "Special provision with respect to goods and services tax"
+       "title": "वस्तु एवं सेवा कर के संबंध में विशेष उपबंध"
       },
       {
        "number": "247",
-       "title": "Power of Parliament to provide for the establishment of certain"
+       "title": "संसद की अतिरिक्त न्यायालय स्थापित करने की शक्ति"
       },
       {
        "number": "248",
-       "title": "Residuary powers of legislation"
+       "title": "अवशिष्ट विधायी शक्तियाँ"
       },
       {
        "number": "249",
-       "title": "Power of Parliament to legislate with respect to a matter in the"
+       "title": "राष्ट्रीय हित में राज्य सूची के विषय पर संसद की शक्ति"
       },
       {
        "number": "250",
-       "title": "Power of Parliament to legislate with respect to any matter in the"
+       "title": "आपात की उद्घोषणा के दौरान संसद की शक्ति"
       },
       {
        "number": "251",
-       "title": "Inconsistency between laws made by Parliament under articles"
+       "title": "अनुच्छेद 249 और 250 के अधीन बने कानूनों में असंगति"
       },
       {
        "number": "252",
-       "title": "Power of Parliament to legislate for two or more States by"
+       "title": "दो या अधिक राज्यों की सहमति से संसद की शक्ति"
       },
       {
        "number": "253",
-       "title": "Legislation for giving effect to international agreements"
+       "title": "अंतरराष्ट्रीय करारों को प्रभावी करने का विधान"
       },
       {
        "number": "254",
-       "title": "Inconsistency between laws made by Parliament and laws made"
+       "title": "समवर्ती सूची के विषयों पर बने कानूनों में असंगति"
       },
       {
        "number": "255",
-       "title": "Requirements as to recommendations and previous sanctions to"
+       "title": "सिफ़ारिशों और पूर्व मंज़ूरी की अपेक्षाएँ"
       },
       {
        "number": "256",
-       "title": "Obligation of States and the Union"
+       "title": "राज्यों और संघ का दायित्व"
       },
       {
        "number": "257",
-       "title": "Control of the Union over States in certain cases"
+       "title": "कुछ मामलों में राज्यों पर संघ का नियंत्रण"
       },
       {
        "number": "257A",
-       "title": "Assistance to States by deployment of armed forces or other"
+       "title": "सशस्त्र बलों की तैनाती द्वारा राज्यों को सहायता (अब लागू नहीं)"
       },
       {
        "number": "258",
-       "title": "Power of the Union to confer powers, etc., on States in certain"
+       "title": "राज्यों को शक्तियाँ देने की संघ की शक्ति"
       },
       {
        "number": "258A",
-       "title": "Power of the States to entrust functions to the Union"
+       "title": "संघ को कार्य सौंपने की राज्यों की शक्ति"
       },
       {
        "number": "259",
-       "title": "Armed Forces in States in Part B of the First Schedule.⎯"
+       "title": "भाग ख के राज्यों में सशस्त्र बल (अब लागू नहीं)"
       },
       {
        "number": "260",
-       "title": "Jurisdiction of the Union in relation to territories outside India"
+       "title": "भारत के बाहर के राज्यक्षेत्रों के संबंध में संघ का अधिकार क्षेत्र"
       },
       {
        "number": "261",
-       "title": "Public acts, records and judicial proceedings"
+       "title": "लोक कृत्यों, अभिलेखों और न्यायिक कार्यवाहियों को पूर्ण विश्वास और मान्यता"
       },
       {
        "number": "262",
-       "title": "Adjudication of disputes relating to waters of inter-State rivers"
+       "title": "अंतरराज्यीय नदियों के जल संबंधी विवादों का न्यायनिर्णयन"
       },
       {
        "number": "263",
-       "title": "Provisions with respect to an inter-State Council"
+       "title": "अंतरराज्यीय परिषद के संबंध में उपबंध"
       }
      ]
     },
@@ -1446,171 +1414,167 @@
      "sections": [
       {
        "number": "264",
-       "title": "Interpretation"
+       "title": "निर्वचन"
       },
       {
        "number": "265",
-       "title": "Taxes not to be imposed save by authority of law"
+       "title": "विधि के प्राधिकार के बिना कर लगाना वर्जित"
       },
       {
        "number": "266",
-       "title": "Consolidated Funds and public accounts of India and of the"
+       "title": "भारत और राज्यों की संचित निधियाँ और लोक लेखे"
       },
       {
        "number": "267",
-       "title": "Contingency Fund"
+       "title": "आकस्मिकता निधि"
       },
       {
        "number": "268",
-       "title": "Duties levied by the Union but collected and appropriated by the"
-      },
-      {
-       "number": "268A",
-       "title": "Service tax levied by Union and collected by the Union and the"
+       "title": "संघ द्वारा लगाए गए पर राज्यों द्वारा उद्गृहीत और विनियोजित शुल्क"
       },
       {
        "number": "269",
-       "title": "Taxes levied and collected by the Union but assigned to the"
+       "title": "संघ द्वारा लगाए और उद्गृहीत किए गए पर राज्यों को समनुदेशित कर"
       },
       {
        "number": "269A",
-       "title": "Levy and collection of goods and services tax in course of inter-"
+       "title": "अंतरराज्यीय व्यापार या वाणिज्य के दौरान वस्तु एवं सेवा कर का उपबंध और संग्रहण"
       },
       {
        "number": "270",
-       "title": "Taxes levied and distributed between the Union and the States"
+       "title": "संघ और राज्यों के बीच वितरित किए जाने वाले कर"
       },
       {
        "number": "271",
-       "title": "Surcharge on certain duties and taxes for purposes of the Union"
+       "title": "संघ के प्रयोजनों के लिए कुछ शुल्कों और करों पर अधिभार"
       },
       {
        "number": "272",
-       "title": "Taxes which are levied and collected by the Union and may be"
+       "title": "संघ द्वारा लगाए और उद्गृहीत किए जाने वाले और संघ तथा राज्यों के बीच वितरित किए जा सकने वाले कर"
       },
       {
        "number": "273",
-       "title": "Grants in lieu of export duty on jute and jute products"
+       "title": "जूट और जूट उत्पादों पर निर्यात शुल्क के बदले अनुदान"
       },
       {
        "number": "274",
-       "title": "Prior recommendation of President required to Bills affecting"
+       "title": "राज्यों के हित से संबंधित कराधान को प्रभावित करने वाले विधेयकों के लिए राष्ट्रपति की पूर्व सिफ़ारिश अपेक्षित"
       },
       {
        "number": "275",
-       "title": "Grants from the Union to certain States"
+       "title": "कुछ राज्यों को संघ से अनुदान"
       },
       {
        "number": "276",
-       "title": "Taxes on professions, trades, callings and employments"
+       "title": "व्यवसायों, तिजारतों, वृत्तियों और नियोजनों पर कर"
       },
       {
        "number": "277",
-       "title": "Savings"
+       "title": "बचाव"
       },
       {
        "number": "278",
-       "title": "Agreement with States in Part B of the First Schedule with"
+       "title": "प्रथम अनुसूची के भाग ख के राज्यों के साथ वित्तीय विषयों के संबंध में करार"
       },
       {
        "number": "279",
-       "title": "Calculation of “net proceeds”, etc"
+       "title": "'निवल आय' आदि की गणना"
       },
       {
        "number": "279A",
-       "title": "Goods and Services Tax Council"
+       "title": "वस्तु एवं सेवा कर परिषद"
       },
       {
        "number": "280",
-       "title": "Finance Commission"
+       "title": "वित्त आयोग"
       },
       {
        "number": "281",
-       "title": "Recommendations of the Finance Commission"
+       "title": "वित्त आयोग की सिफ़ारिशें"
       },
       {
        "number": "282",
-       "title": "Expenditure defrayable by the Union or a State out of its"
+       "title": "संघ या राज्य द्वारा अपने राजस्व में से व्यय करने योग्य व्यय"
       },
       {
        "number": "283",
-       "title": "Custody, etc., of Consolidated Funds, Contingency Funds and"
+       "title": "संचित निधियों, आकस्मिकता निधियों और लोक लेखों में जमा धन की अभिरक्षा"
       },
       {
        "number": "284",
-       "title": "Custody of suitors’"
+       "title": "वादियों की जमा राशि और लोक सेवकों तथा न्यायालयों द्वारा प्राप्त अन्य धन की अभिरक्षा"
       },
       {
        "number": "285",
-       "title": "Exemption of property of the Union from State taxation"
+       "title": "संघ की संपत्ति को राज्य के कराधान से छूट"
       },
       {
        "number": "286",
-       "title": "Restrictions as to imposition of tax on the sale or purchase of"
+       "title": "वस्तुओं के विक्रय या क्रय पर कर लगाने के संबंध में निर्बंधन"
       },
       {
        "number": "287",
-       "title": "Exemption from taxes on electricity"
+       "title": "विद्युत पर करों से छूट"
       },
       {
        "number": "288",
-       "title": "Exemption from taxation by States in respect of water or"
+       "title": "कुछ दशाओं में जल या विद्युत के संबंध में राज्यों द्वारा कराधान से छूट"
       },
       {
        "number": "289",
-       "title": "Exemption of property and income of a State from Union"
+       "title": "राज्य की संपत्ति और आय को संघ के कराधान से छूट"
       },
       {
        "number": "290",
-       "title": "Adjustment in respect of certain expenses and pensions"
+       "title": "कुछ व्ययों और पेंशनों के संबंध में समायोजन"
       },
       {
        "number": "290A",
-       "title": "Annual payment to certain Devaswom Funds"
+       "title": "कुछ देवस्वोम निधियों को वार्षिक संदाय"
       },
       {
        "number": "291",
-       "title": "Privy purse sums of Rulers.⎯Omitted"
+       "title": "शासकों की प्रिवी पर्स राशियाँ"
       },
       {
        "number": "292",
-       "title": "Borrowing by the Government of India"
+       "title": "भारत सरकार द्वारा उधार लेना"
       },
       {
        "number": "293",
-       "title": "Borrowing by States"
+       "title": "राज्यों द्वारा उधार लेना"
       },
       {
        "number": "294",
-       "title": "Succession to property, assets, rights, liabilities and obligations"
+       "title": "कुछ दशाओं में संपत्ति, परिसंपत्तियों, अधिकारों, दायित्वों और बाध्यताओं का उत्तराधिकार"
       },
       {
        "number": "295",
-       "title": "Succession to property, assets, rights, liabilities and obligations"
+       "title": "अन्य दशाओं में संपत्ति, परिसंपत्तियों, अधिकारों, दायित्वों और बाध्यताओं का उत्तराधिकार"
       },
       {
        "number": "296",
-       "title": "Property accruing by escheat or lapse or as bona vacantia"
+       "title": "राज्यक्षेपण या व्यपगम या निहित स्वामित्व-रहित संपत्ति के रूप में प्राप्त संपत्ति"
       },
       {
        "number": "297",
-       "title": "Things of value within territorial waters or continental shelf and"
+       "title": "राज्यक्षेत्रीय जल या महाद्वीपीय शेल्फ के भीतर मूल्य की वस्तुएँ और अनन्य आर्थिक क्षेत्र के संसाधन संघ में निहित"
       },
       {
        "number": "298",
-       "title": "Power to carry on trade, etc"
+       "title": "व्यापार आदि करने की शक्ति"
       },
       {
        "number": "299",
-       "title": "Contracts"
+       "title": "संविदाएँ"
       },
       {
        "number": "300",
-       "title": "Suits and proceedings"
+       "title": "वाद और कार्यवाहियाँ"
       },
       {
        "number": "300A",
-       "title": "Persons not to be deprived of property save by authority of law"
+       "title": "विधि के प्राधिकार के बिना व्यक्तियों को संपत्ति से वंचित न किया जाए"
       }
      ]
     },
@@ -1621,31 +1585,31 @@
      "sections": [
       {
        "number": "301",
-       "title": "Freedom of trade, commerce and intercourse"
+       "title": "व्यापार, वाणिज्य और समागम की स्वतंत्रता"
       },
       {
        "number": "302",
-       "title": "Power of Parliament to impose restrictions on trade, commerce"
+       "title": "व्यापार, वाणिज्य और समागम पर निर्बंधन लगाने की संसद की शक्ति"
       },
       {
        "number": "303",
-       "title": "and intercourse"
+       "title": "व्यापार और वाणिज्य के संबंध में संघ और राज्यों की विधायी शक्तियों पर निर्बंधन"
       },
       {
        "number": "304",
-       "title": "Restrictions on trade, commerce and intercourse among States"
+       "title": "राज्यों के बीच व्यापार, वाणिज्य और समागम पर निर्बंधन"
       },
       {
        "number": "305",
-       "title": "Saving of existing laws and laws providing for State monopolies"
+       "title": "विद्यमान कानूनों और राज्य एकाधिकार का उपबंध करने वाले कानूनों का बचाव"
       },
       {
        "number": "306",
-       "title": "Power of certain States in Part B of the First Schedule to"
+       "title": "प्रथम अनुसूची के भाग ख के कुछ राज्यों की व्यापार और वाणिज्य पर निर्बंधन लगाने की शक्ति"
       },
       {
        "number": "307",
-       "title": "Appointment of authority for carrying out the purposes of"
+       "title": "अनुच्छेद 301 से 304 के प्रयोजनों को कार्यान्वित करने के लिए प्राधिकारी की नियुक्ति"
       }
      ]
     },
@@ -1656,71 +1620,71 @@
      "sections": [
       {
        "number": "308",
-       "title": "Interpretation"
+       "title": "निर्वचन"
       },
       {
        "number": "309",
-       "title": "Recruitment and conditions of service of persons serving the"
+       "title": "संघ या राज्य की सेवा करने वाले व्यक्तियों की भरती और सेवा की शर्तें"
       },
       {
        "number": "310",
-       "title": "Tenure of office of persons serving the Union or a State"
+       "title": "संघ या राज्य की सेवा करने वाले व्यक्तियों का पदाधिकार"
       },
       {
        "number": "311",
-       "title": "Dismissal, removal or reduction in rank of persons employed in"
+       "title": "संघ या राज्य के अधीन दीवानी रूप में नियोजित व्यक्तियों की बर्खास्तगी, हटाया जाना या पद में अवनति"
       },
       {
        "number": "312",
-       "title": "All-India services"
+       "title": "अखिल भारतीय सेवाएँ"
       },
       {
        "number": "312A",
-       "title": "Power of Parliament to vary or revoke conditions of service of"
+       "title": "कुछ सेवाओं के अधिकारियों की सेवा की शर्तों में परिवर्तन या उन्हें रद्द करने की संसद की शक्ति"
       },
       {
        "number": "313",
-       "title": "Transitional provisions"
+       "title": "संक्रमणकालीन उपबंध"
       },
       {
        "number": "314",
-       "title": "Provision for protection of existing officers of certain services.⎯"
+       "title": "कुछ सेवाओं के विद्यमान अधिकारियों की रक्षा का उपबंध"
       },
       {
        "number": "315",
-       "title": "Public Service Commissions for the Union and for the States"
+       "title": "संघ और राज्यों के लिए लोक सेवा आयोग"
       },
       {
        "number": "316",
-       "title": "Appointment and term of office of members"
+       "title": "सदस्यों की नियुक्ति और पदावधि"
       },
       {
        "number": "317",
-       "title": "Removal and suspension of a member of a Public Service"
+       "title": "लोक सेवा आयोग के सदस्य का हटाया जाना और निलंबन"
       },
       {
        "number": "318",
-       "title": "Power to make regulations as to conditions of service of"
+       "title": "आयोग के सदस्यों और कर्मचारियों की सेवा की शर्तों के बारे में विनियम बनाने की शक्ति"
       },
       {
        "number": "319",
-       "title": "Prohibition as to the holding of offices by members of"
+       "title": "आयोग के सदस्य होने से निवृत्त होने पर पद धारण करने का प्रतिषेध"
       },
       {
        "number": "320",
-       "title": "Functions of Public Service Commissions"
+       "title": "लोक सेवा आयोगों के कृत्य"
       },
       {
        "number": "321",
-       "title": "Power to extend functions of Public Service Commissions"
+       "title": "लोक सेवा आयोगों के कृत्यों का विस्तार करने की शक्ति"
       },
       {
        "number": "322",
-       "title": "Expenses of Public Service Commissions"
+       "title": "लोक सेवा आयोगों के व्यय"
       },
       {
        "number": "323",
-       "title": "Reports of Public Service Commissions"
+       "title": "लोक सेवा आयोगों के प्रतिवेदन"
       }
      ]
     },
@@ -1731,11 +1695,11 @@
      "sections": [
       {
        "number": "323A",
-       "title": "Administrative tribunals"
+       "title": "प्रशासनिक अधिकरण"
       },
       {
        "number": "323B",
-       "title": "Tribunals for other matters"
+       "title": "अन्य विषयों के लिए अधिकरण"
       }
      ]
     },
@@ -1746,31 +1710,27 @@
      "sections": [
       {
        "number": "324",
-       "title": "Superintendence, direction and control of elections to be vested"
+       "title": "निर्वाचनों का अधीक्षण, निदेशन और नियंत्रण निर्वाचन आयोग में निहित"
       },
       {
        "number": "325",
-       "title": "No person to be ineligible for inclusion in, or to claim to be"
+       "title": "धर्म, मूलवंश, जाति या लिंग के आधार पर निर्वाचन-नामावली में सम्मिलित किए जाने के लिए कोई व्यक्ति निरर्हित नहीं"
       },
       {
        "number": "326",
-       "title": "Elections to the House of the People and to the Legislative"
+       "title": "लोकसभा और राज्यों की विधानसभाओं के निर्वाचन वयस्क मताधिकार के आधार पर"
       },
       {
        "number": "327",
-       "title": "Power of Parliament to make provision with respect to elections"
+       "title": "विधानमंडलों के निर्वाचनों के संबंध में उपबंध करने की संसद की शक्ति"
       },
       {
        "number": "328",
-       "title": "Power of Legislature of a State to make provision with respect to"
+       "title": "ऐसे विधानमंडल के निर्वाचनों के संबंध में उपबंध करने की राज्य के विधानमंडल की शक्ति"
       },
       {
        "number": "329",
-       "title": "Bar to interference by courts in electoral matters"
-      },
-      {
-       "number": "329A",
-       "title": "Special provision as to elections to Parliament in the case of"
+       "title": "निर्वाचन विषयों में न्यायालयों के हस्तक्षेप का वर्जन"
       }
      ]
     },
@@ -1781,67 +1741,67 @@
      "sections": [
       {
        "number": "330A",
-       "title": "Reservation of seats for Scheduled Castes and Scheduled Tribes"
+       "title": "लोकसभा में महिलाओं के लिए स्थानों का आरक्षण"
       },
       {
        "number": "331",
-       "title": "Representation of the Anglo-Indian community in the House of"
+       "title": "लोकसभा में आंग्ल-भारतीय समुदाय का प्रतिनिधित्व"
       },
       {
        "number": "332A",
-       "title": "Reservation of seats for Scheduled Castes and Scheduled Tribes"
+       "title": "राज्यों की विधानसभाओं में महिलाओं के लिए स्थानों का आरक्षण"
       },
       {
        "number": "333",
-       "title": "Representation"
+       "title": "राज्यों की विधानसभाओं में आंग्ल-भारतीय समुदाय का प्रतिनिधित्व"
       },
       {
        "number": "334A",
-       "title": "Reservation of seats and special representation to cease after"
+       "title": "महिलाओं के लिए स्थानों का आरक्षण कब प्रभावी होगा"
       },
       {
        "number": "335",
-       "title": "Claims of Scheduled Castes and Scheduled Tribes to services"
+       "title": "अनुसूचित जातियों और अनुसूचित जनजातियों का सेवाओं और पदों पर दावा"
       },
       {
        "number": "336",
-       "title": "Special provision for Anglo-Indian community in certain"
+       "title": "कुछ सेवाओं में आंग्ल-भारतीय समुदाय के लिए विशेष उपबंध"
       },
       {
        "number": "337",
-       "title": "Special provision with respect to educational grants for the"
+       "title": "आंग्ल-भारतीय समुदाय के लाभ के लिए शिक्षा अनुदान के संबंध में विशेष उपबंध"
       },
       {
        "number": "338",
-       "title": "National Commission for Scheduled Castes"
+       "title": "राष्ट्रीय अनुसूचित जाति आयोग"
       },
       {
        "number": "338A",
-       "title": "National Commission for Scheduled Tribes"
+       "title": "राष्ट्रीय अनुसूचित जनजाति आयोग"
       },
       {
        "number": "338B",
-       "title": "National Commission for Backward Classes"
+       "title": "राष्ट्रीय पिछड़ा वर्ग आयोग"
       },
       {
        "number": "339",
-       "title": "Control of the Union over the administration of Scheduled Areas"
+       "title": "अनुसूचित क्षेत्रों के प्रशासन और अनुसूचित जनजातियों के कल्याण पर संघ का नियंत्रण"
       },
       {
        "number": "340",
-       "title": "Appointment of a Commission to investigate the conditions of"
+       "title": "पिछड़े वर्गों की दशाओं की जाँच के लिए आयोग की नियुक्ति"
       },
       {
        "number": "341",
-       "title": "Scheduled Castes"
+       "title": "अनुसूचित जातियाँ"
       },
       {
        "number": "342",
-       "title": "Scheduled Tribes"
+       "title": "अनुसूचित जनजातियाँ"
       },
       {
        "number": "342A",
-       "title": "Socially and educationally backward classes"
+       "title": "सामाजिक और शैक्षिक रूप से पिछड़े वर्ग"
       }
      ]
     },
@@ -1852,47 +1812,47 @@
      "sections": [
       {
        "number": "343",
-       "title": "Official language of the Union"
+       "title": "संघ की राजभाषा"
       },
       {
        "number": "344",
-       "title": "Commission and Committee of Parliament on official language"
+       "title": "राजभाषा पर आयोग और संसद की समिति"
       },
       {
        "number": "345",
-       "title": "Official language or languages of a State"
+       "title": "राज्य की राजभाषा या राजभाषाएँ"
       },
       {
        "number": "346",
-       "title": "Official language for communication between one State and"
+       "title": "एक राज्य और दूसरे राज्य के बीच या राज्य और संघ के बीच पत्र-व्यवहार की भाषा"
       },
       {
        "number": "347",
-       "title": "Special provision relating to language spoken by a section of the"
+       "title": "राज्य की जनसंख्या के एक वर्ग द्वारा बोली जाने वाली भाषा से संबंधित विशेष उपबंध"
       },
       {
        "number": "348",
-       "title": "Language to be used in the Supreme Court and in the High"
+       "title": "उच्चतम न्यायालय और उच्च न्यायालयों में तथा अधिनियमों, विधेयकों आदि के लिए प्रयोग की जाने वाली भाषा"
       },
       {
        "number": "349",
-       "title": "Special procedure for enactment of certain laws relating to"
+       "title": "भाषा से संबंधित कुछ विधियाँ अधिनियमित करने की विशेष प्रक्रिया"
       },
       {
        "number": "350",
-       "title": "Language to be used in representations for redress of grievances"
+       "title": "शिकायतों के निवारण के लिए अभ्यावेदनों में प्रयोग की जाने वाली भाषा"
       },
       {
        "number": "350A",
-       "title": "Facilities for instruction in mother-tongue at primary stage"
+       "title": "प्राथमिक अवस्था में मातृभाषा में शिक्षा की सुविधाएँ"
       },
       {
        "number": "350B",
-       "title": "Special Officer for linguistic minorities"
+       "title": "भाषाई अल्पसंख्यकों के लिए विशेष अधिकारी"
       },
       {
        "number": "351",
-       "title": "Directive for development of the Hindi language"
+       "title": "हिंदी भाषा के विकास के लिए निदेश"
       }
      ]
     },
@@ -1903,43 +1863,39 @@
      "sections": [
       {
        "number": "352",
-       "title": "Proclamation of Emergency"
+       "title": "आपात की उद्घोषणा"
       },
       {
        "number": "353",
-       "title": "Effect of Proclamation of Emergency"
+       "title": "आपात की उद्घोषणा का प्रभाव"
       },
       {
        "number": "354",
-       "title": "Application of provisions relating to distribution of revenues"
+       "title": "आपात की उद्घोषणा के प्रवर्तन के दौरान राजस्व के वितरण से संबंधित उपबंधों का लागू होना"
       },
       {
        "number": "355",
-       "title": "Duty of the Union to protect States against external aggression"
+       "title": "राज्यों को बाह्य आक्रमण और आंतरिक अशांति से बचाने का संघ का कर्तव्य"
       },
       {
        "number": "356",
-       "title": "Provisions in case of failure of constitutional machinery in"
+       "title": "राज्यों में संवैधानिक तंत्र की विफलता की दशा में उपबंध"
       },
       {
        "number": "357",
-       "title": "Exercise of legislative powers under Proclamation issued under"
+       "title": "अनुच्छेद 356 के अधीन जारी उद्घोषणा के अधीन विधायी शक्तियों का प्रयोग"
       },
       {
        "number": "358",
-       "title": "Suspension of provisions of article 19 during emergencies"
+       "title": "आपातों के दौरान अनुच्छेद 19 के उपबंधों का निलंबन"
       },
       {
        "number": "359",
-       "title": "Suspension of the enforcement of the rights conferred by Part III"
-      },
-      {
-       "number": "359A",
-       "title": "Application of this Part to the State of Punjab.⎯Omitted"
+       "title": "आपातों के दौरान भाग 3 द्वारा प्रदत्त अधिकारों के प्रवर्तन का निलंबन"
       },
       {
        "number": "360",
-       "title": "Provisions as to financial emergency"
+       "title": "वित्तीय आपात के संबंध में उपबंध"
       }
      ]
     },
@@ -1950,43 +1906,43 @@
      "sections": [
       {
        "number": "361",
-       "title": "Protection of President and Governors and Rajpramukhs"
+       "title": "राष्ट्रपति और राज्यपालों तथा राजप्रमुखों की रक्षा"
       },
       {
        "number": "361A",
-       "title": "Protection of publication of proceedings of Parliament and State"
+       "title": "संसद और राज्य विधानमंडलों की कार्यवाहियों के प्रकाशन की रक्षा"
       },
       {
        "number": "361B",
-       "title": "Disqualification for appointment on remunerative political post"
+       "title": "लाभप्रद राजनीतिक पद पर नियुक्ति के लिए निरर्हता"
       },
       {
        "number": "362",
-       "title": "Rights and privileges of Rulers of Indian States.⎯Omitted"
+       "title": "भारतीय राज्यों के शासकों के अधिकार और विशेषाधिकार"
       },
       {
        "number": "363",
-       "title": "Bar to interference by courts in disputes arising out of certain"
+       "title": "कुछ संधियों, करारों आदि से उत्पन्न विवादों में न्यायालयों के हस्तक्षेप का वर्जन"
       },
       {
        "number": "363A",
-       "title": "Recognition granted to Rulers of Indian States to cease and privy"
+       "title": "भारतीय राज्यों के शासकों को दी गई मान्यता का अंत और प्रिवी पर्स का उत्सादन"
       },
       {
        "number": "364",
-       "title": "Special provisions as to major ports and aerodromes"
+       "title": "बड़े बंदरगाहों और हवाई अड्डों के संबंध में विशेष उपबंध"
       },
       {
        "number": "365",
-       "title": "Effect of failure to comply with, or to give effect to, directions"
+       "title": "संघ द्वारा दिए गए निदेशों का पालन न करने या उन्हें प्रभावी न करने का प्रभाव"
       },
       {
        "number": "366",
-       "title": "Definitions"
+       "title": "परिभाषाएँ"
       },
       {
        "number": "367",
-       "title": "Interpretation"
+       "title": "निर्वचन"
       }
      ]
     },
@@ -1997,7 +1953,7 @@
      "sections": [
       {
        "number": "368",
-       "title": "Power of Parliament to amend the Constitution and procedure"
+       "title": "संविधान का संशोधन करने की संसद की शक्ति और उसकी प्रक्रिया"
       }
      ]
     },
@@ -2008,139 +1964,135 @@
      "sections": [
       {
        "number": "369",
-       "title": "Temporary power to Parliament to make laws with respect to"
-      },
-      {
-       "number": "370",
-       "title": "Temporary provisions with respect to the State of Jammu and"
+       "title": "कुछ विषयों के बारे में अस्थायी शक्ति"
       },
       {
        "number": "371",
-       "title": "Special provision with respect to the States of Maharashtra and"
+       "title": "महाराष्ट्र और गुजरात राज्यों के संबंध में विशेष उपबंध"
       },
       {
        "number": "371A",
-       "title": "Special provision with respect to the State of Nagaland"
+       "title": "नागालैंड राज्य के संबंध में विशेष उपबंध"
       },
       {
        "number": "371C",
-       "title": "Special provision with respect to the State of Manipur"
+       "title": "मणिपुर राज्य के संबंध में विशेष उपबंध"
       },
       {
        "number": "371D",
-       "title": "Special provisions with respect to the State of Andhra Pradesh or"
+       "title": "आंध्र प्रदेश या तेलंगाना राज्य के संबंध में विशेष उपबंध"
       },
       {
        "number": "371E",
-       "title": "Establishment of Central University in Andhra Pradesh"
+       "title": "आंध्र प्रदेश में केंद्रीय विश्वविद्यालय की स्थापना"
       },
       {
        "number": "371F",
-       "title": "Special provisions with respect to the State of Sikkim"
+       "title": "सिक्किम राज्य के संबंध में विशेष उपबंध"
       },
       {
        "number": "371G",
-       "title": "Special provision with respect to the State of Mizoram"
+       "title": "मिज़ोरम राज्य के संबंध में विशेष उपबंध"
       },
       {
        "number": "371H",
-       "title": "Special provision with respect to the State of Arunachal Pradesh"
+       "title": "अरुणाचल प्रदेश राज्य के संबंध में विशेष उपबंध"
       },
       {
        "number": "371J",
-       "title": "Special provisions with respect to the State of Karnataka"
+       "title": "कर्नाटक राज्य के संबंध में विशेष उपबंध"
       },
       {
        "number": "372",
-       "title": "Continuance in force of existing laws and their adaptation"
+       "title": "विद्यमान कानूनों का प्रवृत्त रहना और उनका अनुकूलन"
       },
       {
        "number": "372A",
-       "title": "Power of the President to adapt laws"
+       "title": "कानूनों का अनुकूलन करने की राष्ट्रपति की शक्ति"
       },
       {
        "number": "373",
-       "title": "Power of President to make order in respect of persons under"
+       "title": "कुछ दशाओं में निवारक निरोध के अधीन व्यक्तियों के बारे में आदेश देने की राष्ट्रपति की शक्ति"
       },
       {
        "number": "374",
-       "title": "Provisions as to Judges of the Federal Court and proceedings"
+       "title": "संघीय न्यायालय के न्यायाधीशों और उसके समक्ष लंबित कार्यवाहियों के बारे में उपबंध"
       },
       {
        "number": "375",
-       "title": "Courts, authorities and officers to continue to function subject to"
+       "title": "न्यायालयों, प्राधिकारियों और अधिकारियों का कार्य करना जारी रखना"
       },
       {
        "number": "376",
-       "title": "Provisions as to Judges of High Courts"
+       "title": "उच्च न्यायालयों के न्यायाधीशों के बारे में उपबंध"
       },
       {
        "number": "377",
-       "title": "Provisions as to Comptroller and Auditor-General of India"
+       "title": "भारत के नियंत्रक-महालेखापरीक्षक के बारे में उपबंध"
       },
       {
        "number": "378",
-       "title": "Provisions as to Public Service Commissions"
+       "title": "लोक सेवा आयोगों के बारे में उपबंध"
       },
       {
        "number": "378A",
-       "title": "Special provision as to duration of Andhra Pradesh Legislative"
+       "title": "आंध्र प्रदेश विधान सभा की अवधि के बारे में विशेष उपबंध"
       },
       {
        "number": "379",
-       "title": "Provisions as to provisional Parliament and the Speaker and"
+       "title": "अस्थायी संसद और उसके अध्यक्ष तथा उपाध्यक्ष के बारे में उपबंध"
       },
       {
        "number": "380",
-       "title": "Provision as to President.⎯ Omitted"
+       "title": "राष्ट्रपति के बारे में उपबंध"
       },
       {
        "number": "381",
-       "title": "Council of Ministers of the President.⎯Omitted"
+       "title": "राष्ट्रपति के मंत्रिपरिषद"
       },
       {
        "number": "382",
-       "title": "Provisions as to provisional Legislatures for States in Part A of"
+       "title": "प्रथम अनुसूची के भाग क के राज्यों के लिए अस्थायी विधानमंडलों के बारे में उपबंध"
       },
       {
        "number": "383",
-       "title": "Provision as to Governors of Provinces. ⎯Omitted"
+       "title": "प्रांतों के राज्यपालों के बारे में उपबंध"
       },
       {
        "number": "384",
-       "title": "Council of Ministers of the Governors.⎯Omitted"
+       "title": "राज्यपालों के मंत्रिपरिषद"
       },
       {
        "number": "385",
-       "title": "Provision as to provisional Legislatures in States in Part B of the"
+       "title": "प्रथम अनुसूची के भाग ख के राज्यों में अस्थायी विधानमंडलों के बारे में उपबंध"
       },
       {
        "number": "386",
-       "title": "Council of Ministers for States in Part B of the First Schedule"
+       "title": "प्रथम अनुसूची के भाग ख के राज्यों के लिए मंत्रिपरिषद"
       },
       {
        "number": "387",
-       "title": "Special provision as to determination of population for the"
+       "title": "कुछ निर्वाचनों के प्रयोजनों के लिए जनसंख्या के अवधारण के बारे में विशेष उपबंध"
       },
       {
        "number": "388",
-       "title": "Provisions as to the filling of casual vacancies in the provisional"
+       "title": "अस्थायी संसद और राज्यों के अस्थायी विधानमंडलों में आकस्मिक रिक्तियों के भरने के बारे में उपबंध"
       },
       {
        "number": "389",
-       "title": "Provision as to Bills pending in the Dominion Legislatures and"
+       "title": "डोमिनियन विधानमंडल और प्रांतों तथा भारतीय राज्यों के विधानमंडलों में लंबित विधेयकों के बारे में उपबंध"
       },
       {
        "number": "390",
-       "title": "Money received or raised or expenditure incurred between the"
+       "title": "संविधान के प्रारंभ और 31 मार्च 1950 के बीच प्राप्त या उगाहा गया धन या किया गया व्यय"
       },
       {
        "number": "391",
-       "title": "Power of the President to amend the First and Fourth Schedules"
+       "title": "कुछ आकस्मिकताओं में प्रथम और चतुर्थ अनुसूचियों में संशोधन करने की राष्ट्रपति की शक्ति"
       },
       {
        "number": "392",
-       "title": "Power of the President to remove difficulties"
+       "title": "कठिनाइयों को दूर करने की राष्ट्रपति की शक्ति"
       }
      ]
     },
@@ -2151,19 +2103,19 @@
      "sections": [
       {
        "number": "393",
-       "title": "Short title"
+       "title": "संक्षिप्त नाम"
       },
       {
        "number": "394",
-       "title": "Commencement"
+       "title": "प्रारंभ"
       },
       {
        "number": "394A",
-       "title": "Authoritative text in the Hindi language"
+       "title": "हिंदी भाषा में प्राधिकृत पाठ"
       },
       {
        "number": "395",
-       "title": "Repeals"
+       "title": "निरसन"
       }
      ]
     }
@@ -2217,7 +2169,8 @@
      "number": "12",
      "title": "बारहवीं अनुसूची — नगरपालिकाओं की शक्तियाँ, प्राधिकार और उत्तरदायित्व"
     }
-   ]
+   ],
+   "note": "संविधान में अब 455 अनुच्छेद हैं। बाकी 29 अनुच्छेद निरसित हो चुके हैं और इतिहास के लिए रखे गए हैं।"
   },
   {
    "id": "rti",
