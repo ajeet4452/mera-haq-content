@@ -17647,7 +17647,64 @@
      "kitabi": "Short title, extent and commencement.—(1) This Act may be called the Right of Children to Free and Compulsory Education Act, 2009. (2) It shall extend to the whole of India except the State of Jammu and Kashmir. (3) It shall come into force on such date1 as the Central Government may, by notification in the Official Gazette, appoint. 2[(4) Subject to the provisions of articles 29 and 30 of the Constitution, the provisions of this Act shall apply to conferment of rights on children to free and compulsory education. (5) Nothing contained in this Act shall apply to Madrasas, Vedic Pathsalas and educational institutions primarily imparting religious instruction.]",
      "aasan": "यह कानून का नाम बताता है और पूरे भारत में लागू है। यह 1 अप्रैल 2010 से लागू हुआ। इसमें मदरसों, वैदिक पाठशालाओं और धार्मिक शिक्षा देने वाली संस्थाओं पर लागू नहीं होने की बात भी लिखी है।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 1",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "इस अधिनियम का नाम क्या है?",
+       "options": [
+        "बाल शिक्षा अधिनियम, 2009",
+        "शिक्षा का अधिकार अधिनियम, 2009",
+        "प्रारंभिक शिक्षा अधिनियम, 2010",
+        "निःशुल्क शिक्षा अधिनियम, 2005"
+       ],
+       "answer": 1,
+       "explanation": "धारा 1 में कहा गया है कि इस अधिनियम का नाम शिक्षा का अधिकार अधिनियम, 2009 है।"
+      },
+      {
+       "question": "यह अधिनियम कहाँ लागू होता है?",
+       "options": [
+        "केवल शहरों में",
+        "केवल गाँवों में",
+        "पूरे भारत में",
+        "केवल उन राज्यों में जहाँ सरकार चाहे"
+       ],
+       "answer": 2,
+       "explanation": "धारा 1 के अनुसार यह अधिनियम पूरे भारत में लागू होता है।"
+      },
+      {
+       "question": "यह अधिनियम कब से लागू हुआ?",
+       "options": [
+        "26 अगस्त 2009",
+        "1 अप्रैल 2010",
+        "15 अगस्त 2010",
+        "2 अक्टूबर 2009"
+       ],
+       "answer": 1,
+       "explanation": "अधिनियम 2009 में बना, पर वह 1 अप्रैल 2010 से लागू हुआ।"
+      },
+      {
+       "question": "अधिनियम के अनुसार यह किन संस्थाओं पर लागू नहीं होता?",
+       "options": [
+        "सरकारी प्राथमिक विद्यालय पर",
+        "मदरसों, वैदिक पाठशालाओं और मुख्य रूप से धार्मिक शिक्षा देने वाली संस्थाओं पर",
+        "सहायता प्राप्त निजी विद्यालय पर",
+        "पंचायत के विद्यालय पर"
+       ],
+       "answer": 1,
+       "explanation": "धारा 1 में स्पष्ट है कि यह अधिनियम मदरसों, वैदिक पाठशालाओं और मुख्य रूप से धार्मिक शिक्षा देने वाली संस्थाओं पर लागू नहीं होता।"
+      },
+      {
+       "question": "यह अधिनियम मुख्य रूप से किस आयु के बच्चों के लिए बना है?",
+       "options": [
+        "3 से 6 वर्ष के बच्चों के लिए",
+        "6 से 14 वर्ष के बच्चों के लिए",
+        "14 से 18 वर्ष के बच्चों के लिए",
+        "6 से 18 वर्ष के बच्चों के लिए"
+       ],
+       "answer": 1,
+       "explanation": "अधिनियम 6 से 14 वर्ष के सभी बच्चों को निःशुल्क और अनिवार्य शिक्षा देने के लिए बना है।"
+      }
+     ]
     },
     {
      "number": "2",
@@ -17656,7 +17713,64 @@
      "kitabi": "Definitions.—In this Act, unless the context otherwise requires,— (a) “appropriate Government” means— (i) in relation to a school established, owned or controlled by the Central Government, or the administrator of the Union territory, having no legislature, the Central Government; (ii) in relation to a school, other than the school referred to in sub-clause (i), established within the territory of— (A) a State, the State Government; (B) a Union territory having legislature, the Government of that Union territory; (b) “capitation fee” means any kind of donation or contribution or payment other than the fee notified by the school; (c) “child” means a male or female child of the age of six to fourteen years; (d) “child belonging to disadvantaged group” means 3[a child with disability or] a child belonging to the Scheduled Caste, the Scheduled Tribe, the socially and educationally backward class or such other group having disadvantage owing to social, cultural, economical, geographical, linguistic, gender or such other factor, as may be specified by the appropriate Government, by notification; (e) “child belonging to weaker section” means a child belonging to such parent or guardian whose annual income is lower than the minimum limit specified by the appropriate Government, by notification; 3[(ee) “child with disability” includes,— (A) a child with “disability” as defined in clause (i) of section 2 of the Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995 (1 of 1996); 1. 1st April, 2010, vide notification No. S.O. 428(E), dated 16th February, 2010, see Gazette of India, Extraordinary, Part II, sec. 3(ii). 2. Ins. by Act 30 of 2012, s. 2 (w.e.f. 1-8- 2012).",
      "aasan": "इस कानून के मुख्य शब्दों के अर्थ यहाँ तय हैं — उपयुक्त सरकार, कैपिटेशन फीस, बच्चा, वंचित वर्ग का बच्चा, कमजोर वर्ग का बच्चा और दिव्यांग बच्चा।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 2",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "अधिनियम में बच्चा किसे कहा गया है?",
+       "options": [
+        "जन्म से 6 वर्ष तक का बच्चा",
+        "6 से 14 वर्ष का बालक या बालिका",
+        "6 से 18 वर्ष का बच्चा",
+        "14 से 18 वर्ष का बच्चा"
+       ],
+       "answer": 1,
+       "explanation": "धारा 2 के अनुसार बच्चा का अर्थ 6 से 14 वर्ष का बालक या बालिका है।"
+      },
+      {
+       "question": "अधिनियम में कैपिटेशन फीस का क्या अर्थ है?",
+       "options": [
+        "विद्यालय द्वारा तय की गई सामान्य फीस",
+        "विद्यालय द्वारा अधिसूचित फीस के अतिरिक्त किसी भी प्रकार का दान, अंशदान या भुगतान",
+        "केवल परीक्षा शुल्क",
+        "केवल पुस्तकों का खर्च"
+       ],
+       "answer": 1,
+       "explanation": "धारा 2 कहती है कि विद्यालय द्वारा अधिसूचित फीस के अलावा लिया गया कोई भी दान, अंशदान या भुगतान कैपिटेशन फीस है।"
+      },
+      {
+       "question": "वंचित समूह के बच्चे में कौन शामिल है?",
+       "options": [
+        "केवल अनुसूचित जाति के बच्चे",
+        "केवल अनुसूचित जनजाति के बच्चे",
+        "अनुसूचित जाति, अनुसूचित जनजाति, सामाजिक और शैक्षिक रूप से पिछड़े वर्ग के बच्चे तथा दिव्यांग बच्चे आदि",
+        "केवल वे बच्चे जो कभी स्कूल नहीं गए"
+       ],
+       "answer": 2,
+       "explanation": "धारा 2 के अनुसार अनुसूचित जाति, अनुसूचित जनजाति, सामाजिक और शैक्षिक रूप से पिछड़े वर्ग तथा दिव्यांग बच्चे वंचित समूह में आते हैं।"
+      },
+      {
+       "question": "दुर्बल वर्ग का बच्चा किसे कहा गया है?",
+       "options": [
+        "जिसके माता-पिता या संरक्षक की वार्षिक आय सरकार द्वारा तय न्यूनतम सीमा से कम हो",
+        "जो बच्चा पढ़ाई में कमजोर हो",
+        "जिसके माता-पिता निरक्षर हों",
+        "जो बच्चा गाँव में रहता हो"
+       ],
+       "answer": 0,
+       "explanation": "धारा 2 के अनुसार जिस बच्चे के माता-पिता या संरक्षक की वार्षिक आय सरकार द्वारा तय न्यूनतम सीमा से कम है, वह दुर्बल वर्ग का बच्चा है।"
+      },
+      {
+       "question": "राज्य में स्थित विद्यालय के लिए उपयुक्त सरकार कौन है?",
+       "options": [
+        "केंद्र सरकार",
+        "राज्य सरकार",
+        "जिला परिषद",
+        "विद्यालय प्रबंध समिति"
+       ],
+       "answer": 1,
+       "explanation": "धारा 2 के अनुसार राज्य में स्थित विद्यालय के लिए उपयुक्त सरकार राज्य सरकार है।"
+      }
+     ]
     },
     {
      "number": "3",
@@ -17665,7 +17779,64 @@
      "kitabi": "Right of child to free and compulsory education.—1[(1) Every child of the age of six to fourteen years, including a child referred to in clause (d) or clause (e) of section 2, shall have the right to free and compulsory education in a neighbourhood school till the completion of his or her elementary education.] (2) For the purpose of sub-section (1), no child shall be liable to pay any kind of fee or charges or expenses which may prevent him or her from pursuing and completing the elementary education. 1. Subs. by Act 30 of 2012, s. 4, for sub-section (1) (w.e.f. 1-8-2012). 5 1* * * * * 2[(3) A child with disability referred to in sub-clause (A) of clause (ee) of section 2 shall, without prejudice to the provisions of the Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995 (1 of 1996), and a child referred to in sub-clauses (B) and (C) of clause (ee) of section 2, have the same rights to pursue free and compulsory elementary education which children with disabilities have under the provisions of Chapter V of the Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995: Provided that a child with “multiple disabilities” referred to in clause (h) and a child with “severe disability” referred to in clause (o) of section 2 of the National Trust for Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act, 1999 (44 of 1999) may also have the right to opt for home-based education.]",
      "aasan": "छह से चौदह साल के हर बच्चे को अपने मोहल्ले के स्कूल में आठवीं तक मुफ्त और अनिवार्य शिक्षा पाने का अधिकार है। कोई भी फीस या खर्च बच्चे की पढ़ाई रोक नहीं सकता।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 3",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "धारा 3 के अनुसार किस आयु के हर बच्चे को निःशुल्क और अनिवार्य शिक्षा का अधिकार है?",
+       "options": [
+        "3 से 6 वर्ष",
+        "6 से 14 वर्ष",
+        "14 से 18 वर्ष",
+        "जन्म से 14 वर्ष"
+       ],
+       "answer": 1,
+       "explanation": "धारा 3 के अनुसार 6 से 14 वर्ष के हर बच्चे को निःशुल्क और अनिवार्य शिक्षा का अधिकार है।"
+      },
+      {
+       "question": "यह अधिकार बच्चे को कहाँ मिलता है?",
+       "options": [
+        "किसी भी दूर के निजी विद्यालय में",
+        "अपने पड़ोस के विद्यालय में",
+        "केवल छात्रावास में",
+        "केवल शहर के विद्यालय में"
+       ],
+       "answer": 1,
+       "explanation": "धारा 3 कहती है कि बच्चे को अपने पड़ोस के विद्यालय में पढ़ने का अधिकार है।"
+      },
+      {
+       "question": "बच्चे को यह अधिकार कब तक है?",
+       "options": [
+        "केवल कक्षा 5 तक",
+        "प्रारंभिक शिक्षा पूरी होने तक, यानी कक्षा 8 तक",
+        "केवल एक वर्ष तक",
+        "18 वर्ष की आयु तक"
+       ],
+       "answer": 1,
+       "explanation": "धारा 3 के अनुसार यह अधिकार प्रारंभिक शिक्षा पूरी होने तक रहता है, और प्रारंभिक शिक्षा कक्षा 1 से 8 तक है।"
+      },
+      {
+       "question": "धारा 3 के अनुसार बच्चे को क्या नहीं देना पड़ता?",
+       "options": [
+        "कोई फीस, शुल्क या ऐसा खर्च जो उसकी पढ़ाई रोक सके",
+        "केवल परीक्षा फीस",
+        "केवल पुस्तकों का पैसा",
+        "कुछ भी नहीं, सब देना पड़ता है"
+       ],
+       "answer": 0,
+       "explanation": "धारा 3 कहती है कि बच्चा कोई फीस, शुल्क या खर्च देने के लिए बाध्य नहीं है जो उसकी पढ़ाई पूरी होने में बाधा बने।"
+      },
+      {
+       "question": "दिव्यांग बच्चों के बारे में धारा 3 क्या कहती है?",
+       "options": [
+        "उन्हें शिक्षा का अधिकार नहीं है",
+        "उन्हें भी निःशुल्क और अनिवार्य प्रारंभिक शिक्षा का वही अधिकार है",
+        "उन्हें केवल घर पर ही पढ़ाया जा सकता है",
+        "उनके लिए अलग कानून बनाना है"
+       ],
+       "answer": 1,
+       "explanation": "धारा 3 के अनुसार दिव्यांग बच्चों को भी प्रारंभिक शिक्षा का वही अधिकार है; बहुत गंभीर दिव्यांगता वाले कुछ बच्चे घर पर पढ़ने का विकल्प भी चुन सकते हैं।"
+      }
+     ]
     },
     {
      "number": "4",
@@ -17674,7 +17845,64 @@
      "kitabi": "Special provisions for children not admitted to, or who have not completed, elementary education.—Where a child above six years of age has not been admitted in any school or though admitted, could not complete his or her elementary education, then, he or she shall be admitted in a class appropriate to his or her age: Provided that where a child is directly admitted in a class appropriate to his or her age, then, he or she shall, in order to be at par with others, have a right to receive special training, in such manner, and within such time-limits, as may be prescribed: Provided further that a child so admitted to elementary education shall be entitled to free education till completion of elementary education even after fourteen years.",
      "aasan": "अगर कोई बच्चा छह साल से बड़ा है और स्कूल नहीं गया या पढ़ाई बीच में छूट गई, तो उसे उसकी उम्र के हिसाब से कक्षा में दाखिला मिलेगा, और उसे विशेष प्रशिक्षण भी दिया जाएगा। चौदह साल के बाद भी आठवीं पूरी होने तक पढ़ाई मुफ्त रहेगी।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 4",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "धारा 4 किन बच्चों के लिए विशेष उपबंध देती है?",
+       "options": [
+        "जो बच्चे कभी स्कूल में प्रवेश नहीं पा सके या प्रारंभिक शिक्षा पूरी नहीं कर सके",
+        "केवल दिव्यांग बच्चों के लिए",
+        "केवल लड़कियों के लिए",
+        "केवल अनाथ बच्चों के लिए"
+       ],
+       "answer": 0,
+       "explanation": "धारा 4 उन बच्चों के लिए है जो छह वर्ष से अधिक उम्र के हैं पर कभी स्कूल में प्रवेश नहीं पा सके या प्रारंभिक शिक्षा पूरी नहीं कर सके।"
+      },
+      {
+       "question": "छह वर्ष से अधिक उम्र का बच्चा जो कभी स्कूल नहीं गया, उसे किस कक्षा में प्रवेश मिलेगा?",
+       "options": [
+        "कक्षा 1 में",
+        "उसकी उम्र के अनुरूप कक्षा में",
+        "किसी भी कक्षा में जहाँ जगह हो",
+        "प्रवेश नहीं मिलेगा"
+       ],
+       "answer": 1,
+       "explanation": "धारा 4 कहती है कि ऐसे बच्चे को उसकी उम्र के अनुरूप कक्षा में प्रवेश दिया जाएगा।"
+      },
+      {
+       "question": "उम्र के अनुरूप कक्षा में सीधे प्रवेश पाने वाले बच्चे को क्या मिलने का अधिकार है?",
+       "options": [
+        "विशेष प्रशिक्षण, ताकि वह दूसरे बच्चों के बराबर आ सके",
+        "निःशुल्क यूनिफॉर्म",
+        "छात्रवृत्ति",
+        "अलग विद्यालय"
+       ],
+       "answer": 0,
+       "explanation": "धारा 4 के पहले परंतुक के अनुसार ऐसे बच्चे को विशेष प्रशिक्षण मिलने का अधिकार है, जिससे वह दूसरों के बराबर आ सके।"
+      },
+      {
+       "question": "ऐसे बच्चे को 14 वर्ष के बाद भी क्या अधिकार है?",
+       "options": [
+        "अब कोई अधिकार नहीं",
+        "प्रारंभिक शिक्षा पूरी होने तक निःशुल्क शिक्षा",
+        "केवल परीक्षा देने का अधिकार",
+        "केवल कक्षा 8 में प्रवेश"
+       ],
+       "answer": 1,
+       "explanation": "धारा 4 के दूसरे परंतुक के अनुसार ऐसा बच्चा 14 वर्ष के बाद भी प्रारंभिक शिक्षा पूरी होने तक निःशुल्क शिक्षा पाने का हकदार है।"
+      },
+      {
+       "question": "विशेष प्रशिक्षण का मुख्य उद्देश्य क्या है?",
+       "options": [
+        "बच्चे को उसकी उम्र की कक्षा के स्तर तक लाना",
+        "बच्चे को सजा देना",
+        "बच्चे को अलग रखना",
+        "बच्चे को परीक्षा से बचाना"
+       ],
+       "answer": 0,
+       "explanation": "विशेष प्रशिक्षण इसलिए दिया जाता है कि बच्चा उम्र के अनुरूप कक्षा के बाकी बच्चों के बराबर आ जाए।"
+      }
+     ]
     },
     {
      "number": "5",
@@ -17683,7 +17911,64 @@
      "kitabi": "Right of transfer to other school.—(1) Where in a school, there is no provision for completion of elementary education, a child shall have a right to seek transfer to any other school, excluding the school specified in sub-clauses (iii) and (iv) of clause (n) of section 2, for completing his or her elementary education. (2) Where a child is required to move from one school to another, either within a State or outside, for any reason whatsoever, such child shall have a right to seek transfer to any other school, excluding the school specified in sub-clauses (iii) and (iv) of clause (n) of section 2, for completing his or her elementary education. (3) For seeking admission in such other school, the Head-teacher or in-charge of the school where such child was last admitted, shall immediately issue the transfer certificate: Provided that delay in producing transfer certificate shall not be a ground for either delaying or denying admission in such other school: Provided further that the Head-teacher or in-charge of the school delaying issuance of transfer certificate shall be liable for disciplinary action under the service rules applicable to him or her. CHAPTER III DUTIES OF APPROPRIATE GOVERNMENT, LOCAL AUTHORITY AND PARENTS",
      "aasan": "अगर स्कूल में पूरी प्रारंभिक शिक्षा की सुविधा नहीं है, तो बच्चा दूसरे स्कूल में जाने का हक रखता है। ट्रांसफर सर्टिफिकेट तुरंत देना होगा, और सर्टिफिकेट न होने पर भी प्रवेश नहीं रोका जा सकता।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 5",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "स्थानांतरण प्रमाणपत्र कौन जारी करता है?",
+       "options": [
+        "नया विद्यालय",
+        "जिस विद्यालय में बच्चा अंतिम बार पढ़ा, उसका प्रधानाध्यापक या प्रभारी",
+        "जिला शिक्षा अधिकारी",
+        "माता-पिता"
+       ],
+       "answer": 1,
+       "explanation": "धारा 5 के अनुसार जिस विद्यालय में बच्चे का अंतिम प्रवेश था, उसका प्रधानाध्यापक या प्रभारी स्थानांतरण प्रमाणपत्र जारी करता है।"
+      },
+      {
+       "question": "स्थानांतरण प्रमाणपत्र कब जारी करना चाहिए?",
+       "options": [
+        "एक महीने के भीतर",
+        "तुरंत",
+        "सत्र के अंत में",
+        "जब माता-पिता शुल्क जमा करें"
+       ],
+       "answer": 1,
+       "explanation": "धारा 5 कहती है कि प्रधानाध्यापक या प्रभारी स्थानांतरण प्रमाणपत्र तुरंत जारी करेगा।"
+      },
+      {
+       "question": "स्थानांतरण प्रमाणपत्र देर से मिलने पर क्या होगा?",
+       "options": [
+        "बच्चे को नए विद्यालय में प्रवेश नहीं मिलेगा",
+        "नए विद्यालय में प्रवेश न तो रोका जा सकता है और न टाला जा सकता है",
+        "बच्चे को दोबारा पहली कक्षा में बैठना होगा",
+        "बच्चे को जुर्माना देना होगा"
+       ],
+       "answer": 1,
+       "explanation": "धारा 5 के परंतुक के अनुसार प्रमाणपत्र देर से मिलना प्रवेश रोकने या टालने का आधार नहीं हो सकता।"
+      },
+      {
+       "question": "बच्चा किस स्थिति में दूसरे विद्यालय में जाने का अधिकार रखता है?",
+       "options": [
+        "केवल जब उसके विद्यालय में प्रारंभिक शिक्षा पूरी करने की सुविधा न हो",
+        "केवल जब माता-पिता का तबादला हो",
+        "किसी भी कारण से जब बच्चे को एक विद्यालय से दूसरे विद्यालय जाना पड़े, राज्य के भीतर या बाहर",
+        "केवल जब परिवार दूसरे राज्य में जाए"
+       ],
+       "answer": 2,
+       "explanation": "धारा 5 और 5 के अनुसार बच्चा किसी भी कारण से, राज्य के भीतर या बाहर, दूसरे विद्यालय में जाने का अधिकार रखता है।"
+      },
+      {
+       "question": "प्रमाणपत्र देने में देरी करने वाले प्रधानाध्यापक के साथ क्या हो सकता है?",
+       "options": [
+        "कुछ नहीं होगा",
+        "उस पर सेवा नियमों के अंतर्गत अनुशासनात्मक कार्रवाई हो सकती है",
+        "उस पर 50,000 रुपये का जुर्माना लगेगा",
+        "विद्यालय बंद कर दिया जाएगा"
+       ],
+       "answer": 1,
+       "explanation": "धारा 5 के दूसरे परंतुक के अनुसार देरी करने वाले प्रधानाध्यापक या प्रभारी पर सेवा नियमों के अंतर्गत अनुशासनात्मक कार्रवाई हो सकती है।"
+      }
+     ]
     },
     {
      "number": "6",
@@ -17692,7 +17977,64 @@
      "kitabi": "Duty of appropriate Government and local authority to establish school.—For carrying out the provisions of this Act, the appropriate Government and the local authority shall establish, within such area or limits of neighbourhood, as may be prescribed, a school, where it is not so established, within a period of three years from the commencement of this Act.",
      "aasan": "सरकार और स्थानीय निकाय का कर्तव्य है कि जहाँ स्कूल नहीं है वहाँ तीन साल के अंदर स्कूल बनाएँ, ताकि हर बच्चे को पास में स्कूल मिले।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 6",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "विद्यालय स्थापित करने का कर्तव्य किसका है?",
+       "options": [
+        "केवल माता-पिता का",
+        "उपयुक्त सरकार और स्थानीय प्राधिकारी का",
+        "केवल निजी विद्यालयों का",
+        "केवल केंद्र सरकार का"
+       ],
+       "answer": 1,
+       "explanation": "धारा 6 के अनुसार उपयुक्त सरकार और स्थानीय प्राधिकारी का कर्तव्य है कि वे पड़ोस में विद्यालय स्थापित करें।"
+      },
+      {
+       "question": "जहाँ विद्यालय नहीं है, वहाँ अधिनियम के प्रारंभ से कितने वर्ष के भीतर विद्यालय स्थापित करना है?",
+       "options": [
+        "एक वर्ष के भीतर",
+        "दो वर्ष के भीतर",
+        "तीन वर्ष के भीतर",
+        "पाँच वर्ष के भीतर"
+       ],
+       "answer": 2,
+       "explanation": "धारा 6 कहती है कि जहाँ विद्यालय स्थापित नहीं है, वहाँ अधिनियम के प्रारंभ से तीन वर्ष के भीतर विद्यालय स्थापित किया जाएगा।"
+      },
+      {
+       "question": "विद्यालय कहाँ स्थापित किया जाना चाहिए?",
+       "options": [
+        "किसी भी दूर के स्थान पर",
+        "पड़ोस के क्षेत्र या सीमा के भीतर",
+        "केवल जिला मुख्यालय पर",
+        "केवल शहर में"
+       ],
+       "answer": 1,
+       "explanation": "धारा 6 के अनुसार विद्यालय पड़ोस के क्षेत्र या सीमा के भीतर स्थापित किया जाना चाहिए।"
+      },
+      {
+       "question": "धारा 6 का यह कर्तव्य कब लागू होता है?",
+       "options": [
+        "हर गाँव में नया विद्यालय खोलने के लिए",
+        "जहाँ पड़ोस में विद्यालय पहले से स्थापित नहीं है",
+        "जब कोई निजी विद्यालय बंद हो जाए",
+        "जब बच्चों की संख्या सौ से अधिक हो"
+       ],
+       "answer": 1,
+       "explanation": "धारा 6 में यह कर्तव्य उस जगह के लिए है जहाँ पहले से विद्यालय स्थापित नहीं है।"
+      },
+      {
+       "question": "धारा 6 का मुख्य उद्देश्य क्या है?",
+       "options": [
+        "हर बच्चे के पड़ोस में विद्यालय उपलब्ध कराना",
+        "विद्यालयों से फीस वसूलना",
+        "निजी विद्यालयों को बढ़ावा देना",
+        "शिक्षकों का तबादला करना"
+       ],
+       "answer": 0,
+       "explanation": "धारा 6 का उद्देश्य यह है कि हर बच्चे के पड़ोस में पढ़ने के लिए विद्यालय हो।"
+      }
+     ]
     },
     {
      "number": "7",
@@ -17701,7 +18043,64 @@
      "kitabi": "Sharing of financial and other responsibilities.—(1) The Central Government and the State Governments shall have concurrent responsibility for providing funds for carrying out the provisions of this Act. (2) The Central Government shall prepare the estimates of capital and recurring expenditure for the implementation of the provisions of the Act. 1. Proviso omitted by Act 30 of 2012, s. 4 (w.e.f. 1-8-2012). 2. Ins. by s. 4, ibid. (w.e.f. 1-8-2012). 6 (3) The Central Government shall provide to the State Governments, as grants-in-aid of revenues, such percentage of expenditure referred to in sub-section (2) as it may determine, from time to time, in consultation with the State Governments. (4) The Central Government may make a request to the President to make a reference to the Finance Commission under sub-clause (d) of clause (3) of article 280 to examine the need for additional resources to be provided to any State Government so that the said State Government may provide its share of funds for carrying out the provisions of the Act. (5) Notwithstanding anything contained in sub-section (4), the State Government shall, taking into consideration the sums provided by the Central Government to a State Government under sub-section (3), and its other resources, be responsible to provide funds for implementation of the provisions of the Act. (6) The Central Government shall— (a) develop a framework of national curriculum with the help of academic authority specified under section 29; (b) develop and enforce standards for training of teachers; (c) provide technical support and resources to the State Government for promoting innovations, researches, planning and capacity building.",
      "aasan": "केंद्र और राज्य दोनों सरकारें मिलकर इस कानून के लिए पैसा जुटाएँगी। केंद्र सरकार खर्च का अनुमान तैयार करेगी।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 7",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "धारा 7 के अनुसार धन देने की जिम्मेदारी किसकी है?",
+       "options": [
+        "केवल केंद्र सरकार की",
+        "केवल राज्य सरकार की",
+        "केंद्र सरकार और राज्य सरकार दोनों की संयुक्त जिम्मेदारी",
+        "केवल पंचायत की"
+       ],
+       "answer": 2,
+       "explanation": "धारा 7 कहती है कि अधिनियम लागू करने के लिए धन देने की जिम्मेदारी केंद्र और राज्य सरकारों की संयुक्त है।"
+      },
+      {
+       "question": "पूँजीगत और आवर्ती व्यय का अनुमान कौन तैयार करता है?",
+       "options": [
+        "राज्य सरकार",
+        "केंद्र सरकार",
+        "स्थानीय प्राधिकारी",
+        "राष्ट्रीय आयोग"
+       ],
+       "answer": 1,
+       "explanation": "धारा 7 के अनुसार केंद्र सरकार अधिनियम लागू करने के लिए पूँजीगत और आवर्ती व्यय का अनुमान तैयार करती है।"
+      },
+      {
+       "question": "केंद्र सरकार राज्य सरकारों को धन किस रूप में देती है?",
+       "options": [
+        "ऋण के रूप में",
+        "राजस्व अनुदान-सहायता के रूप में",
+        "उपहार के रूप में",
+        "कर के रूप में"
+       ],
+       "answer": 1,
+       "explanation": "धारा 7 के अनुसार केंद्र सरकार राज्य सरकारों को राजस्व अनुदान-सहायता के रूप में तय प्रतिशत धन देती है।"
+      },
+      {
+       "question": "केंद्र से मिलने वाली राशि और अपने संसाधनों को देखते हुए अधिनियम लागू करने के लिए धन देने की जिम्मेदारी किसकी है?",
+       "options": [
+        "केंद्र सरकार की",
+        "राज्य सरकार की",
+        "निजी विद्यालयों की",
+        "माता-पिता की"
+       ],
+       "answer": 1,
+       "explanation": "धारा 7 कहती है कि केंद्र से मिली राशि और अपने संसाधनों को देखते हुए धन देने की जिम्मेदारी राज्य सरकार की है।"
+      },
+      {
+       "question": "राष्ट्रीय पाठ्यचर्या की रूपरेखा विकसित करने का काम किसका है?",
+       "options": [
+        "केंद्र सरकार का",
+        "राज्य सरकार का",
+        "पंचायत का",
+        "विद्यालय प्रबंध समिति का"
+       ],
+       "answer": 0,
+       "explanation": "धारा 7 के अनुसार केंद्र सरकार शैक्षिक प्राधिकारी की सहायता से राष्ट्रीय पाठ्यचर्या की रूपरेखा विकसित करती है।"
+      }
+     ]
     },
     {
      "number": "8",
@@ -17710,7 +18109,64 @@
      "kitabi": "Duties of appropriate Government.—The appropriate Government shall— (a) provide free and compulsory elementary education to every child: Provided that where a child is admitted by his or her parents or guardian, as the case may be, in a school other than a school established, owned, controlled or substantially financed by funds provided directly or indirectly by the appropriate Government or a local authority, such child or his or her parents or guardian, as the case may be, shall not be entitled to make a claim for reimbursement of expenditure incurred on elementary education of the child in such other school. Explanation.—The term “compulsory education” means obligation of the appropriate Government to— (i) provide free elementary education to every child of the age of six to fourteen years; and (ii) ensure compulsory admission, attendance and completion of elementary education by every child of the age of six to fourteen years; (b) ensure availability of a neighbourhood school as specified in section 6; (c) ensure that the child belonging to weaker section and the child belonging to disadvantaged group are not discriminated against and prevented from pursuing and completing elementary education on any grounds; (d) provide infrastructure including school building, teaching staff and learning equipment; (e) provide special training facility specified in section 4; (f) ensure and monitor admission, attendance and completion of elementary education by every child; (g) ensure good quality elementary education conforming to the standards and norms specified in the Schedule; (h) ensure timely prescribing of curriculum and courses of study for elementary education; and (i) provide training facility for teachers.",
      "aasan": "सरकार का कर्तव्य है कि स्कूल की व्यवस्था करे, शिक्षकों की भर्ती और प्रशिक्षण करे, पाठ्यक्रम और शिक्षकों का प्रशिक्षण तय करे, और हर बच्चे की पढ़ाई की निगरानी करे।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 8",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "धारा 8 में किसके कर्तव्य बताए गए हैं?",
+       "options": [
+        "उपयुक्त सरकार के",
+        "माता-पिता के",
+        "शिक्षकों के",
+        "बच्चों के"
+       ],
+       "answer": 0,
+       "explanation": "धारा 8 का शीर्षक ही उपयुक्त सरकार के कर्तव्य है, इसलिए यहाँ सरकार के कर्तव्य बताए गए हैं।"
+      },
+      {
+       "question": "धारा 8 के अनुसार अनिवार्य शिक्षा का क्या अर्थ है?",
+       "options": [
+        "बच्चे को स्कूल जाने के लिए मजबूर करना",
+        "सरकार का दायित्व — हर बच्चे को निःशुल्क प्रारंभिक शिक्षा देना तथा उसका प्रवेश, उपस्थिति और शिक्षा पूरी करना सुनिश्चित करना",
+        "केवल माता-पिता का दायित्व",
+        "केवल विद्यालय का दायित्व"
+       ],
+       "answer": 1,
+       "explanation": "धारा 8 में दिए स्पष्टीकरण के अनुसार अनिवार्य शिक्षा का अर्थ सरकार का यह दायित्व है कि वह हर बच्चे को निःशुल्क शिक्षा दे और उसका प्रवेश, उपस्थिति तथा शिक्षा पूरी करना सुनिश्चित करे।"
+      },
+      {
+       "question": "अगर माता-पिता अपने बच्चे को ऐसे विद्यालय में भेजते हैं जिसे सरकार या स्थानीय प्राधिकारी की सहायता नहीं मिलती, तो क्या वे सरकार से खर्च की प्रतिपूर्ति माँग सकते हैं?",
+       "options": [
+        "हाँ, पूरी राशि माँग सकते हैं",
+        "हाँ, आधी राशि माँग सकते हैं",
+        "नहीं, वे प्रतिपूर्ति का दावा नहीं कर सकते",
+        "केवल फीस का दावा कर सकते हैं"
+       ],
+       "answer": 2,
+       "explanation": "धारा 8 के परंतुक के अनुसार ऐसे विद्यालय में पढ़ने वाले बच्चे या उसके माता-पिता खर्च की प्रतिपूर्ति का दावा नहीं कर सकते।"
+      },
+      {
+       "question": "धारा 8 के अनुसार उपयुक्त सरकार को क्या उपलब्ध कराना है?",
+       "options": [
+        "केवल पाठ्यपुस्तकें",
+        "विद्यालय भवन, शिक्षण स्टाफ और सीखने के उपकरण जैसी अवसंरचना",
+        "केवल यूनिफॉर्म",
+        "केवल भोजन"
+       ],
+       "answer": 1,
+       "explanation": "धारा 8 के अनुसार उपयुक्त सरकार को विद्यालय भवन, शिक्षण स्टाफ और सीखने के उपकरण सहित अवसंरचना उपलब्ध करानी है।"
+      },
+      {
+       "question": "दुर्बल वर्ग और वंचित समूह के बच्चों के बारे में उपयुक्त सरकार का कर्तव्य क्या है?",
+       "options": [
+        "उन्हें अलग विद्यालय में पढ़ाना",
+        "यह सुनिश्चित करना कि उनके साथ किसी भी आधार पर भेदभाव न हो और वे पढ़ाई पूरी कर सकें",
+        "उनसे अधिक फीस लेना",
+        "उन्हें केवल घर पर पढ़ाना"
+       ],
+       "answer": 1,
+       "explanation": "धारा 8 के अनुसार सरकार को यह सुनिश्चित करना है कि दुर्बल वर्ग और वंचित समूह के बच्चों के साथ भेदभाव न हो और उन्हें पढ़ाई पूरी करने से न रोका जाए।"
+      }
+     ]
     },
     {
      "number": "9",
@@ -17719,7 +18175,64 @@
      "kitabi": "Duties of local authority.—Every local authority shall— (a) provide free and compulsory elementary education to every child: Provided that where a child is admitted by his or her parents or guardian, as the case may be, in a school other than a school established, owned, controlled or substantially financed by funds provided 7 directly or indirectly by the appropriate Government or a local authority, such child or his or her parents or guardian, as the case may be, shall not be entitled to make a claim for reimbursement of expenditure incurred on elementary education of the child in such other school; (b) ensure availability of a neighbourhood school as specified in section 6; (c) ensure that the child belonging to weaker section and the child belonging to disadvantaged group are not discriminated against and prevented from pursuing and completing elementary education on any grounds; (d) maintain records of children up to the age of fourteen years residing within its jurisdiction, in such manner as may be prescribed; (e) ensure and monitor admission, attendance and completion of elementary education by every child residing within its jurisdiction; (f) provide infrastructure including school building, teaching staff and learning material; (g) provide special training facility specified in section 4; (h) ensure good quality elementary education conforming to the standards and norms specified in the Schedule; (i) ensure timely prescribing of curriculum and courses of study for elementary education; (j) provide training facility for teachers; (k) ensure admission of children of migrant families; (l) monitor functioning of schools within its jurisdiction; and (m) decide the academic calendar.",
      "aasan": "स्थानीय निकाय (जैसे नगर पालिका या पंचायत) को यह देखना होता है कि उसके क्षेत्र में हर बच्चा स्कूल जा रहा है, स्कूल में सुविधाएँ हैं, और स्कूल का रजिस्टर ठीक रखा जा रहा है।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 9",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "धारा 9 में किसके कर्तव्य बताए गए हैं?",
+       "options": [
+        "स्थानीय प्राधिकारी के",
+        "केंद्र सरकार के",
+        "शिक्षकों के",
+        "अभिभावकों के"
+       ],
+       "answer": 0,
+       "explanation": "धारा 9 का शीर्षक स्थानीय प्राधिकारी के कर्तव्य है, इसलिए यहाँ स्थानीय प्राधिकारी के कर्तव्य बताए गए हैं।"
+      },
+      {
+       "question": "स्थानीय प्राधिकारी को किन बच्चों का रिकॉर्ड रखना है?",
+       "options": [
+        "केवल विद्यालय जाने वाले बच्चों का",
+        "अपने क्षेत्र में रहने वाले चौदह वर्ष तक के बच्चों का",
+        "केवल दिव्यांग बच्चों का",
+        "केवल नए प्रवेश वाले बच्चों का"
+       ],
+       "answer": 1,
+       "explanation": "धारा 9 के अनुसार स्थानीय प्राधिकारी अपने क्षेत्र में रहने वाले चौदह वर्ष तक के बच्चों का रिकॉर्ड रखेगा।"
+      },
+      {
+       "question": "प्रवासी परिवारों के बच्चों के प्रवेश की जिम्मेदारी किसकी है?",
+       "options": [
+        "माता-पिता की",
+        "स्थानीय प्राधिकारी की",
+        "निजी विद्यालय की",
+        "राज्य सरकार की"
+       ],
+       "answer": 1,
+       "explanation": "धारा 9 के अनुसार स्थानीय प्राधिकारी को प्रवासी परिवारों के बच्चों का प्रवेश सुनिश्चित करना है।"
+      },
+      {
+       "question": "शैक्षणिक कैलेंडर यानी पढ़ाई का कैलेंडर कौन तय करता है?",
+       "options": [
+        "केंद्र सरकार",
+        "स्थानीय प्राधिकारी",
+        "विद्यालय प्रबंध समिति",
+        "शिक्षक"
+       ],
+       "answer": 1,
+       "explanation": "धारा 9 के अनुसार शैक्षणिक कैलेंडर तय करना स्थानीय प्राधिकारी का कर्तव्य है।"
+      },
+      {
+       "question": "धारा 9 के अनुसार स्थानीय प्राधिकारी का यह भी कर्तव्य है कि वह —",
+       "options": [
+        "अपने क्षेत्र के विद्यालयों के कामकाज की निगरानी करे",
+        "विद्यालयों से कैपिटेशन फीस वसूले",
+        "निजी विद्यालय बंद कराए",
+        "शिक्षकों की नियुक्ति रोक दे"
+       ],
+       "answer": 0,
+       "explanation": "धारा 9 के अनुसार स्थानीय प्राधिकारी अपने क्षेत्र के विद्यालयों के कामकाज की निगरानी करता है।"
+      }
+     ]
     },
     {
      "number": "10",
@@ -17728,7 +18241,64 @@
      "kitabi": "Duty of parents and guardian.—It shall be the duty of every parent or guardian to admit or cause to be admitted his or her child or ward, as the case may be, to an elementary education in the neighbourhood school.",
      "aasan": "माता-पिता या संरक्षक का कर्तव्य है कि अपने बच्चे को पास के स्कूल में दाखिला दिलाएँ और पढ़ाई पूरी कराएँ। बिना कारण बच्चे को स्कूल से न रोकें।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 10",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "धारा 10 में किसका कर्तव्य बताया गया है?",
+       "options": [
+        "माता-पिता और संरक्षक का",
+        "शिक्षक का",
+        "सरकार का",
+        "विद्यालय का"
+       ],
+       "answer": 0,
+       "explanation": "धारा 10 का शीर्षक माता-पिता और संरक्षक का कर्तव्य है।"
+      },
+      {
+       "question": "माता-पिता या संरक्षक का कर्तव्य क्या है?",
+       "options": [
+        "बच्चे को पड़ोस के विद्यालय में प्रारंभिक शिक्षा के लिए भेजना या प्रवेश कराना",
+        "बच्चे को केवल निजी विद्यालय में भेजना",
+        "विद्यालय को दान देना",
+        "बच्चे को घर पर ही पढ़ाना"
+       ],
+       "answer": 0,
+       "explanation": "धारा 10 के अनुसार हर माता-पिता या संरक्षक का कर्तव्य है कि वह बच्चे को पड़ोस के विद्यालय में प्रारंभिक शिक्षा के लिए भेजे।"
+      },
+      {
+       "question": "यह कर्तव्य किस पर लागू है?",
+       "options": [
+        "केवल पिता पर",
+        "केवल माता पर",
+        "हर माता-पिता या संरक्षक पर",
+        "केवल सरकारी कर्मचारियों पर"
+       ],
+       "answer": 2,
+       "explanation": "धारा 10 हर माता-पिता या संरक्षक के लिए है, चाहे वह पिता हो या माता।"
+      },
+      {
+       "question": "यदि माता-पिता बच्चे को विद्यालय नहीं भेजते, तो अधिनियम की दृष्टि से क्या सही है?",
+       "options": [
+        "वे अपना कर्तव्य पूरा नहीं कर रहे हैं",
+        "कोई बात नहीं, यह कर्तव्य नहीं है",
+        "सरकार उन्हें जेल भेजेगी",
+        "विद्यालय उन पर मुकदमा करेगा"
+       ],
+       "answer": 0,
+       "explanation": "धारा 10 ने बच्चे को विद्यालय भेजना माता-पिता या संरक्षक का कर्तव्य बनाया है, इसलिए न भेजना इस कर्तव्य का पालन न करना है।"
+      },
+      {
+       "question": "धारा 10 का उद्देश्य क्या है?",
+       "options": [
+        "बच्चों को विद्यालय भेजने में माता-पिता की भागीदारी सुनिश्चित करना",
+        "माता-पिता से फीस वसूलना",
+        "विद्यालयों की संख्या बढ़ाना",
+        "शिक्षकों को प्रशिक्षण देना"
+       ],
+       "answer": 0,
+       "explanation": "धारा 10 माता-पिता को जिम्मेदारी देती है, जिससे हर बच्चे का विद्यालय जाना सुनिश्चित हो सके।"
+      }
+     ]
     },
     {
      "number": "11",
@@ -17737,7 +18307,64 @@
      "kitabi": "Appropriate Government to provide for pre-school education.—With a view to prepare children above the age of three years for elementary education and to provide early childhood care and education for all children until they complete the age of six years, the appropriate Government may make necessary arrangement for providing free pre-school education for such children. CHAPTER IV RESPONSIBILITIES OF SCHOOLS AND TEACHERS",
      "aasan": "सरकार को तीन साल से छह साल के बच्चों के लिए पूर्व-प्राथमिक शिक्षा की व्यवस्था करनी है, जैसे आँगनवाड़ी और बालवाटिका।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 11",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "धारा 11 किस शिक्षा की व्यवस्था की बात करती है?",
+       "options": [
+        "पूर्व-प्राथमिक शिक्षा",
+        "माध्यमिक शिक्षा",
+        "उच्च शिक्षा",
+        "व्यावसायिक शिक्षा"
+       ],
+       "answer": 0,
+       "explanation": "धारा 11 का शीर्षक ही पूर्व-प्राथमिक शिक्षा की व्यवस्था है।"
+      },
+      {
+       "question": "यह व्यवस्था किस आयु के बच्चों के लिए है?",
+       "options": [
+        "जन्म से तीन वर्ष तक के बच्चों के लिए",
+        "तीन वर्ष से अधिक उम्र के बच्चों के लिए, छह वर्ष पूरा होने तक",
+        "छह से चौदह वर्ष के बच्चों के लिए",
+        "चौदह से अठारह वर्ष के बच्चों के लिए"
+       ],
+       "answer": 1,
+       "explanation": "धारा 11 के अनुसार यह व्यवस्था तीन वर्ष से अधिक उम्र के बच्चों के लिए है, छह वर्ष पूरा होने तक।"
+      },
+      {
+       "question": "यह पूर्व-प्राथमिक शिक्षा कैसी होनी चाहिए?",
+       "options": [
+        "निःशुल्क पूर्व-प्राथमिक शिक्षा",
+        "सशुल्क शिक्षा",
+        "केवल निजी विद्यालयों में",
+        "केवल शहरों में"
+       ],
+       "answer": 0,
+       "explanation": "धारा 11 में ऐसे बच्चों के लिए निःशुल्क पूर्व-प्राथमिक शिक्षा की व्यवस्था करने की बात कही गई है।"
+      },
+      {
+       "question": "यह व्यवस्था कौन कर सकता है?",
+       "options": [
+        "केवल माता-पिता",
+        "उपयुक्त सरकार",
+        "केवल निजी विद्यालय",
+        "केवल पंचायत"
+       ],
+       "answer": 1,
+       "explanation": "धारा 11 के अनुसार उपयुक्त सरकार ऐसे बच्चों के लिए आवश्यक प्रबंध कर सकती है।"
+      },
+      {
+       "question": "पूर्व-प्राथमिक शिक्षा का उद्देश्य क्या है?",
+       "options": [
+        "बच्चों को प्रारंभिक शिक्षा के लिए तैयार करना और छह वर्ष तक उनकी शुरुआती देखभाल व शिक्षा करना",
+        "बच्चों की परीक्षा लेना",
+        "बच्चों को काम सिखाना",
+        "बच्चों को धार्मिक शिक्षा देना"
+       ],
+       "answer": 0,
+       "explanation": "धारा 11 कहती है कि यह व्यवस्था बच्चों को प्रारंभिक शिक्षा के लिए तैयार करने और छह वर्ष तक उनकी शुरुआती देखभाल व शिक्षा के लिए है।"
+      }
+     ]
     },
     {
      "number": "12",
@@ -17746,7 +18373,64 @@
      "kitabi": "Extent of school's responsibility for free and compulsory education.—(1) For the purposes of this Act, a school,— (a) specified in sub-clause (i) of clause (n) of section 2 shall provide free and compulsory elementary education to all children admitted therein; (b) specified in sub-clause (ii) of clause (n) of section 2 shall provide free and compulsory elementary education to such proportion of children admitted therein as its annual recurring aid or grants so received bears to its annual recurring expenses, subject to a minimum of twenty-five per cent.; (c) specified in sub-clauses (iii) and (iv) of clause (n) of section 2 shall admit in class I, to the extent of at least twenty-five per cent. of the strength of that class, children belonging to weaker section and disadvantaged group in the neighbourhood and provide free and compulsory elementary education till its completion: Provided that where a school specified in clause (n) of section 2 imparts pre-school education, the provisions of clauses (a) to (c) shall apply for admission to such pre-school education. 8 (2) The school specified in sub-clause (iv) of clause (n) of section 2 providing free and compulsory elementary education as specified in clause (c) of sub-section (1) shall be reimbursed expenditure so incurred by it to the extent of per-child-expenditure incurred by the State, or the actual amount charged from the child, whichever is less, in such manner as may be prescribed: Provided that such reimbursement shall not exceed per-child-expenditure incurred by a school specified in sub-clause (i) of clause (n) of section 2: Provided further that where such school is already under obligation to provide free education to a specified number of children on account of it having received any land, building, equipment or other facilities, either free of cost or at a concessional rate, such school shall not be entitled for reimbursement to the extent of such obligation. (3) Every school shall provide such information as may be required by the appropriate Government or the local authority, as the case may be.",
      "aasan": "हर स्कूल का दायित्व है कि कमजोर और वंचित वर्ग के बच्चों को मुफ्त शिक्षा दे — पहली कक्षा में कम से कम 25 प्रतिशत सीटें इन बच्चों के लिए आरक्षित हैं। सरकार इन स्कूलों को खर्च की भरपाई करेगी।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 12",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "धारा 12 के अनुसार कक्षा 1 में कम से कम कितने प्रतिशत सीटें दुर्बल वर्ग और वंचित समूह के बच्चों के लिए रखी जाती हैं?",
+       "options": [
+        "10 प्रतिशत",
+        "15 प्रतिशत",
+        "25 प्रतिशत",
+        "50 प्रतिशत"
+       ],
+       "answer": 2,
+       "explanation": "धारा 12 के अनुसार कक्षा 1 की कुल संख्या के कम से कम 25 प्रतिशत स्थान दुर्बल वर्ग और वंचित समूह के बच्चों के लिए हैं।"
+      },
+      {
+       "question": "ये 25 प्रतिशत सीटें किन बच्चों के लिए हैं?",
+       "options": [
+        "पड़ोस के दुर्बल वर्ग और वंचित समूह के बच्चों के लिए",
+        "केवल उन बच्चों के लिए जिनके माता-पिता सरकारी कर्मचारी हैं",
+        "केवल दिव्यांग बच्चों के लिए",
+        "केवल अनाथ बच्चों के लिए"
+       ],
+       "answer": 0,
+       "explanation": "धारा 12 में पड़ोस के दुर्बल वर्ग और वंचित समूह के बच्चों का उल्लेख है।"
+      },
+      {
+       "question": "इन बच्चों को कब तक निःशुल्क प्रारंभिक शिक्षा मिलती है?",
+       "options": [
+        "केवल एक वर्ष तक",
+        "केवल कक्षा 1 तक",
+        "प्रारंभिक शिक्षा पूरी होने तक",
+        "केवल कक्षा 5 तक"
+       ],
+       "answer": 2,
+       "explanation": "धारा 12 कहती है कि इन बच्चों को प्रारंभिक शिक्षा पूरी होने तक निःशुल्क और अनिवार्य शिक्षा दी जाएगी।"
+      },
+      {
+       "question": "गैर-सहायता प्राप्त निजी विद्यालय को इन बच्चों के खर्च के लिए क्या मिलता है?",
+       "options": [
+        "कुछ नहीं मिलता",
+        "प्रतिपूर्ति, यानी राज्य का प्रति-बच्चा व्यय या बच्चे से ली गई रकम, जो भी कम हो",
+        "पूरी फीस मिलती है",
+        "केवल पुस्तकों का पैसा"
+       ],
+       "answer": 1,
+       "explanation": "धारा 12 के अनुसार ऐसे विद्यालय को राज्य के प्रति-बच्चा व्यय या बच्चे से ली गई रकम में जो कम हो, उतनी प्रतिपूर्ति मिलती है।"
+      },
+      {
+       "question": "धारा 12 के अनुसार हर विद्यालय का क्या कर्तव्य है?",
+       "options": [
+        "उपयुक्त सरकार या स्थानीय प्राधिकारी द्वारा मांगी गई सूचना देना",
+        "हर साल नई फीस तय करना",
+        "केवल अच्छे अंक लाने वाले बच्चों की सूची देना",
+        "कोई सूचना नहीं देना"
+       ],
+       "answer": 0,
+       "explanation": "धारा 12 के अनुसार हर विद्यालय उपयुक्त सरकार या स्थानीय प्राधिकारी द्वारा मांगी गई सूचना देगा।"
+      }
+     ]
     },
     {
      "number": "13",
@@ -17755,7 +18439,64 @@
      "kitabi": "No capitation fee and screening procedure for admission.—(1) No school or person shall, while admitting a child, collect any capitation fee and subject the child or his or her parents or guardian to any screening procedure. (2) Any school or person, if in contravention of the provisions of sub-section (1),— (a) receives capitation fee, shall be punishable with fine which may extend to ten times the capitation fee charged; (b) subjects a child to screening procedure, shall be punishable with fine which may extend to twenty-five thousand rupees for the first contravention and fifty thousand rupees for each subsequent contraventions.",
      "aasan": "प्रवेश के नाम पर कैपिटेशन फीस या डोनेशन माँगना गैरकानूनी है। बच्चे या माता-पिता का साक्षात्कार या छँटाई भी नहीं की जा सकती।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 13",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "प्रवेश के समय विद्यालय क्या नहीं ले सकता?",
+       "options": [
+        "सामान्य फीस",
+        "कैपिटेशन फीस",
+        "परीक्षा शुल्क",
+        "पुस्तक शुल्क"
+       ],
+       "answer": 1,
+       "explanation": "धारा 13 के अनुसार प्रवेश के समय कोई भी विद्यालय या व्यक्ति कैपिटेशन फीस नहीं ले सकता।"
+      },
+      {
+       "question": "कैपिटेशन फीस लेने पर जुर्माना कितना हो सकता है?",
+       "options": [
+        "कैपिटेशन फीस के बराबर",
+        "कैपिटेशन फीस का दस गुना तक",
+        "दस हजार रुपये",
+        "पचास हजार रुपये"
+       ],
+       "answer": 1,
+       "explanation": "धारा 13 के अनुसार कैपिटेशन फीस लेने पर जुर्माना कैपिटेशन फीस के दस गुने तक हो सकता है।"
+      },
+      {
+       "question": "छँटाई प्रक्रिया का अर्थ क्या है?",
+       "options": [
+        "बच्चों के चयन की ऐसी विधि जिसमें किसी बच्चे को दूसरे पर वरीयता दी जाए, सिवाय यादृच्छिक विधि के",
+        "बच्चों को कक्षा में बैठाना",
+        "बच्चों की उपस्थिति लेना",
+        "बच्चों के परीक्षा परिणाम की सूची"
+       ],
+       "answer": 0,
+       "explanation": "धारा 2 के अनुसार छँटाई प्रक्रिया वह चयन विधि है जिसमें एक बच्चे को दूसरे पर वरीयता दी जाती है, सिवाय यादृच्छिक विधि के।"
+      },
+      {
+       "question": "पहली बार बच्चे की छँटाई करने पर जुर्माना कितना हो सकता है?",
+       "options": [
+        "पाँच हजार रुपये तक",
+        "पच्चीस हजार रुपये तक",
+        "पचास हजार रुपये तक",
+        "एक लाख रुपये तक"
+       ],
+       "answer": 1,
+       "explanation": "धारा 13 के अनुसार पहली बार छँटाई करने पर जुर्माना पच्चीस हजार रुपये तक हो सकता है।"
+      },
+      {
+       "question": "धारा 13 के अनुसार प्रवेश के समय क्या मना है?",
+       "options": [
+        "बच्चे का नाम लिखना",
+        "कैपिटेशन फीस लेना और बच्चे या उसके माता-पिता की छँटाई प्रक्रिया करना",
+        "बच्चे की आयु पूछना",
+        "बच्चे का पता पूछना"
+       ],
+       "answer": 1,
+       "explanation": "धारा 13 प्रवेश के समय कैपिटेशन फीस लेने और छँटाई प्रक्रिया करने, दोनों को मना करती है।"
+      }
+     ]
     },
     {
      "number": "14",
@@ -17764,7 +18505,64 @@
      "kitabi": "Proof of age for admission.—(1) For the purposes of admission to elementary education, the age of a child shall be determined on the basis of the birth certificate issued in accordance with the provisions of the Births, Deaths and Marriages Registration Act, 1886 (6 of 1886) or on the basis of such other document, as may be prescribed. (2) No child shall be denied admission in a school for lack of age proof.",
      "aasan": "जन्मतिथि के प्रमाण के अभाव में प्रवेश नहीं रोका जा सकता। आयु का अनुमान लगाकर भी दाखिला दिया जा सकता है।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 14",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "धारा 14 किस बारे में है?",
+       "options": [
+        "प्रवेश के लिए आयु का प्रमाण",
+        "प्रवेश शुल्क",
+        "परीक्षा का तरीका",
+        "विद्यालय की मान्यता"
+       ],
+       "answer": 0,
+       "explanation": "धारा 14 का शीर्षक प्रवेश के लिए आयु का प्रमाण है।"
+      },
+      {
+       "question": "बच्चे की आयु किस आधार पर तय की जाती है?",
+       "options": [
+        "माता-पिता के बयान से",
+        "जन्म प्रमाणपत्र या विहित किसी अन्य दस्तावेज़ से",
+        "विद्यालय मुखिया के अनुमान से",
+        "केवल आधार कार्ड से"
+       ],
+       "answer": 1,
+       "explanation": "धारा 14 के अनुसार आयु जन्म प्रमाणपत्र या विहित किसी अन्य दस्तावेज़ के आधार पर तय की जाती है।"
+      },
+      {
+       "question": "जन्म प्रमाणपत्र न होने पर विद्यालय क्या कर सकता है?",
+       "options": [
+        "प्रवेश से इनकार कर सकता है",
+        "विहित किसी अन्य दस्तावेज़ के आधार पर आयु तय करके प्रवेश दे सकता है",
+        "बच्चे को अगले साल आने को कह सकता है",
+        "फीस बढ़ा सकता है"
+       ],
+       "answer": 1,
+       "explanation": "धारा 14 में जन्म प्रमाणपत्र के अलावा विहित अन्य दस्तावेज़ का भी विकल्प दिया गया है।"
+      },
+      {
+       "question": "धारा 14 क्या कहती है?",
+       "options": [
+        "आयु प्रमाण के अभाव में बच्चे को प्रवेश से इनकार नहीं किया जा सकता",
+        "प्रवेश के लिए जन्म प्रमाणपत्र अनिवार्य है",
+        "आयु प्रमाण न हो तो प्रवेश नहीं मिलेगा",
+        "आयु प्रमाण के लिए शुल्क लिया जाएगा"
+       ],
+       "answer": 0,
+       "explanation": "धारा 14 स्पष्ट कहती है कि आयु प्रमाण के अभाव में बच्चे को विद्यालय में प्रवेश से इनकार नहीं किया जा सकता।"
+      },
+      {
+       "question": "यह प्रावधान किन बच्चों के लिए सबसे ज्यादा मददगार है?",
+       "options": [
+        "जिनके पास जन्म प्रमाणपत्र जैसे दस्तावेज़ नहीं हैं",
+        "जिनके माता-पिता पढ़े-लिखे हैं",
+        "जो शहर में रहते हैं",
+        "जो निजी विद्यालय में पढ़ते हैं"
+       ],
+       "answer": 0,
+       "explanation": "जिन बच्चों के पास जन्म प्रमाणपत्र नहीं है, उन्हें यह प्रावधान प्रवेश पाने में मदद करता है।"
+      }
+     ]
     },
     {
      "number": "15",
@@ -17773,16 +18571,130 @@
      "kitabi": "No denial of admission.—A child shall be admitted in a school at the commencement of the academic year or within such extended period as may be prescribed: Provided that no child shall be denied admission if such admission is sought subsequent to the extended period: Provided further that any child admitted after the extended period shall complete his studies in such manner as may be prescribed by the appropriate Government.",
      "aasan": "दाखिले के समय या बाद में किसी बच्चे को किसी कारण से प्रवेश देने से मना नहीं किया जा सकता।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 15",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "धारा 15 का विषय क्या है?",
+       "options": [
+        "प्रवेश से इनकार नहीं",
+        "फीस की वसूली",
+        "विद्यालय की मान्यता",
+        "शिक्षक की नियुक्ति"
+       ],
+       "answer": 0,
+       "explanation": "धारा 15 का शीर्षक प्रवेश से इनकार नहीं है।"
+      },
+      {
+       "question": "बच्चे का प्रवेश कब होना चाहिए?",
+       "options": [
+        "शैक्षणिक वर्ष के प्रारंभ में या विहित विस्तारित अवधि के भीतर",
+        "केवल जुलाई महीने में",
+        "जब विद्यालय में जगह बचे",
+        "जब फीस जमा हो जाए"
+       ],
+       "answer": 0,
+       "explanation": "धारा 15 के अनुसार बच्चे का प्रवेश शैक्षणिक वर्ष के प्रारंभ में या विहित विस्तारित अवधि के भीतर होना चाहिए।"
+      },
+      {
+       "question": "विस्तारित अवधि के बाद प्रवेश मांगने पर क्या होगा?",
+       "options": [
+        "प्रवेश से इनकार किया जा सकता है",
+        "प्रवेश से इनकार नहीं किया जा सकता",
+        "बच्चे को अगले साल आना होगा",
+        "दुगनी फीस देनी होगी"
+       ],
+       "answer": 1,
+       "explanation": "धारा 15 के पहले परंतुक के अनुसार विस्तारित अवधि के बाद प्रवेश मांगने पर भी इनकार नहीं किया जा सकता।"
+      },
+      {
+       "question": "देर से प्रवेश पाने वाले बच्चे को क्या करना होगा?",
+       "options": [
+        "अपनी पढ़ाई विहित तरीके से पूरी करनी होगी",
+        "फिर से कक्षा 1 से शुरू करना होगा",
+        "परीक्षा में नहीं बैठना होगा",
+        "कुछ नहीं करना होगा"
+       ],
+       "answer": 0,
+       "explanation": "धारा 15 के दूसरे परंतुक के अनुसार देर से प्रवेश पाने वाला बच्चा विहित तरीके से अपनी पढ़ाई पूरी करेगा।"
+      },
+      {
+       "question": "अगर कोई विद्यालय देर से आए बच्चे को प्रवेश देने से मना कर दे, तो अधिनियम के अनुसार यह —",
+       "options": [
+        "सही है",
+        "गलत है, प्रवेश दिया जाना चाहिए",
+        "विद्यालय की मर्जी है",
+        "माता-पिता पर निर्भर है"
+       ],
+       "answer": 1,
+       "explanation": "धारा 15 के अनुसार देर से प्रवेश मांगने पर भी बच्चे को प्रवेश से इनकार नहीं किया जा सकता।"
+      }
+     ]
     },
     {
      "number": "16",
-     "title": "रोकने और निकालने पर रोक",
+     "title": "परीक्षा और कुछ मामलों में रोकना",
      "part": "भाग 4 — विद्यालयों और शिक्षकों के दायित्व",
      "kitabi": "Prohibition of holding back and expulsion.—No child admitted in a school shall be held back in any class or expelled from school till the completion of elementary education.",
-     "aasan": "किसी बच्चे को कक्षा में रोका या स्कूल से निकाला नहीं जा सकता, जब तक प्रारंभिक शिक्षा पूरी न हो जाए।",
+     "aasan": "धारा 16 बदल चुकी है। अब पाँचवीं और आठवीं कक्षा में नियमित परीक्षा हो सकती है, और पुन:परीक्षा में भी फेल होने पर बच्चे को उसी कक्षा में रोका जा सकता है। बीच की कक्षाओं में बच्चे को रोका या निकाला नहीं जा सकता।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 16",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "धारा 16 के अनुसार किन कक्षाओं में नियमित परीक्षा हो सकती है?",
+       "options": [
+        "पाँचवीं और आठवीं",
+        "पहली और दूसरी",
+        "केवल आठवीं",
+        "किसी में नहीं"
+       ],
+       "answer": 0,
+       "explanation": "संशोधन के बाद पाँचवीं और आठवीं कक्षा में नियमित परीक्षा की व्यवस्था है।"
+      },
+      {
+       "question": "पुन:परीक्षा में भी फेल होने पर बच्चे के साथ क्या हो सकता है?",
+       "options": [
+        "उसी कक्षा में रोका जा सकता है",
+        "स्कूल से निकाल दिया जाएगा",
+        "कुछ नहीं होगा",
+        "दूसरे स्कूल भेज दिया जाएगा"
+       ],
+       "answer": 0,
+       "explanation": "पुन:परीक्षा के बाद भी फेल होने पर बच्चे को उसी कक्षा में रोका जा सकता है।"
+      },
+      {
+       "question": "बीच की कक्षाओं में बच्चे के साथ क्या नहीं किया जा सकता?",
+       "options": [
+        "रोका या निकाला नहीं जा सकता",
+        "पढ़ाया नहीं जा सकता",
+        "परीक्षा नहीं ली जा सकती",
+        "प्रवेश नहीं दिया जा सकता"
+       ],
+       "answer": 0,
+       "explanation": "बीच की कक्षाओं में बच्चे को रोकने या निकालने की मनाही है।"
+      },
+      {
+       "question": "इस धारा का उद्देश्य क्या है?",
+       "options": [
+        "पढ़ाई का स्तर जाँचना, पर बच्चे को स्कूल से बाहर न करना",
+        "बच्चों को निकालना",
+        "फीस बढ़ाना",
+        "शिक्षक बदलना"
+       ],
+       "answer": 0,
+       "explanation": "उद्देश्य यह है कि सीखने का स्तर जाँचा जाए, पर बच्चा पढ़ाई से बाहर न हो।"
+      },
+      {
+       "question": "प्रारंभिक शिक्षा से क्या अर्थ है?",
+       "options": [
+        "पहली से आठवीं कक्षा तक",
+        "केवल पाँचवीं तक",
+        "नौवीं से बारहवीं तक",
+        "केवल पहली कक्षा"
+       ],
+       "answer": 0,
+       "explanation": "प्रारंभिक शिक्षा का अर्थ पहली से आठवीं कक्षा तक की शिक्षा है।"
+      }
+     ]
     },
     {
      "number": "17",
@@ -17791,7 +18703,64 @@
      "kitabi": "Prohibition of physical punishment and mental harassment to child.—(1) No child shall be subjected to physical punishment or mental harassment. (2) Whoever contravenes the provisions of sub-section (1) shall be liable to disciplinary action under the service rules applicable to such person.",
      "aasan": "बच्चे को शारीरिक दंड या मानसिक उत्पीड़न देना मना है। ऐसा करने पर शिक्षक के खिलाफ अनुशासनात्मक कार्रवाई होगी।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 17",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "धारा 17 क्या मना करती है?",
+       "options": [
+        "शारीरिक दंड और मानसिक उत्पीड़न",
+        "विद्यालय में प्रार्थना",
+        "गृहकार्य देना",
+        "परीक्षा लेना"
+       ],
+       "answer": 0,
+       "explanation": "धारा 17 का शीर्षक शारीरिक दंड और मानसिक उत्पीड़न पर रोक है।"
+      },
+      {
+       "question": "धारा 17 का उल्लंघन करने वाले व्यक्ति के साथ क्या हो सकता है?",
+       "options": [
+        "कुछ नहीं होगा",
+        "उस पर सेवा नियमों के अंतर्गत अनुशासनात्मक कार्रवाई हो सकती है",
+        "उसे केवल मौखिक चेतावनी मिलेगी",
+        "उसे विद्यालय से निकाल दिया जाएगा"
+       ],
+       "answer": 1,
+       "explanation": "धारा 17 के अनुसार उल्लंघन करने वाले पर लागू सेवा नियमों के अंतर्गत अनुशासनात्मक कार्रवाई हो सकती है।"
+      },
+      {
+       "question": "क्या शिक्षक बच्चे को मार सकता है?",
+       "options": [
+        "हाँ, अगर बच्चा शरारत करे",
+        "हाँ, थोड़ी सजा दे सकता है",
+        "नहीं, शारीरिक दंड देना मना है",
+        "हाँ, केवल लड़कों को"
+       ],
+       "answer": 2,
+       "explanation": "धारा 17 किसी भी बच्चे को शारीरिक दंड देने की अनुमति नहीं देती।"
+      },
+      {
+       "question": "मानसिक उत्पीड़न का उदाहरण क्या है?",
+       "options": [
+        "बच्चे को सबके सामने अपमानित करना या डराना",
+        "बच्चे को पुस्तक देना",
+        "बच्चे से सवाल पूछना",
+        "बच्चे को खेलने देना"
+       ],
+       "answer": 0,
+       "explanation": "बच्चे को अपमानित करना या डराना मानसिक उत्पीड़न है, जिसे धारा 17 मना करती है।"
+      },
+      {
+       "question": "धारा 17 किसके लिए है?",
+       "options": [
+        "केवल कक्षा 8 के बच्चों के लिए",
+        "विद्यालय में पढ़ने वाले हर बच्चे के लिए",
+        "केवल दिव्यांग बच्चों के लिए",
+        "केवल लड़कियों के लिए"
+       ],
+       "answer": 1,
+       "explanation": "धारा 17 किसी भी बच्चे को शारीरिक दंड या मानसिक उत्पीड़न से सुरक्षा देती है।"
+      }
+     ]
     },
     {
      "number": "18",
@@ -17800,7 +18769,64 @@
      "kitabi": "No School to be established without obtaining certificate of recognition.—(1) No school, other than a school established, owned or controlled by the appropriate Government or the local authority, shall, after the commencement of this Act, be established or function, without obtaining a certificate of recognition from such authority, by making an application in such form and manner, as may be prescribed. (2) The authority prescribed under sub-section (1) shall issue the certificate of recognition in such form, within such period, in such manner, and subject to such conditions, as may be prescribed: 9 Provided that no such recognition shall be granted to a school unless it fulfils norms and standards specified under section 19. (3) On the contravention of the conditions of recognition, the prescribed authority shall, by an order in writing, withdraw recognition: Provided that such order shall contain a direction as to which of the neighbourhood school, the children studying in the derecognised school, shall be admitted: Provided further that no recognition shall be so withdrawn without giving an opportunity of being heard to such school, in such manner, as may be prescribed. (4) With effect from the date of withdrawal of the recognition under sub-section (3), no such school shall continue to function. (5) Any person who establishes or runs a school without obtaining certificate of recognition, or continues to run a school after withdrawal of recognition, shall be liable to fine which may extend to one lakh rupees and in case of continuing contraventions, to a fine of ten thousand rupees for each day during which such contravention continues.",
      "aasan": "मान्यता प्रमाणपत्र लिए बिना कोई स्कूल नहीं चल सकता। बिना मान्यता वाले स्कूल पर जुर्माना लग सकता है।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 18",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "विद्यालय खोलने या चलाने के लिए क्या जरूरी है?",
+       "options": [
+        "मान्यता प्रमाणपत्र",
+        "फीस का रजिस्टर",
+        "पंचायत की अनुमति",
+        "कुछ भी जरूरी नहीं"
+       ],
+       "answer": 0,
+       "explanation": "धारा 18 के अनुसार सरकारी विद्यालय के अलावा किसी भी विद्यालय को मान्यता प्रमाणपत्र लेना जरूरी है।"
+      },
+      {
+       "question": "किन विद्यालयों को मान्यता प्रमाणपत्र की जरूरत नहीं है?",
+       "options": [
+        "निजी विद्यालयों को",
+        "उपयुक्त सरकार या स्थानीय प्राधिकारी द्वारा स्थापित, अपने स्वामित्व वाले या नियंत्रित विद्यालयों को",
+        "सहायता प्राप्त विद्यालयों को",
+        "केंद्रीय विद्यालयों को"
+       ],
+       "answer": 1,
+       "explanation": "धारा 18 में उपयुक्त सरकार या स्थानीय प्राधिकारी द्वारा स्थापित, स्वामित्व वाले या नियंत्रित विद्यालयों को इससे छूट दी गई है।"
+      },
+      {
+       "question": "मान्यता देने से पहले प्राधिकारी क्या देखता है?",
+       "options": [
+        "विद्यालय धारा 19 के मानदंड और मानक पूरे करता है या नहीं",
+        "विद्यालय की फीस कितनी है",
+        "विद्यालय में कितने शिक्षक रह चुके हैं",
+        "माता-पिता की आय कितनी है"
+       ],
+       "answer": 0,
+       "explanation": "धारा 18 के परंतुक के अनुसार जब तक विद्यालय धारा 19 के मानदंड और मानक पूरे न करे, मान्यता नहीं दी जाती।"
+      },
+      {
+       "question": "मान्यता कब वापस ली जा सकती है?",
+       "options": [
+        "मान्यता की शर्तों के उल्लंघन पर, विद्यालय को सुनने का अवसर देकर",
+        "बिना किसी कारण के",
+        "जब विद्यालय लाभ में हो",
+        "जब प्रधानाध्यापक बदल जाए"
+       ],
+       "answer": 0,
+       "explanation": "धारा 18 के अनुसार शर्तों के उल्लंघन पर मान्यता वापस ली जा सकती है, पर विद्यालय को सुनने का अवसर देना जरूरी है।"
+      },
+      {
+       "question": "बिना मान्यता विद्यालय चलाने पर जुर्माना क्या है?",
+       "options": [
+        "दस हजार रुपये तक",
+        "एक लाख रुपये तक और जारी उल्लंघन पर प्रतिदिन दस हजार रुपये",
+        "पचास हजार रुपये तक",
+        "कोई जुर्माना नहीं"
+       ],
+       "answer": 1,
+       "explanation": "धारा 18 के अनुसार जुर्माना एक लाख रुपये तक हो सकता है और उल्लंघन जारी रहने पर प्रतिदिन दस हजार रुपये।"
+      }
+     ]
     },
     {
      "number": "19",
@@ -17809,7 +18835,64 @@
      "kitabi": "Norms and standards for school.—(1) No school shall be established, or recognised under section 18, unless it fulfils the norms and standards specified in the Schedule. (2) Where a school established before the commencement of this Act does not fulfil the norms and standards specified in the Schedule, it shall take steps to fulfil such norms and standards at its own expenses, within a period of three years from the date of such commencement. (3) Where a school fails to fulfil the norms and standards within the period specified under sub-section (2), the authority prescribed under sub-section (1) of section 18 shall withdraw recognition granted to such school in the manner specified under sub-section (3) thereof. (4) With effect from the date of withdrawal of recognition under sub-section (3), no school shall continue to function. (5) Any person who continues to run a school after the recognition is withdrawn, shall be liable to fine which may extend to one lakh rupees and in case of continuing contraventions, to a fine of ten thousand rupees for each day during which such contravention continues.",
      "aasan": "हर स्कूल को तय मानदंड पूरे करने होंगे — जैसे शिक्षकों की संख्या, भवन, खेल का मैदान, पुस्तकालय और पीने का पानी। ये मानदंड अनुसूची में दिए गए हैं।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 19",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "धारा 19 के अनुसार विद्यालय को क्या पूरा करना जरूरी है?",
+       "options": [
+        "अनुसूची में दिए गए मानदंड और मानक",
+        "केवल भवन संबंधी शर्त",
+        "केवल शिक्षकों की संख्या",
+        "केवल फीस का नियम"
+       ],
+       "answer": 0,
+       "explanation": "धारा 19 कहती है कि अनुसूची में दिए गए मानदंड और मानक पूरे किए बिना विद्यालय स्थापित या मान्यता प्राप्त नहीं किया जा सकता।"
+      },
+      {
+       "question": "जो विद्यालय इस अधिनियम से पहले खुल चुके हैं और मानक पूरे नहीं करते, उन्हें कितने समय में मानक पूरे करने हैं?",
+       "options": [
+        "एक वर्ष में",
+        "दो वर्ष में",
+        "तीन वर्ष में, अपने खर्च पर",
+        "पाँच वर्ष में, सरकार के खर्च पर"
+       ],
+       "answer": 2,
+       "explanation": "धारा 19 के अनुसार ऐसे विद्यालय को अधिनियम के प्रारंभ से तीन वर्ष के भीतर अपने खर्च पर मानक पूरे करने हैं।"
+      },
+      {
+       "question": "अनुसूची के अनुसार कक्षा 1 से 5 के लिए एक शैक्षणिक वर्ष में कम से कम कितने कार्य दिवस होने चाहिए?",
+       "options": [
+        "180 दिन",
+        "200 दिन",
+        "220 दिन",
+        "240 दिन"
+       ],
+       "answer": 1,
+       "explanation": "अनुसूची में कक्षा 1 से 5 के लिए दो सौ कार्य दिवस तय किए गए हैं।"
+      },
+      {
+       "question": "अनुसूची के अनुसार कक्षा 6 से 8 के लिए कम से कम कितने कार्य दिवस होने चाहिए?",
+       "options": [
+        "200 दिन",
+        "210 दिन",
+        "220 दिन",
+        "250 दिन"
+       ],
+       "answer": 2,
+       "explanation": "अनुसूची में कक्षा 6 से 8 के लिए दो सौ बीस कार्य दिवस तय किए गए हैं।"
+      },
+      {
+       "question": "अनुसूची के अनुसार हर विद्यालय में क्या होना चाहिए?",
+       "options": [
+        "पुस्तकालय, जिसमें समाचार पत्र, पत्रिकाएँ और सभी विषयों की किताबें हों",
+        "केवल एक कमरा",
+        "केवल कंप्यूटर",
+        "केवल खेल का मैदान"
+       ],
+       "answer": 0,
+       "explanation": "अनुसूची के अनुसार हर विद्यालय में पुस्तकालय होगा, जिसमें समाचार पत्र, पत्रिकाएँ और सभी विषयों की किताबें हों।"
+      }
+     ]
     },
     {
      "number": "20",
@@ -17818,7 +18901,64 @@
      "kitabi": "Power to amend Schedule.—The Central Government may, by notification, amend the Schedule by adding to, or omitting therefrom, any norms and standards.",
      "aasan": "सरकार अनुसूची में दिए मानदंड बदल सकती है, लेकिन यह बदलाव संसद के सामने रखा जाएगा।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 20",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "धारा 20 के अनुसार अनुसूची में संशोधन की शक्ति किसके पास है?",
+       "options": [
+        "राज्य सरकार",
+        "केंद्र सरकार",
+        "स्थानीय प्राधिकारी",
+        "संसद के दोनों सदन"
+       ],
+       "answer": 1,
+       "explanation": "धारा 20 के अनुसार अनुसूची में संशोधन करने की शक्ति केंद्र सरकार के पास है।"
+      },
+      {
+       "question": "यह संशोधन किस प्रकार किया जाता है?",
+       "options": [
+        "अधिसूचना जारी करके",
+        "संसद में नया कानून बनाकर",
+        "सर्वोच्च न्यायालय के आदेश से",
+        "राज्यपाल के आदेश से"
+       ],
+       "answer": 0,
+       "explanation": "धारा 20 कहती है कि केंद्र सरकार अधिसूचना द्वारा अनुसूची में संशोधन करती है।"
+      },
+      {
+       "question": "केंद्र सरकार अनुसूची में क्या कर सकती है?",
+       "options": [
+        "मानदंड और मानक जोड़ सकती है या हटा सकती है",
+        "केवल मानदंड जोड़ सकती है",
+        "केवल मानदंड हटा सकती है",
+        "अनुसूची में कुछ नहीं बदल सकती"
+       ],
+       "answer": 0,
+       "explanation": "धारा 20 के अनुसार केंद्र सरकार अनुसूची में मानदंड और मानक जोड़ सकती है या हटा सकती है।"
+      },
+      {
+       "question": "क्या राज्य सरकार अपने हिसाब से अनुसूची के मानक बदल सकती है?",
+       "options": [
+        "हाँ, बदल सकती है",
+        "नहीं, यह शक्ति केंद्र सरकार के पास है",
+        "हाँ, राज्यपाल की अनुमति से",
+        "हाँ, पंचायत के प्रस्ताव पर"
+       ],
+       "answer": 1,
+       "explanation": "अनुसूची में संशोधन की शक्ति केवल केंद्र सरकार को धारा 20 ने दी है।"
+      },
+      {
+       "question": "अनुसूची में क्या दिया गया है?",
+       "options": [
+        "विद्यालय के लिए मानदंड और मानक",
+        "फीस की दरें",
+        "शिक्षकों के वेतन",
+        "परीक्षा की तिथियाँ"
+       ],
+       "answer": 0,
+       "explanation": "अनुसूची में विद्यालय के लिए मानदंड और मानक दिए गए हैं, इसीलिए धारा 20 उन्हें बदलने की शक्ति देती है।"
+      }
+     ]
     },
     {
      "number": "21",
@@ -17827,7 +18967,64 @@
      "kitabi": "School Management Committee.—(1) A school, other than a school specified in sub-clause (iv) of clause (n) of section 2, shall constitute a School Management Committee consisting of the elected representatives of the local authority, parents or guardians of children admitted in such school and teachers: Provided that at least three-fourth of members of such Committee shall be parents or guardians: Provided further that proportionate representation shall be given to the parents or guardians of children belonging to disadvantaged group and weaker section: Provided also that fifty per cent. of Members of such Committee shall be women. (2) The School Management Committee shall perform the following functions, namely:— (a) monitor the working of the school; (b) prepare and recommend school development plan; (c) monitor the utilisation of the grants received from the appropriate Government or local authority or any other source; and (d) perform such other functions as may be prescribed: 10 1[Provided that the School Management Committee constituted under sub-section (1) in respect of,— (a) a school established and administered by minority whether based on religion or language; and (b) all other aided schools as defined in sub-section (ii) of clause (n) of section 2, shall perform advisory function only.]",
      "aasan": "हर सरकारी और सरकारी सहायता पाए स्कूल में विद्यालय प्रबंध समिति बनेगी, जिसमें अभिभावक और स्थानीय लोग शामिल होंगे, जिनमें कम से कम तीन-चौथाई अभिभावक होंगे और आधी महिलाएँ।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 21",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "विद्यालय प्रबंध समिति के सदस्यों में कम से कम कितने भाग माता-पिता या अभिभावक होने चाहिए?",
+       "options": [
+        "सभी सदस्य",
+        "तीन-चौथाई",
+        "एक-चौथाई",
+        "आधे"
+       ],
+       "answer": 1,
+       "explanation": "अधिनियम कहता है कि समिति के कम से कम तीन-चौथाई सदस्य बच्चों के माता-पिता या अभिभावक होंगे।"
+      },
+      {
+       "question": "विद्यालय प्रबंध समिति के सदस्यों में कितनी महिलाएँ होनी चाहिए?",
+       "options": [
+        "तीन-चौथाई",
+        "एक-चौथाई",
+        "आधी यानी पचास प्रतिशत",
+        "एक-तिहाई"
+       ],
+       "answer": 2,
+       "explanation": "अधिनियम के अनुसार समिति के पचास प्रतिशत सदस्य महिलाएँ होंगी।"
+      },
+      {
+       "question": "विद्यालय प्रबंध समिति किन लोगों से मिलकर बनती है?",
+       "options": [
+        "केवल शिक्षकों से",
+        "केवल माता-पिता से",
+        "केवल सरकारी अधिकारियों से",
+        "स्थानीय प्राधिकरण के निर्वाचित प्रतिनिधियों, विद्यालय में पढ़ने वाले बच्चों के माता-पिता या अभिभावकों और शिक्षकों से"
+       ],
+       "answer": 3,
+       "explanation": "समिति में स्थानीय प्राधिकरण के निर्वाचित प्रतिनिधि, बच्चों के माता-पिता या अभिभावक और शिक्षक शामिल होते हैं।"
+      },
+      {
+       "question": "इनमें से कौन सा काम विद्यालय प्रबंध समिति के कार्यों में शामिल नहीं है?",
+       "options": [
+        "बोर्ड की परीक्षा का आयोजन करना",
+        "मिलने वाली अनुदान राशि के उपयोग की निगरानी करना",
+        "विद्यालय विकास योजना तैयार करना और उसकी सिफारिश करना",
+        "विद्यालय के कामकाज की निगरानी करना"
+       ],
+       "answer": 0,
+       "explanation": "समिति के काम निगरानी, विद्यालय विकास योजना और अनुदान के उपयोग की निगरानी हैं; परीक्षा कराना इसके कार्यों में नहीं है।"
+      },
+      {
+       "question": "अल्पसंख्यक विद्यालय तथा अन्य सहायता प्राप्त विद्यालयों की विद्यालय प्रबंध समिति क्या भूमिका निभाती है?",
+       "options": [
+        "कोई भूमिका नहीं",
+        "केवल सलाहकारी भूमिका",
+        "पूरी प्रबंधकीय भूमिका",
+        "केवल आर्थिक भूमिका"
+       ],
+       "answer": 1,
+       "explanation": "ऐसे विद्यालयों की समिति केवल सलाहकारी कार्य करती है, यह अधिनियम में स्पष्ट कहा गया है।"
+      }
+     ]
     },
     {
      "number": "22",
@@ -17836,7 +19033,64 @@
      "kitabi": "School Development Plan.—(1) Every 2[School Management Committee, except the School Management Committee in respect of a school established and administered by minority, whether based on religion or language and an aided school as defined in sub-clause (ii) of clause (n) of section 2, constituted] under sub-section (1) of section 21, shall prepare a School Development Plan, in such manner as may be prescribed. (2) The School Development Plan so prepared under sub-section (1) shall be the basis for the plans and grants to be made by the appropriate Government or local authority, as the case may be.",
      "aasan": "प्रबंध समिति स्कूल के लिए विद्यालय विकास योजना बनाएगी, जिसमें स्कूल की जरूरतें और सुधार की योजना लिखी होगी।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 22",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "विद्यालय विकास योजना कौन तैयार करती है?",
+       "options": [
+        "जिला शिक्षा अधिकारी",
+        "राज्य सरकार",
+        "विद्यालय प्रबंध समिति",
+        "स्थानीय प्राधिकरण"
+       ],
+       "answer": 2,
+       "explanation": "अधिनियम के अनुसार विद्यालय प्रबंध समिति ही विद्यालय विकास योजना तैयार करती है।"
+      },
+      {
+       "question": "विद्यालय विकास योजना किसका आधार बनती है?",
+       "options": [
+        "शिक्षकों की नियुक्ति का",
+        "परीक्षा परिणाम का",
+        "विद्यालय की फीस तय करने का",
+        "उपयुक्त सरकार या स्थानीय प्राधिकरण द्वारा बनाई जाने वाली योजनाओं और दिए जाने वाले अनुदान का"
+       ],
+       "answer": 3,
+       "explanation": "अधिनियम कहता है कि यह योजना उपयुक्त सरकार या स्थानीय प्राधिकरण की योजनाओं और अनुदान का आधार होगी।"
+      },
+      {
+       "question": "विद्यालय विकास योजना किस तरीके से तैयार की जाती है?",
+       "options": [
+        "जैसा नियमों में निर्धारित किया गया हो",
+        "जिलाधिकारी के मौखिक आदेश से",
+        "समिति की अपनी इच्छा से",
+        "किसी भी तरह से"
+       ],
+       "answer": 0,
+       "explanation": "योजना नियमों में बताए गए तरीके से ही तैयार की जाती है।"
+      },
+      {
+       "question": "किन विद्यालयों की प्रबंध समिति को विद्यालय विकास योजना तैयार करने से छूट दी गई है?",
+       "options": [
+        "केवल बालिका विद्यालय",
+        "अल्पसंख्यक द्वारा स्थापित और संचालित विद्यालय तथा सहायता प्राप्त विद्यालय",
+        "सरकारी विद्यालय",
+        "केवल ग्रामीण विद्यालय"
+       ],
+       "answer": 1,
+       "explanation": "अल्पसंख्यक विद्यालयों और सहायता प्राप्त विद्यालयों की समिति को यह योजना बनाने की जिम्मेदारी से अलग रखा गया है।"
+      },
+      {
+       "question": "विद्यालय विकास योजना तैयार करने के बाद समिति उसका क्या करती है?",
+       "options": [
+        "उसे सीधे लागू कर देती है",
+        "उसे केवल अपने पास रखती है",
+        "उसे सिफारिश के रूप में आगे भेजती है",
+        "उसे रद्द कर देती है"
+       ],
+       "answer": 2,
+       "explanation": "अधिनियम के अनुसार समिति योजना तैयार करके उसकी सिफारिश करती है।"
+      }
+     ]
     },
     {
      "number": "23",
@@ -17845,7 +19099,64 @@
      "kitabi": "Qualifications for appointment and terms and conditions of service of teachers.—(1) Any person possessing such minimum qualifications, as laid down by an academic authority, authorised by the Central Government, by notification, shall be eligible for appointment as a teacher. (2) Where a State does not have adequate institutions offering courses or training in teacher education, or teachers possessing minimum qualifications as laid down under sub-section (1) are not available in sufficient numbers, the Central Government may, if it deems necessary, by notification, relax the minimum qualifications required for appointment as a teacher, for such period, not exceeding five years, as may be specified in that notification: Provided that a teacher who, at the commencement of this Act, does not possess minimum qualifications as laid down under sub-section (1), shall acquire such minimum qualifications within a period of five years: 3[Provided further that every teacher appointed or in position as on the 31st March, 2015, who does not possess minimum qualifications as laid down under sub-section (1), shall acquire such minimum qualifications within a period of four years from the date of commencement of the Right of Children to Free and Compulsory Education (Amendment) Act, 2017 (24 of 2017).] (3) The salary and allowances payable to, and the terms and conditions of service of, teachers shall be such as may be prescribed.",
      "aasan": "शिक्षक बनने के लिए तय योग्यता जरूरी है और शिक्षकों को समान वेतन और सेवा की शर्तें मिलेंगी।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 23",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "शिक्षक बनने के लिए आवश्यक न्यूनतम योग्यता कौन तय करता है?",
+       "options": [
+        "ग्राम पंचायत",
+        "संसद",
+        "अभिभावक",
+        "केंद्र सरकार द्वारा अधिसूचित शैक्षणिक प्राधिकरण"
+       ],
+       "answer": 3,
+       "explanation": "न्यूनतम योग्यता वह शैक्षणिक प्राधिकरण तय करता है जिसे केंद्र सरकार अधिसूचना से नामित करती है।"
+      },
+      {
+       "question": "यदि राज्य में योग्य शिक्षक पर्याप्त संख्या में उपलब्ध न हों तो न्यूनतम योग्यता में ढील कौन दे सकता है?",
+       "options": [
+        "केंद्र सरकार",
+        "स्थानीय प्राधिकरण",
+        "राज्य सरकार",
+        "विद्यालय प्रबंध समिति"
+       ],
+       "answer": 0,
+       "explanation": "यह ढील देने की शक्ति केंद्र सरकार के पास है, जो अधिसूचना जारी करके देती है।"
+      },
+      {
+       "question": "न्यूनतम योग्यता में ढील अधिकतम कितने समय के लिए दी जा सकती है?",
+       "options": [
+        "एक वर्ष",
+        "पाँच वर्ष",
+        "दो वर्ष",
+        "दस वर्ष"
+       ],
+       "answer": 1,
+       "explanation": "अधिनियम के अनुसार ढील पाँच वर्ष से अधिक समय के लिए नहीं दी जा सकती।"
+      },
+      {
+       "question": "जो शिक्षक अधिनियम लागू होते समय न्यूनतम योग्यता नहीं रखते थे, उन्हें यह योग्यता कितने समय में प्राप्त करनी है?",
+       "options": [
+        "तीन वर्ष",
+        "दो वर्ष",
+        "पाँच वर्ष",
+        "सात वर्ष"
+       ],
+       "answer": 2,
+       "explanation": "ऐसे शिक्षक को अधिनियम के अनुसार पाँच वर्ष के भीतर न्यूनतम योग्यता प्राप्त करनी है।"
+      },
+      {
+       "question": "शिक्षकों का वेतन, भत्ते और सेवा की शर्तें किस प्रकार तय होते हैं?",
+       "options": [
+        "अभिभावक तय करते हैं",
+        "अधिनियम में पूरी सूची दी गई है",
+        "विद्यालय प्रबंध समिति तय करती है",
+        "जैसा नियमों में उपबंधित किया जाए"
+       ],
+       "answer": 3,
+       "explanation": "अधिनियम कहता है कि वेतन, भत्ते और सेवा की शर्तें वैसी होंगी जैसी नियमों में तय की जाएँ।"
+      }
+     ]
     },
     {
      "number": "24",
@@ -17854,16 +19165,130 @@
      "kitabi": "Duties of teachers and redressal of grievances.—(1) A teacher appointed under sub-section (1) of section 23 shall perform the following duties, namely:— (a) maintain regularity and punctuality in attending school; (b) conduct and complete the curriculum in accordance with the provisions of sub-section (2) of section 29; (c) complete entire curriculum within the specified time; (d) assess the learning ability of each child and accordingly supplement additional instructions, if any, as required; (e) hold regular meetings with parents and guardians and apprise them about the regularity in attendance, ability to learn, progress made in learning and any other relevant information about the child; and (f) perform such other duties as may be prescribed. (2) A teacher committing default in performance of duties specified in sub-section (1), shall be liable to disciplinary action under the service rules applicable to him or her: 1. Ins. by Act 30 of 2012, s. 5 (w.e.f. 1-8-2012). 2. Subs. by s. 6, ibid., for “School Management Committee, constituted” (w.e.f. 1-8-2012). 3. Ins. by Act 24 of 2017, s. 2 (w.e.f. 1-4-2015). 11 Provided that before taking such disciplinary action, reasonable opportunity of being heard shall be afforded to such teacher. (3) The grievances, if any, of the teacher shall be redressed in such manner as may be prescribed.",
      "aasan": "शिक्षक का कर्तव्य है कि कक्षा में पढ़ाएँ, समय पर आएँ, बच्चों की प्रगति देखें और अभिभावकों से मिलें। शिक्षक की शिकायत का निवारण भी होगा।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 24",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "इनमें से कौन सा काम शिक्षक का कर्तव्य है?",
+       "options": [
+        "माता-पिता के साथ नियमित बैठक कर बच्चे की प्रगति बताना",
+        "अनुदान का हिसाब रखना",
+        "विद्यालय का भवन बनवाना",
+        "शिक्षकों की भर्ती करना"
+       ],
+       "answer": 0,
+       "explanation": "शिक्षक का कर्तव्य है कि वह माता-पिता या अभिभावकों से नियमित बैठक करके बच्चे की उपस्थिति, सीखने की क्षमता और प्रगति की जानकारी दे।"
+      },
+      {
+       "question": "शिक्षक का एक कर्तव्य क्या है?",
+       "options": [
+        "अभिभावकों से धन लेना",
+        "विद्यालय समय पर नियमित और समयनिष्ठ होकर उपस्थित रहना",
+        "निजी ट्यूशन करना",
+        "केवल परीक्षा के समय आना"
+       ],
+       "answer": 1,
+       "explanation": "अधिनियम में शिक्षक का पहला कर्तव्य विद्यालय में नियमितता और समयपालन बताया गया है।"
+      },
+      {
+       "question": "यदि शिक्षक अपने कर्तव्यों के पालन में चूक करता है तो क्या होता है?",
+       "options": [
+        "वेतन बढ़ जाता है",
+        "अवकाश मिल जाता है",
+        "सेवा नियमों के अंतर्गत अनुशासनात्मक कार्रवाई होती है",
+        "कुछ नहीं होता"
+       ],
+       "answer": 2,
+       "explanation": "चूक करने पर उस पर लागू सेवा नियमों के अनुसार अनुशासनात्मक कार्रवाई की जाती है।"
+      },
+      {
+       "question": "शिक्षक पर अनुशासनात्मक कार्रवाई से पहले क्या आवश्यक है?",
+       "options": [
+        "उसे पहले निलंबित किया जाए",
+        "अभिभावकों की सहमति ली जाए",
+        "पुलिस रिपोर्ट मंगाई जाए",
+        "उसे सुनवाई का उचित अवसर दिया जाए"
+       ],
+       "answer": 3,
+       "explanation": "अधिनियम में कहा गया है कि कार्रवाई से पहले शिक्षक को सुनवाई का उचित अवसर मिलना चाहिए।"
+      },
+      {
+       "question": "शिक्षक की शिकायतों का निवारण किस प्रकार होता है?",
+       "options": [
+        "जैसा नियमों में उपबंधित किया जाए",
+        "केवल विद्यालय प्रबंध समिति की मर्जी से",
+        "केवल अदालत में जाकर",
+        "किसी भी तरह से"
+       ],
+       "answer": 0,
+       "explanation": "शिक्षक की शिकायतें नियमों में बताए गए तरीके से सुनी और दूर की जाती हैं।"
+      }
+     ]
     },
     {
      "number": "25",
      "title": "शिक्षक-छात्र अनुपात",
      "part": "भाग 4 — विद्यालयों और शिक्षकों के दायित्व",
      "kitabi": "Pupil-Teacher Ratio.—(1) 1[Within three years] from the date of commencement of this Act, the appropriate Government and the local authority shall ensure that the Pupil-Teacher Ratio, as specified in the Schedule, is maintained in each school. (2) For the purpose of maintaining the Pupil-Teacher Ratio under sub-section (1), no teacher posted in a school shall be made to serve in any other school or office or deployed for any non-educational purpose, other than those specified in section 27.",
-     "aasan": "हर स्कूल में तय अनुपात में शिक्षक होने चाहिए — जैसे प्राथमिक स्तर पर 30 बच्चों पर एक शिक्षक। यह अनुपात अनुसूची में दिया गया है।",
+     "aasan": "सरकारी स्कूल में तय अनुपात से कम शिक्षक नहीं हो सकते। अनुसूची के अनुसार पहली से पाँचवीं तक एक शिक्षक पर अधिकतम 40 बच्चे, और छठी से आठवीं तक हर 35 बच्चों पर कम से कम एक शिक्षक होगा। यह अनुपात हेड टीचर को छोड़कर गिना जाता है।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 25",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "अनुसूची के अनुसार पहली से पाँचवीं कक्षा में एक शिक्षक पर अधिकतम कितने बच्चे हो सकते हैं?",
+       "options": [
+        "40",
+        "30",
+        "35",
+        "50"
+       ],
+       "answer": 0,
+       "explanation": "अनुसूची कहती है कि पहली से पाँचवीं तक एक शिक्षक पर 40 से ज्यादा बच्चे नहीं हो सकते।"
+      },
+      {
+       "question": "छठी से आठवीं कक्षा में हर कितने बच्चों पर कम से कम एक शिक्षक होना चाहिए?",
+       "options": [
+        "35",
+        "40",
+        "30",
+        "25"
+       ],
+       "answer": 0,
+       "explanation": "छठी से आठवीं तक हर 35 बच्चों पर कम से कम एक शिक्षक होना चाहिए।"
+      },
+      {
+       "question": "शिक्षक-छात्र अनुपात गिनते समय किसे नहीं गिना जाता?",
+       "options": [
+        "हेड टीचर को",
+        "महिला शिक्षक को",
+        "नए शिक्षक को",
+        "किसी को नहीं"
+       ],
+       "answer": 0,
+       "explanation": "अनुसूची के अनुसार अनुपात गिनते समय हेड टीचर को शामिल नहीं किया जाता।"
+      },
+      {
+       "question": "यह अनुपात कहाँ दिया गया है?",
+       "options": [
+        "अधिनियम की अनुसूची में",
+        "धारा 2 में",
+        "धारा 12 में",
+        "किसी भी जगह नहीं"
+       ],
+       "answer": 0,
+       "explanation": "विद्यालय के मानदंड और शिक्षक-छात्र अनुपात अधिनियम की अनुसूची में दिए गए हैं।"
+      },
+      {
+       "question": "अगर स्कूल में तय अनुपात से कम शिक्षक हैं तो क्या होगा?",
+       "options": [
+        "स्कूल तय मानदंड पूरे नहीं करता, सुधार करना होगा",
+        "कुछ नहीं होगा",
+        "बच्चों को निकाल दिया जाएगा",
+        "फीस बढ़ा दी जाएगी"
+       ],
+       "answer": 0,
+       "explanation": "अनुसूची के मानदंड पूरे न करने पर स्कूल को तय समय में सुधार करना होता है।"
+      }
+     ]
     },
     {
      "number": "26",
@@ -17872,7 +19297,64 @@
      "kitabi": "Filling up vacancies of teachers.—The appointing authority, in relation to a school established, owned, controlled or substantially financed by funds provided directly or indirectly by the appropriate Government or by a local authority, shall ensure that vacancy of teacher in a school under its control shall not exceed ten per cent. of the total sanctioned strength.",
      "aasan": "सरकार और स्थानीय निकाय को शिक्षकों के रिक्त पद तय समय में भरने होंगे।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 26",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "किसी विद्यालय में शिक्षकों के रिक्त पद कुल स्वीकृत पदों के कितने प्रतिशत से अधिक नहीं होने चाहिए?",
+       "options": [
+        "पाँच प्रतिशत",
+        "पंद्रह प्रतिशत",
+        "दस प्रतिशत",
+        "पच्चीस प्रतिशत"
+       ],
+       "answer": 2,
+       "explanation": "अधिनियम के अनुसार रिक्त पद कुल स्वीकृत पदों के दस प्रतिशत से अधिक नहीं होने चाहिए।"
+      },
+      {
+       "question": "रिक्त पदों को इस सीमा के भीतर रखना किसकी जिम्मेदारी है?",
+       "options": [
+        "जिला परिषद",
+        "अभिभावक संघ",
+        "विद्यालय प्रबंध समिति",
+        "नियुक्ति प्राधिकरण"
+       ],
+       "answer": 3,
+       "explanation": "यह जिम्मेदारी नियुक्ति प्राधिकरण की है, जो विद्यालय को नियंत्रित करता है।"
+      },
+      {
+       "question": "यह प्रावधान किन विद्यालयों पर लागू होता है?",
+       "options": [
+        "सरकार या स्थानीय प्राधिकरण द्वारा स्थापित, स्वामित्व वाले, नियंत्रित या प्रत्यक्ष या अप्रत्यक्ष रूप से पर्याप्त वित्त पोषित विद्यालय",
+        "केवल महाविद्यालय",
+        "सभी निजी बिना सहायता प्राप्त विद्यालय",
+        "केवल अल्पसंख्यक विद्यालय"
+       ],
+       "answer": 0,
+       "explanation": "यह नियम ऐसे विद्यालयों के लिए है जो सरकार या स्थानीय प्राधिकरण के धन से बने, चलाए या पर्याप्त रूप से पोषित हों।"
+      },
+      {
+       "question": "यहाँ दस प्रतिशत किसका गिना जाता है?",
+       "options": [
+        "बच्चों की उपस्थिति का",
+        "कुल स्वीकृत शिक्षक पदों का",
+        "विद्यालय में पढ़ने वाले बच्चों का",
+        "विद्यालय के कमरों का"
+       ],
+       "answer": 1,
+       "explanation": "दस प्रतिशत की गिनती कुल स्वीकृत शिक्षक पदों के आधार पर होती है।"
+      },
+      {
+       "question": "यदि किसी विद्यालय में कुल स्वीकृत शिक्षक पद बीस हैं, तो रिक्त पद अधिकतम कितने हो सकते हैं?",
+       "options": [
+        "एक",
+        "चार",
+        "दो",
+        "पाँच"
+       ],
+       "answer": 2,
+       "explanation": "बीस का दस प्रतिशत दो होता है, इसलिए रिक्त पद दो से अधिक नहीं होने चाहिए।"
+      }
+     ]
     },
     {
      "number": "27",
@@ -17881,7 +19363,64 @@
      "kitabi": "Prohibition of deployment of teachers for non-educational purposes.—No teacher shall be deployed for any non-educational purposes other than the decennial population census, disaster relief duties or duties relating to elections to the local authority or the State Legislatures or Parliament, as the case may be.",
      "aasan": "शिक्षकों को पढ़ाने के अलावा दूसरे सरकारी कामों में नहीं लगाया जा सकता — जैसे चुनाव, जनगणना या अन्य ड्यूटी, कुछ अपवादों को छोड़कर।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 27",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "शिक्षक को सामान्य रूप से किस काम के लिए तैनात नहीं किया जा सकता?",
+       "options": [
+        "पढ़ाने के काम के लिए",
+        "परीक्षा के काम के लिए",
+        "पाठ्यक्रम पूरा करने के लिए",
+        "गैर-शैक्षिक काम के लिए"
+       ],
+       "answer": 3,
+       "explanation": "अधिनियम कहता है कि शिक्षक को गैर-शैक्षिक कामों के लिए तैनात नहीं किया जाएगा, केवल कुछ अपवाद छोड़कर।"
+      },
+      {
+       "question": "इनमें से किस काम के लिए शिक्षक को तैनात किया जा सकता है?",
+       "options": [
+        "चुनाव संबंधी ड्यूटी",
+        "राशन वितरण",
+        "सड़क निर्माण",
+        "कर वसूली"
+       ],
+       "answer": 0,
+       "explanation": "चुनाव संबंधी ड्यूटी अधिनियम में दिए गए अपवादों में शामिल है।"
+      },
+      {
+       "question": "अधिनियम में दिए गए अपवादों में कौन सा काम शामिल है?",
+       "options": [
+        "व्यापारिक सर्वेक्षण",
+        "दशवार्षिक जनगणना",
+        "बैंक का काम",
+        "भवन निर्माण"
+       ],
+       "answer": 1,
+       "explanation": "दशवार्षिक जनगणना का काम उन कामों में है जिनके लिए शिक्षक को लगाया जा सकता है।"
+      },
+      {
+       "question": "शिक्षक को आपदा से जुड़े किस काम पर लगाया जा सकता है?",
+       "options": [
+        "आपदा के बाद सड़क मरम्मत के ठेके पर",
+        "राहत सामग्री की दुकान चलाने पर",
+        "आपदा राहत के कर्तव्य पर",
+        "बीमा की वसूली पर"
+       ],
+       "answer": 2,
+       "explanation": "आपदा राहत के कर्तव्य अधिनियम में दिए गए अपवादों में शामिल हैं।"
+      },
+      {
+       "question": "निर्वाचन संबंधी ड्यूटी किन निकायों के चुनावों से जुड़ी हो सकती है?",
+       "options": [
+        "केवल ग्राम पंचायत के चुनाव से",
+        "केवल सहकारी समिति के चुनाव से",
+        "केवल विद्यालय प्रबंध समिति के चुनाव से",
+        "स्थानीय प्राधिकरण, राज्य विधानमंडल या संसद के चुनाव से"
+       ],
+       "answer": 3,
+       "explanation": "अधिनियम स्थानीय प्राधिकरण, राज्य विधानमंडल और संसद के चुनावों से जुड़ी ड्यूटी का जिक्र करता है।"
+      }
+     ]
     },
     {
      "number": "28",
@@ -17890,7 +19429,64 @@
      "kitabi": "Prohibition of private tuition by teacher.—No teacher shall engage himself or herself in private tuition or private teaching activity. CHAPTER V CURRICULUM AND COMPLETION OF ELEMENTARY EDUCATION",
      "aasan": "शिक्षक को अपने स्कूल के बच्चों को निजी ट्यूशन पढ़ाने की मनाही है।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 28",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "अधिनियम के अनुसार शिक्षक के निजी ट्यूशन के बारे में क्या नियम है?",
+       "options": [
+        "पूरी तरह मना है",
+        "विद्यालय समय के बाद कर सकता है",
+        "केवल छुट्टियों में कर सकता है",
+        "अभिभावक की सहमति से कर सकता है"
+       ],
+       "answer": 0,
+       "explanation": "अधिनियम में शिक्षक के लिए निजी ट्यूशन पूरी तरह प्रतिबंधित है।"
+      },
+      {
+       "question": "निषेध किस पर लगाया गया है?",
+       "options": [
+        "केवल घर पर पढ़ाने पर",
+        "निजी ट्यूशन और निजी अध्यापन गतिविधि दोनों पर",
+        "केवल निजी ट्यूशन पर",
+        "केवल कोचिंग सेंटर खोलने पर"
+       ],
+       "answer": 1,
+       "explanation": "अधिनियम दोनों पर रोक लगाता है — निजी ट्यूशन और निजी अध्यापन गतिविधि।"
+      },
+      {
+       "question": "निम्न में से किसकी अनुमति अधिनियम देता है?",
+       "options": [
+        "निजी अध्यापन गतिविधि चलाना",
+        "निजी ट्यूशन पढ़ाना",
+        "विद्यालय में निर्धारित समय पर पढ़ाना",
+        "अपने ही विद्यालय के बच्चों से ट्यूशन फीस लेना"
+       ],
+       "answer": 2,
+       "explanation": "विद्यालय में अपने कर्तव्य के रूप में पढ़ाना ही अनुमत है, निजी ट्यूशन नहीं।"
+      },
+      {
+       "question": "यदि कोई शिक्षक निजी ट्यूशन पढ़ाता है तो यह क्या है?",
+       "options": [
+        "केवल अनुशासनहीनता, अधिनियम से कोई संबंध नहीं",
+        "अधिनियम के अनुसार ठीक है",
+        "छूट प्राप्त काम है",
+        "अधिनियम के प्रावधान का उल्लंघन"
+       ],
+       "answer": 3,
+       "explanation": "निजी ट्यूशन करना अधिनियम की धारा 28 का सीधा उल्लंघन है।"
+      },
+      {
+       "question": "यह निषेध किन शिक्षकों पर लागू होता है?",
+       "options": [
+        "इस अधिनियम के अंतर्गत आने वाले विद्यालयों के शिक्षकों पर",
+        "केवल प्रधानाध्यापकों पर",
+        "केवल नए नियुक्त शिक्षकों पर",
+        "केवल सरकारी विद्यालयों के शिक्षकों पर"
+       ],
+       "answer": 0,
+       "explanation": "यह रोक इस अधिनियम के दायरे में आने वाले विद्यालयों के सभी शिक्षकों पर लागू है।"
+      }
+     ]
     },
     {
      "number": "29",
@@ -17899,7 +19495,64 @@
      "kitabi": "Curriculum and evaluation procedure.—(1) The curriculum and the evaluation procedure for elementary education shall be laid down by an academic authority to be specified by the appropriate Government, by notification. (2) The academic authority, while laying down the curriculum and the evaluation procedure under sub-section (1), shall take into consideration the following, namely:— (a) conformity with the values enshrined in the Constitution; (b) all round development of the child; (c) building up child's knowledge, potentiality and talent; (d) development of physical and mental abilities to the fullest extent; (e) learning through activities, discovery and exploration in a child friendly and child-centered manner; (f) medium of instructions shall, as far as practicable, be in child's mother tongue; (g) making the child free of fear, trauma and anxiety and helping the child to express views freely; (h) comprehensive and continuous evaluation of child's understanding of knowledge and his or her ability to apply the same.",
      "aasan": "पाठ्यक्रम और मूल्यांकन का तरीका तय होगा, जिसमें बच्चे का सर्वांगीण विकास, सीखने का तरीका और शिक्षकों का प्रशिक्षण शामिल है। रटने के बजाय समझ पर जोर।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 29",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "प्रारंभिक शिक्षा का पाठ्यक्रम और मूल्यांकन प्रक्रिया कौन निर्धारित करता है?",
+       "options": [
+        "विद्यालय प्रबंध समिति",
+        "उपयुक्त सरकार द्वारा अधिसूचित शैक्षणिक प्राधिकरण",
+        "स्थानीय पंचायत",
+        "अभिभावक संघ"
+       ],
+       "answer": 1,
+       "explanation": "अधिनियम कहता है कि पाठ्यक्रम और मूल्यांकन प्रक्रिया उपयुक्त सरकार द्वारा अधिसूचित शैक्षणिक प्राधिकरण तय करेगा।"
+      },
+      {
+       "question": "शिक्षा का माध्यम तय करते समय किस बात का ध्यान रखा जाना चाहिए?",
+       "options": [
+        "केवल राज्य की भाषा",
+        "कोई ध्यान नहीं दिया जाए",
+        "जहाँ तक संभव हो, बच्चे की मातृभाषा",
+        "केवल अंग्रेजी"
+       ],
+       "answer": 2,
+       "explanation": "अधिनियम कहता है कि जहाँ तक संभव हो, शिक्षा का माध्यम बच्चे की मातृभाषा होना चाहिए।"
+      },
+      {
+       "question": "पाठ्यक्रम बनाते समय किस बात का ध्यान रखा जाना चाहिए?",
+       "options": [
+        "केवल परीक्षा पास कराना",
+        "केवल रटने की आदत डालना",
+        "केवल दो विषय पढ़ाना",
+        "बच्चे का सर्वांगीण विकास"
+       ],
+       "answer": 3,
+       "explanation": "अधिनियम में बच्चे के सर्वांगीण विकास और उसके ज्ञान व कौशल को बढ़ाने पर जोर है।"
+      },
+      {
+       "question": "बच्चों के सीखने का तरीका कैसा होना चाहिए?",
+       "options": [
+        "गतिविधियों, खोज और अनुभव के माध्यम से, बच्चों के अनुकूल तरीके से",
+        "केवल रटकर सीखना",
+        "केवल किताब पढ़कर",
+        "केवल डर से सीखना"
+       ],
+       "answer": 0,
+       "explanation": "अधिनियम रटने की जगह गतिविधि, खोज और अनुभव से सीखने को कहता है, और बच्चा डर व चिंता से मुक्त रहना चाहिए।"
+      },
+      {
+       "question": "मूल्यांकन किस प्रकार का होना चाहिए?",
+       "options": [
+        "केवल अंतिम परीक्षा से",
+        "व्यापक और सतत मूल्यांकन",
+        "वर्ष में केवल एक बार",
+        "केवल मौखिक परीक्षा से"
+       ],
+       "answer": 1,
+       "explanation": "अधिनियम व्यापक और सतत मूल्यांकन की बात कहता है, जो बच्चे की समझ और उसके प्रयोग की क्षमता देखे।"
+      }
+     ]
     },
     {
      "number": "30",
@@ -17908,7 +19561,64 @@
      "kitabi": "Examination and completion certificate.—(1) No child shall be required to pass any Board examination till completion of elementary education. (2) Every child completing his elementary education shall be awarded a certificate, in such form and in such manner, as may be prescribed. 1. Subs. by Act 30 of 2012, s. 7, for “Within six months” (w.e.f. 1-8-2012). 12 CHAPTER VI PROTECTION OF RIGHT OF CHILDREN",
      "aasan": "आठवीं कक्षा तक की परीक्षा और प्रारंभिक शिक्षा पूरी होने का प्रमाणपत्र देने की व्यवस्था होगी।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 30",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "प्रारंभिक शिक्षा पूरी होने तक बच्चे को कौन सी परीक्षा पास करनी अनिवार्य नहीं है?",
+       "options": [
+        "मौखिक परीक्षा",
+        "कक्षा की सामान्य परीक्षा",
+        "किसी बोर्ड की परीक्षा",
+        "कोई भी परीक्षा"
+       ],
+       "answer": 2,
+       "explanation": "अधिनियम कहता है कि प्रारंभिक शिक्षा पूरी होने तक बच्चे को किसी बोर्ड की परीक्षा पास करने की जरूरत नहीं।"
+      },
+      {
+       "question": "प्रारंभिक शिक्षा पूरी करने पर बच्चे को क्या दिया जाता है?",
+       "options": [
+        "केवल मौखिक बधाई",
+        "कुछ नहीं दिया जाता",
+        "नकद पुरस्कार",
+        "प्रमाणपत्र"
+       ],
+       "answer": 3,
+       "explanation": "अधिनियम के अनुसार प्रारंभिक शिक्षा पूरी करने वाले हर बच्चे को प्रमाणपत्र मिलता है।"
+      },
+      {
+       "question": "प्रमाणपत्र किस रूप और तरीके से दिया जाता है?",
+       "options": [
+        "जैसा नियमों में उपबंधित हो",
+        "अभिभावक की मर्जी से",
+        "विद्यालय की मर्जी से",
+        "इसका कोई नियम नहीं है"
+       ],
+       "answer": 0,
+       "explanation": "प्रमाणपत्र का रूप और देने का तरीका नियमों में तय किया जाता है।"
+      },
+      {
+       "question": "प्रमाणपत्र किसे दिया जाता है?",
+       "options": [
+        "केवल सरकारी विद्यालय के बच्चों को",
+        "प्रारंभिक शिक्षा पूरी करने वाले प्रत्येक बच्चे को",
+        "केवल प्रथम आने वाले बच्चे को",
+        "केवल लड़कों को"
+       ],
+       "answer": 1,
+       "explanation": "अधिनियम में 'प्रत्येक बच्चे' शब्द है, इसलिए सभी बच्चों को प्रमाणपत्र मिलता है।"
+      },
+      {
+       "question": "क्या प्रारंभिक शिक्षा के बीच में बच्चे को बोर्ड की परीक्षा पास करने के लिए बाध्य किया जा सकता है?",
+       "options": [
+        "केवल निजी विद्यालयों में हाँ",
+        "हाँ, हर वर्ष",
+        "नहीं, प्रारंभिक शिक्षा पूरी होने तक नहीं",
+        "हाँ, कक्षा आठ में"
+       ],
+       "answer": 2,
+       "explanation": "प्रारंभिक शिक्षा पूरी होने तक बोर्ड परीक्षा की शर्त नहीं लगाई जा सकती।"
+      }
+     ]
     },
     {
      "number": "31",
@@ -17917,7 +19627,64 @@
      "kitabi": "Monitoring of child's right to education.—(1) The National Commission for Protection of Child Rights constituted under section 3, or, as the case may be, the State Commission for Protection of Child Rights constituted under section 17, of the Commissions for Protection of Child Rights Act, 2005 (4 of 2006), shall, in addition to the functions assigned to them under that Act, also perform the following functions, namely:— (a) examine and review the safeguards for rights provided by or under this Act and recommend measures for their effective implementation; (b) inquire into complaints relating to child's right to free and compulsory education; and (c) take necessary steps as provided under sections 15 and 24 of the said Commissions for Protection of Child Rights Act. (2) The said Commissions shall, while inquiring into any matters relating to child's right to free and compulsory education under clause (c) of sub-section (1), have the same powers as assigned to them respectively under sections 14 and 24 of the said Commissions for Protection of Child Rights Act. (3) Where the State Commission for Protection of Child Rights has not been constituted in a State, the appropriate Government may, for the purpose of performing the functions specified in clauses (a) to (c) of sub-section (1), constitute such authority, in such manner and subject to such terms and conditions, as may be prescribed.",
      "aasan": "राष्ट्रीय और राज्य स्तर पर बच्चे के शिक्षा के अधिकार की निगरानी होगी, और हर साल रिपोर्ट दी जाएगी।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 31",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "बच्चे के शिक्षा के अधिकार की निगरानी का काम अधिनियम ने किसे दिया है?",
+       "options": [
+        "केवल विद्यालय प्रबंध समिति को",
+        "केवल पुलिस को",
+        "केवल शिक्षा विभाग के कर्मचारियों को",
+        "राष्ट्रीय बाल अधिकार संरक्षण आयोग और राज्य बाल अधिकार संरक्षण आयोग को"
+       ],
+       "answer": 3,
+       "explanation": "अधिनियम के अनुसार यह काम राष्ट्रीय और राज्य बाल अधिकार संरक्षण आयोग करते हैं।"
+      },
+      {
+       "question": "ये आयोग किस अधिनियम के अंतर्गत गठित होते हैं?",
+       "options": [
+        "बाल अधिकार संरक्षण आयोग अधिनियम, 2005",
+        "शिक्षा का अधिकार अधिनियम, 2009",
+        "पंचायती राज अधिनियम",
+        "कंपनी अधिनियम"
+       ],
+       "answer": 0,
+       "explanation": "दोनों आयोग बाल अधिकार संरक्षण आयोग अधिनियम, 2005 के अंतर्गत बनाए जाते हैं।"
+      },
+      {
+       "question": "आयोग का एक कार्य क्या है?",
+       "options": [
+        "शिक्षकों का वेतन देना",
+        "बच्चे के अधिकारों की रक्षा के उपबंधों की जाँच-समीक्षा करके सुझाव देना",
+        "परीक्षा पत्र जाँचना",
+        "विद्यालय का भवन बनाना"
+       ],
+       "answer": 1,
+       "explanation": "आयोग उपबंधों की समीक्षा करता है, सुधार के उपाय सुझाता है और शिकायतों की जाँच करता है।"
+      },
+      {
+       "question": "यदि किसी राज्य में राज्य बाल अधिकार संरक्षण आयोग गठित नहीं है तो क्या हो सकता है?",
+       "options": [
+        "शिकायतें अपने आप समाप्त हो जाएँगी",
+        "कुछ नहीं किया जा सकता",
+        "उपयुक्त सरकार नियमों के अनुसार ऐसा प्राधिकरण गठित कर सकती है",
+        "केंद्र सरकार विद्यालय बंद कर देगी"
+       ],
+       "answer": 2,
+       "explanation": "ऐसे राज्य में उपयुक्त सरकार नियमों के अनुसार एक प्राधिकरण गठित कर सकती है, जो ये काम करे।"
+      },
+      {
+       "question": "शिकायत की जाँच करते समय आयोग के पास कैसी शक्तियाँ होती हैं?",
+       "options": [
+        "केवल दंड देने की शक्ति",
+        "कोई शक्ति नहीं",
+        "केवल सलाह देने की शक्ति",
+        "बाल अधिकार संरक्षण आयोग अधिनियम में उन्हें दी गई वही शक्तियाँ"
+       ],
+       "answer": 3,
+       "explanation": "अधिनियम कहता है कि जाँच के समय आयोग के पास बाल अधिकार संरक्षण आयोग अधिनियम में दी गई वही शक्तियाँ होती हैं।"
+      }
+     ]
     },
     {
      "number": "32",
@@ -17926,7 +19693,64 @@
      "kitabi": "Redressal of grievances.—(1) Notwithstanding anything contained in section 31, any person having any grievance relating to the right of a child under this Act may make a written complaint to the local authority having jurisdiction. (2) After receiving the complaint under sub-section (1), the local authority shall decide the matter within a period of three months after affording a reasonable opportunity of being heard to the parties concerned. (3) Any person aggrieved by the decision of the local authority may prefer an appeal to the State Commission for Protection of Child Rights or the authority prescribed under sub-section (3) of section 31, as the case may be. (4) The appeal preferred under sub-section (3) shall be decided by State Commission for Protection of Child Rights or the authority prescribed under sub-section (3) of section 31, as the case may be, as provided under clause (c) of sub-section (1) of section 31.",
      "aasan": "शिकायत का निवारण स्थानीय प्राधिकारी और राज्य आयोग के माध्यम से होगा। शिकायत का समय पर समाधान होना चाहिए।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 32",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "बच्चे के अधिकार से जुड़ी शिकायत लिखित रूप में किसे दी जा सकती है?",
+       "options": [
+        "अधिकार क्षेत्र वाले स्थानीय प्राधिकरण को",
+        "सीधे राष्ट्रपति को",
+        "सीधे विद्यालय के शिक्षक को",
+        "किसी को नहीं"
+       ],
+       "answer": 0,
+       "explanation": "अधिनियम कहता है कि ऐसी शिकायत अधिकार क्षेत्र वाले स्थानीय प्राधिकरण को लिखित रूप में दी जा सकती है।"
+      },
+      {
+       "question": "शिकायत मिलने के बाद स्थानीय प्राधिकरण को कितने समय में मामला तय करना है?",
+       "options": [
+        "एक वर्ष में",
+        "तीन महीने में",
+        "छह महीने में",
+        "एक महीने में"
+       ],
+       "answer": 1,
+       "explanation": "स्थानीय प्राधिकरण को शिकायत मिलने के तीन महीने के भीतर मामला तय करना होता है।"
+      },
+      {
+       "question": "निर्णय देने से पहले स्थानीय प्राधिकरण को क्या करना है?",
+       "options": [
+        "फाइल बंद कर देना",
+        "मामला पुलिस को सौंप देना",
+        "पक्षकारों को सुनवाई का उचित अवसर देना",
+        "बिना सुनवाई निर्णय देना"
+       ],
+       "answer": 2,
+       "explanation": "अधिनियम में लिखा है कि निर्णय से पहले संबंधित पक्षों को सुनवाई का उचित अवसर मिलेगा।"
+      },
+      {
+       "question": "स्थानीय प्राधिकरण के निर्णय से असंतुष्ट व्यक्ति अपील कहाँ कर सकता है?",
+       "options": [
+        "विद्यालय प्रबंध समिति में",
+        "ग्राम पंचायत के सचिव में",
+        "सीधे सर्वोच्च न्यायालय में",
+        "राज्य बाल अधिकार संरक्षण आयोग या धारा 31(3) के अंतर्गत गठित प्राधिकरण में"
+       ],
+       "answer": 3,
+       "explanation": "अधिनियम के अनुसार अपील राज्य बाल अधिकार संरक्षण आयोग या उस प्राधिकरण के पास की जा सकती है।"
+      },
+      {
+       "question": "शिकायत कौन कर सकता है?",
+       "options": [
+        "बच्चे के अधिकार से संबंधित शिकायत रखने वाला कोई भी व्यक्ति",
+        "केवल सरकारी अधिकारी",
+        "केवल बच्चे के माता-पिता",
+        "केवल शिक्षक"
+       ],
+       "answer": 0,
+       "explanation": "अधिनियम 'कोई भी व्यक्ति' शब्द का प्रयोग करता है, इसलिए शिकायत कोई भी व्यक्ति कर सकता है।"
+      }
+     ]
     },
     {
      "number": "33",
@@ -17935,7 +19759,64 @@
      "kitabi": "Constitution of National Advisory Council.—(1) The Central Government shall constitute, by notification, a National Advisory Council, consisting of such number of Members, not exceeding fifteen, as the Central Government may deem necessary, to be appointed from amongst persons having knowledge and practical experience in the field of elementary education and child development. (2) The functions of the National Advisory Council shall be to advise the Central Government on implementation of the provisions of the Act in an effective manner. (3) The allowances and other terms and conditions of the appointment of Members of the National Advisory Council shall be such as may be prescribed.",
      "aasan": "केंद्र स्तर पर एक राष्ट्रीय सलाहकार परिषद बनेगी, जो सरकार को शिक्षा के अधिकार पर सलाह देगी।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 33",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "राष्ट्रीय सलाहकार परिषद का गठन कौन करता है?",
+       "options": [
+        "विद्यालय प्रबंध समिति",
+        "केंद्र सरकार",
+        "राज्य सरकार",
+        "स्थानीय प्राधिकरण"
+       ],
+       "answer": 1,
+       "explanation": "राष्ट्रीय सलाहकार परिषद का गठन केंद्र सरकार अधिसूचना द्वारा करती है।"
+      },
+      {
+       "question": "राष्ट्रीय सलाहकार परिषद के सदस्यों की अधिकतम संख्या कितनी है?",
+       "options": [
+        "बीस",
+        "दस",
+        "पंद्रह",
+        "पच्चीस"
+       ],
+       "answer": 2,
+       "explanation": "अधिनियम के अनुसार परिषद के सदस्य पंद्रह से अधिक नहीं हो सकते।"
+      },
+      {
+       "question": "परिषद के सदस्य किन व्यक्तियों में से नियुक्त किए जाते हैं?",
+       "options": [
+        "केवल व्यापारियों में से",
+        "केवल विधायकों में से",
+        "केवल पुलिस अधिकारियों में से",
+        "प्रारंभिक शिक्षा और बाल विकास के क्षेत्र में ज्ञान और व्यावहारिक अनुभव रखने वाले व्यक्तियों में से"
+       ],
+       "answer": 3,
+       "explanation": "सदस्य ऐसे लोगों में से चुने जाते हैं जिन्हें प्रारंभिक शिक्षा और बाल विकास का ज्ञान व अनुभव हो।"
+      },
+      {
+       "question": "राष्ट्रीय सलाहकार परिषद का काम क्या है?",
+       "options": [
+        "केंद्र सरकार को अधिनियम के प्रभावी क्रियान्वयन पर सलाह देना",
+        "विद्यालयों का निरीक्षण करना",
+        "परीक्षा कराना",
+        "शिक्षकों की नियुक्ति करना"
+       ],
+       "answer": 0,
+       "explanation": "यह परिषद सलाहकार है — इसका काम केंद्र सरकार को सलाह देना है।"
+      },
+      {
+       "question": "परिषद के सदस्यों के भत्ते और नियुक्ति की अन्य शर्तें कैसे तय होती हैं?",
+       "options": [
+        "अभिभावक तय करते हैं",
+        "जैसा नियमों में उपबंधित हो",
+        "कुछ भी तय नहीं है",
+        "सदस्य स्वयं तय करते हैं"
+       ],
+       "answer": 1,
+       "explanation": "अधिनियम कहता है कि भत्ते और अन्य शर्तें वैसी होंगी जैसी नियमों में तय की जाएँ।"
+      }
+     ]
     },
     {
      "number": "34",
@@ -17944,7 +19825,64 @@
      "kitabi": "Constitution of State Advisory Council.—(1) The State Government shall constitute, by notification, a State Advisory Council consisting of such number of Members, not exceeding fifteen, as the State Government may deem necessary, to be appointed from amongst persons having knowledge and practical experience in the field of elementary education and child development. (2) The functions of the State Advisory Council shall be to advise the State Government on implementation of the provisions of the Act in an effective manner. (3) The allowances and other terms and conditions of appointment of Members of the State Advisory Council shall be such as may be prescribed. 13 CHAPTER VII MISCELLANEOUS",
      "aasan": "हर राज्य में एक राज्य सलाहकार परिषद बनेगी, जो राज्य सरकार को सलाह देगी।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 34",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "राज्य सलाहकार परिषद का गठन कौन करती है?",
+       "options": [
+        "विद्यालय प्रबंध समिति",
+        "जिला परिषद",
+        "राज्य सरकार",
+        "केंद्र सरकार"
+       ],
+       "answer": 2,
+       "explanation": "राज्य सलाहकार परिषद का गठन राज्य सरकार अधिसूचना द्वारा करती है।"
+      },
+      {
+       "question": "राज्य सलाहकार परिषद के सदस्यों की अधिकतम संख्या कितनी है?",
+       "options": [
+        "कोई सीमा नहीं",
+        "बीस",
+        "तीस",
+        "पंद्रह"
+       ],
+       "answer": 3,
+       "explanation": "अधिनियम के अनुसार इस परिषद के सदस्य भी पंद्रह से अधिक नहीं हो सकते।"
+      },
+      {
+       "question": "राज्य सलाहकार परिषद का काम क्या है?",
+       "options": [
+        "राज्य सरकार को अधिनियम के प्रभावी क्रियान्वयन पर सलाह देना",
+        "केंद्र सरकार को सलाह देना",
+        "विद्यालय बंद करना",
+        "शिक्षकों को दंड देना"
+       ],
+       "answer": 0,
+       "explanation": "यह परिषद राज्य सरकार को सलाह देती है, ठीक वैसे ही जैसे राष्ट्रीय परिषद केंद्र सरकार को देती है।"
+      },
+      {
+       "question": "राज्य सलाहकार परिषद के सदस्य किनमें से चुने जाते हैं?",
+       "options": [
+        "केवल अभिभावकों में से",
+        "प्रारंभिक शिक्षा और बाल विकास के क्षेत्र में ज्ञान व व्यावहारिक अनुभव रखने वाले व्यक्तियों में से",
+        "केवल छात्रों में से",
+        "केवल सरकारी कर्मचारियों में से"
+       ],
+       "answer": 1,
+       "explanation": "सदस्य प्रारंभिक शिक्षा और बाल विकास के अनुभवी व्यक्तियों में से नियुक्त होते हैं।"
+      },
+      {
+       "question": "राज्य सलाहकार परिषद के सदस्यों के भत्ते व नियुक्ति की शर्तें कैसे तय होती हैं?",
+       "options": [
+        "जिला कलेक्टर तय करता है",
+        "कुछ भी तय नहीं है",
+        "जैसा नियमों में उपबंधित हो",
+        "राज्यपाल स्वयं तय करते हैं"
+       ],
+       "answer": 2,
+       "explanation": "भत्ते और नियुक्ति की शर्तें नियमों में तय की जाती हैं।"
+      }
+     ]
     },
     {
      "number": "35",
@@ -17953,7 +19891,64 @@
      "kitabi": "Power to issue directions.—(1) The Central Government may issue such guidelines to the appropriate Government or, as the case may be, the local authority, as it deems fit for the purposes of implementation of the provisions of this Act. (2) The appropriate Government may issue guidelines and give such directions, as it deems fit, to the local authority or the School Management Committee regarding implementation of the provisions of this Act. (3) The local authority may issue guidelines and give such directions, as it deems fit, to the School Management Committee regarding implementation of the provisions of this Act.",
      "aasan": "सरकार इस कानून को लागू करने के लिए सभी को निदेश जारी कर सकती है।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 35",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "अधिनियम के क्रियान्वयन के लिए केंद्र सरकार किसे दिशानिर्देश जारी कर सकती है?",
+       "options": [
+        "केवल अभिभावकों को",
+        "केवल न्यायालय को",
+        "केवल बच्चों को",
+        "उपयुक्त सरकार या स्थानीय प्राधिकरण को"
+       ],
+       "answer": 3,
+       "explanation": "केंद्र सरकार अधिनियम लागू करने के लिए उपयुक्त सरकार या स्थानीय प्राधिकरण को दिशानिर्देश दे सकती है।"
+      },
+      {
+       "question": "उपयुक्त सरकार किसे निदेश दे सकती है?",
+       "options": [
+        "स्थानीय प्राधिकरण या विद्यालय प्रबंध समिति को",
+        "केवल राष्ट्रपति को",
+        "केवल बैंकों को",
+        "केवल संसद को"
+       ],
+       "answer": 0,
+       "explanation": "उपयुक्त सरकार स्थानीय प्राधिकरण या विद्यालय प्रबंध समिति को निदेश दे सकती है।"
+      },
+      {
+       "question": "स्थानीय प्राधिकरण किसे निदेश दे सकता है?",
+       "options": [
+        "सर्वोच्च न्यायालय को",
+        "विद्यालय प्रबंध समिति को",
+        "संसद को",
+        "केंद्र सरकार को"
+       ],
+       "answer": 1,
+       "explanation": "स्थानीय प्राधिकरण विद्यालय प्रबंध समिति को निदेश दे सकता है।"
+      },
+      {
+       "question": "ये दिशानिर्देश और निदेश किस उद्देश्य से दिए जाते हैं?",
+       "options": [
+        "शिक्षकों का तबादला करने के लिए",
+        "विद्यालय की फीस बढ़ाने के लिए",
+        "अधिनियम के प्रावधानों के क्रियान्वयन के लिए",
+        "चुनाव जिताने के लिए"
+       ],
+       "answer": 2,
+       "explanation": "यह शक्ति केवल अधिनियम के प्रावधानों को लागू करने के लिए है।"
+      },
+      {
+       "question": "क्या स्थानीय प्राधिकरण विद्यालय प्रबंध समिति को निदेश दे सकता है?",
+       "options": [
+        "केवल अदालत के आदेश से",
+        "नहीं, कभी नहीं",
+        "केवल केंद्र सरकार की अनुमति से",
+        "हाँ, अधिनियम के क्रियान्वयन के संबंध में"
+       ],
+       "answer": 3,
+       "explanation": "अधिनियम स्थानीय प्राधिकरण को यह अधिकार देता है कि वह समिति को उचित निदेश दे।"
+      }
+     ]
     },
     {
      "number": "36",
@@ -17962,7 +19957,64 @@
      "kitabi": "Previous sanction for prosecution.—No prosecution for offences punishable under sub-section (2) of section 13, sub-section (5) of section 18 and sub-section (5) of section 19 shall be instituted except with the previous sanction of an officer authorised in this behalf, by the appropriate Government, by notification.",
      "aasan": "इस कानून के तहत मुकदमा चलाने से पहले सरकार की मंजूरी जरूरी होगी।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 36",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "अधिनियम के कुछ अपराधों के लिए अभियोजन के लिए किसकी पूर्व मंजूरी आवश्यक है?",
+       "options": [
+        "उपयुक्त सरकार द्वारा इस हेतु अधिसूचित अधिकारी की",
+        "किसी की भी जरूरत नहीं",
+        "केवल न्यायालय की",
+        "केवल अभिभावक की"
+       ],
+       "answer": 0,
+       "explanation": "अधिनियम कहता है कि इन अपराधों में मुकदमा उपयुक्त सरकार द्वारा अधिसूचित अधिकारी की पूर्व मंजूरी से ही चलेगा।"
+      },
+      {
+       "question": "पूर्व मंजूरी देने वाला अधिकारी कैसे नियुक्त होता है?",
+       "options": [
+        "लोकसभा के चुनाव से",
+        "उपयुक्त सरकार द्वारा अधिसूचना से",
+        "विद्यालय प्रबंध समिति के मत से",
+        "न्यायालय के आदेश से"
+       ],
+       "answer": 1,
+       "explanation": "उपयुक्त सरकार अधिसूचना जारी करके इस काम के लिए अधिकारी नियुक्त करती है।"
+      },
+      {
+       "question": "पूर्व मंजूरी की शर्त किन अपराधों पर लागू है?",
+       "options": [
+        "अधिनियम के सभी अपराधों पर",
+        "केवल चोरी के अपराध पर",
+        "धारा 13(2), धारा 18(5) और धारा 19(5) के अपराधों पर",
+        "केवल हत्या के अपराध पर"
+       ],
+       "answer": 2,
+       "explanation": "अधिनियम में ये तीन अपराध ही गिनाए गए हैं जिनके लिए पूर्व मंजूरी चाहिए।"
+      },
+      {
+       "question": "क्या इन अपराधों में पूर्व मंजूरी के बिना अभियोजन किया जा सकता है?",
+       "options": [
+        "हाँ, कभी भी",
+        "केवल शहरों में हाँ",
+        "केवल गाँवों में हाँ",
+        "नहीं, पूर्व मंजूरी के बिना अभियोजन नहीं हो सकता"
+       ],
+       "answer": 3,
+       "explanation": "इन अपराधों में पूर्व मंजूरी लेना अनिवार्य है, उसके बिना मुकदमा नहीं चलाया जा सकता।"
+      },
+      {
+       "question": "धारा 18(5) से जुड़े अपराध का मुकदमा चलाने से पहले क्या जरूरी है?",
+       "options": [
+        "उपयुक्त सरकार द्वारा अधिकृत अधिकारी की पूर्व मंजूरी",
+        "बच्चे की सहमति",
+        "ग्राम सभा का फैसला",
+        "विद्यालय प्रबंध समिति का प्रस्ताव"
+       ],
+       "answer": 0,
+       "explanation": "धारा 18(5) के अपराध पर भी पूर्व मंजूरी की शर्त लागू होती है।"
+      }
+     ]
     },
     {
      "number": "37",
@@ -17971,7 +20023,64 @@
      "kitabi": "Protection of action taken in good faith.—No suit or other legal proceeding shall lie against the Central Government, the State Government, the National Commission for Protection of Child Rights, the State Commission for Protection of Child Rights, the local authority, the School Management Committee or any person, in respect of anything which is in good faith done or intended to be done, in pursuance of this Act, or any rules or order made thereunder.",
      "aasan": "अगर किसी ने सद्भावना से काम किया है, तो उसके खिलाफ मुकदमा नहीं चलेगा।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 37",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "अधिनियम के अंतर्गत सद्भावना से किए गए कार्य के लिए क्या संरक्षण है?",
+       "options": [
+        "विद्यालय बंद किया जा सकता है",
+        "उसके लिए कोई कानूनी कार्यवाही नहीं की जा सकती",
+        "उस पर मुकदमा चलाया जा सकता है",
+        "उस पर जुर्माना लगाया जा सकता है"
+       ],
+       "answer": 1,
+       "explanation": "अधिनियम कहता है कि सद्भावना से किए गए कार्य के लिए कोई वाद या कानूनी कार्यवाही नहीं होगी।"
+      },
+      {
+       "question": "यह संरक्षण किनके विरुद्ध कार्यवाही पर लागू है?",
+       "options": [
+        "केवल अभिभावक पर",
+        "केवल शिक्षक पर",
+        "केंद्र सरकार, राज्य सरकार, दोनों बाल अधिकार आयोगों, स्थानीय प्राधिकरण, विद्यालय प्रबंध समिति या किसी भी व्यक्ति पर",
+        "केवल बच्चे पर"
+       ],
+       "answer": 2,
+       "explanation": "अधिनियम में ये सभी गिनाए गए हैं, इसलिए इन सबके सद्भावना से किए कार्य संरक्षित हैं।"
+      },
+      {
+       "question": "संरक्षण किस प्रकार किए गए कार्य को मिलता है?",
+       "options": [
+        "बिना किसी कारण किए कार्य को",
+        "लापरवाही से किए कार्य को",
+        "जानबूझकर गलत किए गए कार्य को",
+        "सद्भावना से, अधिनियम या उसके नियमों व आदेशों के अनुसार किए गए कार्य को"
+       ],
+       "answer": 3,
+       "explanation": "संरक्षण की शर्त यही है कि कार्य सद्भावना से और अधिनियम के अनुसार किया गया हो।"
+      },
+      {
+       "question": "संरक्षण केवल पहले से किए गए कार्य पर है या किए जाने के इरादे वाले कार्य पर भी?",
+       "options": [
+        "किए गए कार्य और किए जाने के इरादे वाले कार्य, दोनों पर",
+        "केवल किए गए कार्य पर",
+        "किसी पर भी नहीं",
+        "केवल भविष्य के कार्य पर"
+       ],
+       "answer": 0,
+       "explanation": "अधिनियम 'किया गया या किए जाने का इरादा' — दोनों को संरक्षण देता है।"
+      },
+      {
+       "question": "यदि किसी कार्य में सद्भावना नहीं है तो क्या वह संरक्षित है?",
+       "options": [
+        "केवल सरकारी अधिकारियों के लिए",
+        "नहीं, संरक्षण केवल सद्भावना से किए कार्य को मिलता है",
+        "कभी-कभी",
+        "हाँ, हर हाल में"
+       ],
+       "answer": 1,
+       "explanation": "यह संरक्षण सद्भावना पर टिका है; बुरी नीयत से किए कार्य को यह रक्षा नहीं मिलती।"
+      }
+     ]
     },
     {
      "number": "38",
@@ -17980,7 +20089,64 @@
      "kitabi": "Power of appropriate Government to make rules.—(1) The appropriate Government may, by notification, make rules, for carrying out the provisions of this Act. (2) In particular, and without prejudice to the generality of the foregoing powers, such rules may provide for all or any of the following matters, namely:— (a) the manner of giving special training and the time-limit thereof, under first proviso to section 4; (b) the area or limits for establishment of a neighbourhood school, under section 6; (c) the manner of maintenance of records of children up to the age of fourteen years, under clause (d) of section 9; (d) the manner and extent of reimbursement of expenditure, under sub-section (2) of section 12; (e) any other document for determining the age of child under sub-section (1) of section 14; (f) the extended period for admission and the manner of completing study if admitted after the extended period, under section 15; (g) the authority, the form and manner of making application for certificate of recognition, under sub-section (1) of section 18; (h) the form, the period, the manner and the conditions for issuing certificate of recognition, under sub-section (2) of section 18; (i) the manner of giving opportunity of hearing under second proviso to sub-section (3) of section 18; (j) the Other functions to be performed by School Management Committee under clause (d) of sub-section (2) of section 21; (k) the manner of preparing School Development Plan under sub-section (1) of section 22; (l) the salary and allowances payable to, and the terms and conditions of service of teacher, under sub-section (3) of section 23; (m) the duties to be performed by the teacher under clause (f) of sub-section (1) of section 24; 14 (n) the manner of redressing grievances of teachers under sub-section (3) of section 24; (o) the form and manner of awarding certificate for completion of elementary education under sub-section (2) of section 30; (p) the authority, the manner of its constitution and the terms and conditions therefor, under sub-section (3) of section 31; (q) the allowances and other terms and conditions of appointment of Members of the National Advisory Council under sub-section (3) of section 33; (r) the allowances and other terms and conditions of appointment of Members of the State Advisory Council under sub-section (3) of section 34. (3) Every rule made under this Act and every notification issued under sections 20 and 23 by the Central Government shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or notification or both Houses agree that the rule or notification should not be made, the rule or notification shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or notification. (4) Every rule or notification made by the State Government under this Act shall be laid, as soon as may be after it is made; before the State Legislatures.",
      "aasan": "सरकार इस कानून को चलाने के लिए नियम बना सकती है, और वे नियम संसद या विधानमंडल के सामने रखे जाएँगे।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 38",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "अधिनियम के प्रावधानों को लागू करने के लिए नियम बनाने की शक्ति किसे है?",
+       "options": [
+        "केवल न्यायालय को",
+        "केवल विद्यालय प्रबंध समिति को",
+        "उपयुक्त सरकार को",
+        "केवल अभिभावकों को"
+       ],
+       "answer": 2,
+       "explanation": "अधिनियम कहता है कि उपयुक्त सरकार नियम बना सकती है, और यही शक्ति राज्य व केंद्र दोनों के पास है।"
+      },
+      {
+       "question": "नियम किस माध्यम से बनाए जाते हैं?",
+       "options": [
+        "समाचार पत्र में विज्ञापन से",
+        "मौखिक आदेश से",
+        "केवल पत्राचार से",
+        "अधिसूचना द्वारा"
+       ],
+       "answer": 3,
+       "explanation": "अधिनियम के अनुसार नियम अधिसूचना जारी करके बनाए जाते हैं।"
+      },
+      {
+       "question": "केंद्र सरकार के बनाए नियम कहाँ रखे जाते हैं?",
+       "options": [
+        "संसद के प्रत्येक सदन के समक्ष",
+        "केवल राज्य सरकार के पास",
+        "कहीं नहीं",
+        "केवल प्रधानमंत्री के पास"
+       ],
+       "answer": 0,
+       "explanation": "अधिनियम कहता है कि केंद्र के नियम संसद के प्रत्येक सदन के समक्ष रखे जाएँगे।"
+      },
+      {
+       "question": "राज्य सरकार के बनाए नियम या अधिसूचनाएँ कहाँ रखी जाती हैं?",
+       "options": [
+        "संसद के समक्ष",
+        "राज्य विधानमंडल के समक्ष",
+        "ग्राम सभा के समक्ष",
+        "जिला परिषद के समक्ष"
+       ],
+       "answer": 1,
+       "explanation": "राज्य सरकार के नियम और अधिसूचनाएँ राज्य विधानमंडल के समक्ष रखी जाती हैं।"
+      },
+      {
+       "question": "इनमें से कौन सा विषय नियमों द्वारा निर्धारित किया जा सकता है?",
+       "options": [
+        "अधिनियम का नाम",
+        "सर्वोच्च न्यायालय के न्यायाधीशों की नियुक्ति",
+        "विद्यालय विकास योजना तैयार करने का तरीका",
+        "संविधान के मूल अधिकार"
+       ],
+       "answer": 2,
+       "explanation": "अधिनियम में ऐसे कई विषय गिनाए गए हैं जो नियमों से तय होंगे, जैसे विद्यालय विकास योजना बनाने का तरीका।"
+      }
+     ]
     },
     {
      "number": "39",
@@ -17989,7 +20155,64 @@
      "kitabi": "Power of Central Government to remove difficulties.—(1) If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order, published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act, as may appear to it to be necessary for removing the difficulty: Provided that no order shall be made under this section after the expiry of three years from the commencement of the Right of Children to Free and Compulsory Education (Amendment) Act, 2012 (30 of 2012). (2) Every order made under this section shall be laid, as soon as may be after it is made, before each House of Parliament.] 1. Ins. by Act 30 of 2012, s. 8 (w.e.f. 1-8-2012). 15 THE SCHEDULE (See sections 19 and 25) NORMS AND STANDARDS FOR A SCHOOL Sl. No. Item Norms and Standards 1. Numbers of teachers: (a) For first class to fifth class Admitted children Number of teachers Up to Sixty Two Between sixty-one to ninety Three Between Ninety-one to one hundred and twenty Four Between One hundred and twenty-one to two hundred Five Above One hundred and fifty children Five plus one Head- teacher Above Two hundred children Pupil-Teacher Ratio (excluding Head-teacher) shall not exceed forty. (b) For sixth class to eighth class (1) At least one teacher per class so that there shall be at least one teacher each for— (i) Science and Mathematics; (ii) Social Studies; (iii) Languages. (2) At least one teacher for every thirty-five children. (3) Where admission of children is above one hundred— (i) a full time head-teacher; (ii) part time instructors for— (A) Art Education; (B) Health and Physical Education; (C) Work Education. 2. Building All-weather building consisting of— (i) at least one class-room for every teacher and an office-cum-store-cum-Head teacher’s room; (ii) barrier-free access; (iii) separate toilets for boys and girls; (iv) safe and adequate drinking water facility to all children; 16 Sl. No. Item Norms and Standards (v) a kitchen where mid-day meal is cooked in the school; (vi) Playground; (vii) arrangements for securing the school building by boundary wall or fencing. 3. Minimum number of working days/instructional hours in an academic year (i) two hundred working days for first class to fifth class; (ii) two hundred and twenty working days for sixth class to eighth class; (iii) eight hundred instructional hours per academic year for first class to fifth class; (iv) one thousand instructional hours per academic year for sixth class to eighth class. 4. Minimum number of working hours per week for the teacher forty-five teaching including preparation hours. 5. Teaching learning equipment Shall be provided to each class as required. 6. Library There shall be a library in each school providing newspaper, magazines and books on all subjects, including story-books. 7. Play material, games and sports equipment Shall be provided to each class as required.",
      "aasan": "कानून लागू करने में कठिनाई आए तो केंद्र सरकार आदेश देकर उसे दूर कर सकती है।",
      "source": "शिक्षा का अधिकार अधिनियम, 2009, धारा 39",
-     "sourceUrl": "https://www.education.gov.in/"
+     "sourceUrl": "https://www.education.gov.in/",
+     "questions": [
+      {
+       "question": "अधिनियम को लागू करने में कठिनाई आने पर उसे दूर करने का आदेश कौन जारी कर सकता है?",
+       "options": [
+        "राज्य सरकार",
+        "स्थानीय प्राधिकरण",
+        "विद्यालय प्रबंध समिति",
+        "केंद्र सरकार"
+       ],
+       "answer": 3,
+       "explanation": "कठिनाई दूर करने की शक्ति अधिनियम ने केंद्र सरकार को दी है।"
+      },
+      {
+       "question": "यह आदेश कहाँ प्रकाशित किया जाता है?",
+       "options": [
+        "राजपत्र में",
+        "कहीं प्रकाशित नहीं होता",
+        "केवल विद्यालय के नोटिस बोर्ड पर",
+        "केवल समाचार पत्र में"
+       ],
+       "answer": 0,
+       "explanation": "अधिनियम कहता है कि यह आदेश राजपत्र में प्रकाशित किया जाएगा।"
+      },
+      {
+       "question": "आदेश में किस बात का ध्यान रखना जरूरी है?",
+       "options": [
+        "वह अधिनियम को बदल दे",
+        "वह अधिनियम के प्रावधानों के विरुद्ध न हो",
+        "उसमें नए अधिकार जोड़ दिए जाएँ",
+        "कोई बंधन नहीं है"
+       ],
+       "answer": 1,
+       "explanation": "आदेश में ऐसे उपबंध ही हो सकते हैं जो अधिनियम के प्रावधानों के विरुद्ध न हों।"
+      },
+      {
+       "question": "कठिनाई दूर करने का आदेश कब तक जारी किया जा सकता है?",
+       "options": [
+        "कोई समय-सीमा नहीं है",
+        "हमेशा, कभी भी",
+        "2012 के संशोधन अधिनियम के प्रारंभ से तीन वर्ष की समाप्ति के बाद नहीं",
+        "दस वर्ष तक"
+       ],
+       "answer": 2,
+       "explanation": "अधिनियम में कहा गया है कि 2012 के संशोधन अधिनियम के प्रारंभ से तीन वर्ष बाद ऐसा कोई आदेश नहीं बनाया जा सकता।"
+      },
+      {
+       "question": "इस तरह के प्रत्येक आदेश को कहाँ रखा जाता है?",
+       "options": [
+        "केवल राष्ट्रपति के पास",
+        "केवल राज्य विधानमंडल के समक्ष",
+        "केवल न्यायालय के पास",
+        "संसद के प्रत्येक सदन के समक्ष"
+       ],
+       "answer": 3,
+       "explanation": "अधिनियम कहता है कि ऐसा हर आदेश संसद के प्रत्येक सदन के समक्ष रखा जाएगा।"
+      }
+     ]
     }
    ]
   }
