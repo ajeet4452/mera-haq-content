@@ -9,6 +9,18 @@
    "sectionLabel": "अनुच्छेद",
    "parts": [
     {
+     "label": "प्रस्तावना",
+     "title": "",
+     "range": "",
+     "sections": [
+      {
+       "number": "P",
+       "title": "प्रस्तावना"
+      }
+     ],
+     "omittedNote": ""
+    },
+    {
      "label": "भाग 1",
      "title": "संघ और उसके राज्यक्षेत्र",
      "titleEn": "The Union And Its Territory",
