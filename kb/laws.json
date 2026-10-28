@@ -22,7 +22,7 @@
     },
     {
      "label": "भाग 1",
-     "title": "संघ और उसके राज्यक्षेत्र",
+     "title": "",
      "titleEn": "The Union And Its Territory",
      "sections": [
       {
@@ -47,7 +47,7 @@
     },
     {
      "label": "भाग 2",
-     "title": "नागरिकता",
+     "title": "",
      "titleEn": "Citizenship",
      "sections": [
       {
@@ -84,7 +84,7 @@
     },
     {
      "label": "भाग 3",
-     "title": "मूल अधिकार",
+     "title": "",
      "titleEn": "Fundamental Rights",
      "sections": [
       {
@@ -201,7 +201,7 @@
     },
     {
      "label": "भाग 4",
-     "title": "राज्य के नीति निदेशक तत्व",
+     "title": "",
      "titleEn": "Directive Principles Of State Policy",
      "sections": [
       {
@@ -286,7 +286,7 @@
     },
     {
      "label": "भाग 4क",
-     "title": "मूल कर्तव्य",
+     "title": "",
      "titleEn": "Fundamental Duties",
      "sections": [
       {
@@ -299,7 +299,7 @@
     },
     {
      "label": "भाग 5",
-     "title": "संघ",
+     "title": "",
      "titleEn": "The Union",
      "sections": [
       {
@@ -728,7 +728,7 @@
     },
     {
      "label": "भाग 6",
-     "title": "राज्य",
+     "title": "",
      "titleEn": "The States",
      "sections": [
       {
@@ -1081,7 +1081,7 @@
     },
     {
      "label": "भाग 8",
-     "title": "संघ राज्यक्षेत्र",
+     "title": "",
      "titleEn": "The Union Territories",
      "sections": [
       {
@@ -1118,7 +1118,7 @@
     },
     {
      "label": "भाग 9",
-     "title": "पंचायतें",
+     "title": "",
      "titleEn": "The Panchayats",
      "sections": [
       {
@@ -1183,7 +1183,7 @@
     },
     {
      "label": "भाग 9क",
-     "title": "नगरपालिकाएँ",
+     "title": "",
      "titleEn": "The Municipalities",
      "sections": [
       {
@@ -1260,7 +1260,7 @@
     },
     {
      "label": "भाग 9ख",
-     "title": "सहकारी समितियाँ",
+     "title": "",
      "titleEn": "The Co-Operative Societies",
      "sections": [
       {
@@ -1321,7 +1321,7 @@
     },
     {
      "label": "भाग 10",
-     "title": "अनुसूचित और जनजातीय क्षेत्र",
+     "title": "",
      "titleEn": "The Scheduled And Tribal Areas",
      "sections": [
       {
@@ -1338,7 +1338,7 @@
     },
     {
      "label": "भाग 11",
-     "title": "संघ और राज्यों के बीच संबंध",
+     "title": "",
      "titleEn": "Relations Between The Union And The",
      "sections": [
       {
@@ -1427,7 +1427,7 @@
     },
     {
      "label": "भाग 12",
-     "title": "वित्त, संपत्ति, संविदाएँ और वाद",
+     "title": "",
      "titleEn": "Finance, Property, Contracts And Suits",
      "sections": [
       {
@@ -1588,7 +1588,7 @@
     },
     {
      "label": "भाग 13",
-     "title": "व्यापार, वाणिज्य और समागम",
+     "title": "",
      "titleEn": "Trade, Commerce And Intercourse",
      "sections": [
       {
@@ -1621,7 +1621,7 @@
     },
     {
      "label": "भाग 14",
-     "title": "संघ और राज्यों के अधीन सेवाएँ",
+     "title": "",
      "titleEn": "Services Under The Union And The States",
      "sections": [
       {
@@ -1694,7 +1694,7 @@
     },
     {
      "label": "भाग 14क",
-     "title": "अधिकरण",
+     "title": "",
      "titleEn": "Tribunals",
      "sections": [
       {
@@ -1711,7 +1711,7 @@
     },
     {
      "label": "भाग 15",
-     "title": "निर्वाचन",
+     "title": "",
      "titleEn": "Elections",
      "sections": [
       {
@@ -1744,7 +1744,7 @@
     },
     {
      "label": "भाग 16",
-     "title": "कुछ वर्गों के संबंध में विशेष उपबंध",
+     "title": "",
      "titleEn": "Special Provisions Relating To Certain",
      "sections": [
       {
@@ -1825,7 +1825,7 @@
     },
     {
      "label": "भाग 17",
-     "title": "राजभाषा",
+     "title": "",
      "titleEn": "Official Language",
      "sections": [
       {
@@ -1878,7 +1878,7 @@
     },
     {
      "label": "भाग 18",
-     "title": "आपात उपबंध",
+     "title": "",
      "titleEn": "Emergency Provisions",
      "sections": [
       {
@@ -1923,7 +1923,7 @@
     },
     {
      "label": "भाग 19",
-     "title": "विविध",
+     "title": "",
      "titleEn": "Miscellaneous",
      "sections": [
       {
@@ -1968,7 +1968,7 @@
     },
     {
      "label": "भाग 20",
-     "title": "संविधान का संशोधन",
+     "title": "",
      "titleEn": "Amendment Of The Constitution",
      "sections": [
       {
@@ -1981,7 +1981,7 @@
     },
     {
      "label": "भाग 21",
-     "title": "अस्थायी, संक्रमणकालीन और विशेष उपबंध",
+     "title": "",
      "titleEn": "Temporary, Transitional And",
      "sections": [
       {
@@ -2074,7 +2074,7 @@
     },
     {
      "label": "भाग 22",
-     "title": "संक्षिप्त नाम, प्रारंभ और निरसन",
+     "title": "",
      "titleEn": "Short Title, Commencement,",
      "sections": [
       {
@@ -2148,8 +2148,10 @@
      "title": "बारहवीं अनुसूची — नगरपालिकाओं की शक्तियाँ, प्राधिकार और उत्तरदायित्व"
     }
    ],
-   "note": "संविधान में मूल रूप से 22 भाग थे। बाद में चार उप-भाग संशोधन से जोड़े गए — 4क (मूल कर्तव्य), 9क (नगरपालिकाएँ), 9ख (सहकारी समितियाँ) और 14क (अधिकरण) — इसलिए प्रचलित भाग 25 हैं। भाग 7 को सातवें संशोधन (1956) द्वारा निरसित कर दिया गया था। अनुच्छेदों की गिनती 395 पर खत्म होती है, पर संशोधनों ने अक्षर वाले अनुच्छेद जोड़े (जैसे 21क, 243क), इसलिए कुल 493 अनुच्छेद हैं — 463 प्रचलित और 30 निरसित। निरसित अनुच्छेद अपने भाग के नीचे फुटनोट में दिए गए हैं, क्योंकि सरकार भी मृत अनुच्छेद को जीवित सूची में नहीं रखती। 12 अनुसूचियाँ अलग सूची में हैं — वे अनुच्छेद नहीं हैं।",
-   "rangeNote": "अनुच्छेद 1–395"
+   "note": "भाग 1 से 22 और अनुच्छेद 1 से 395 — यही संविधान की अपनी गिनती है। संशोधनों ने कुछ अनुच्छेद जोड़े (जैसे 21क, 51क, 243क) और चार उप-भाग (4क, 9क, 9ख, 14क), इसलिए आज लागू प्रविष्टियाँ 25 भाग और 463 अनुच्छेद हैं; 30 अनुच्छेद निरसित हैं और अपने भाग के नीचे फुटनोट में दिए गए हैं।",
+   "rangeNote": "अनुच्छेद 1–395",
+   "displayParts": 22,
+   "displaySections": 395
   },
   {
    "id": "rti",
