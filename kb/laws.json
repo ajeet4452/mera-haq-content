@@ -3839,6 +3839,48 @@
     }
    ],
    "note": ""
+  },
+  {
+   "id": "education",
+   "name": "शिक्षा — गणित और तर्क",
+   "short": "शिक्षा",
+   "sourceUrl": "",
+   "partLabel": "विषय",
+   "sectionLabel": "टॉपिक",
+   "parts": [
+    {
+     "label": "गणित",
+     "title": "",
+     "titleEn": "",
+     "range": "",
+     "sections": [
+      {
+       "number": "E1",
+       "title": "प्रतिशत"
+      }
+     ],
+     "omittedNote": ""
+    },
+    {
+     "label": "तर्क",
+     "title": "",
+     "titleEn": "",
+     "range": "",
+     "sections": [
+      {
+       "number": "E2",
+       "title": "रक्त संबंध"
+      },
+      {
+       "number": "E3",
+       "title": "कोडिंग-डिकोडिंग"
+      }
+     ],
+     "omittedNote": ""
+    }
+   ],
+   "schedules": [],
+   "note": ""
   }
  ]
 }
