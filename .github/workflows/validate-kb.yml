@@ -1,0 +1,43 @@
+name: सामग्री जाँच
+
+# kb/ की हर फाइल हर बदलाव पर जाँची जाए। कोई त्रुटि मिले तो बदलाव आगे नहीं बढ़ेगा।
+# जाँच: ढाँचा, खाली फ़ील्ड, सवालों के चार अलग विकल्प, जवाब का क्रमांक,
+# दोहराए सवाल, और सरकारी पाठ से शब्द-दर-शब्द मिलान (जहाँ kb/official_text.json में पाठ है)।
+
+on:
+  push:
+    paths:
+      - "kb/**"
+      - "scripts/**"
+      - ".github/workflows/validate-kb.yml"
+  pull_request:
+    paths:
+      - "kb/**"
+      - "scripts/**"
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: ढाँचा और सामग्री की जाँच
+        run: |
+          python3 scripts/validate_kb.py \
+            kb/acts.json kb/laws.json kb/quiz.json kb/articles.json \
+            kb/documents.json kb/general.json kb/fundamental_rights.json \
+            kb/consumer_rights.json kb/other_rights.json kb/helplines.json \
+            kb/constitution_structure.json
+
+      - name: सरकारी पाठ से शब्द-दर-शब्द मिलान
+        run: |
+          if [ -f kb/official_text.json ]; then
+            python3 scripts/validate_kb.py kb/acts.json --ref kb/official_text.json
+          else
+            echo "kb/official_text.json नहीं है — यह जाँच छोड़ी गई"
+          fi
