@@ -118,6 +118,21 @@ def check_file(path):
         for sch in data.get("schedules", []) or []:
             if not (sch.get("title") or "").strip():
                 err(f"{path}: अनुसूची {sch.get('number')} का शीर्षक खाली है")
+    elif isinstance(data, dict) and "parts" in data and "schedules" in data:
+        # constitution_structure.json — भाग और उनमें अनुच्छेदों की सूची।
+        for part in data["parts"]:
+            if not (part.get("label") or "").strip():
+                err(f"{path}: किसी भाग का नाम नहीं है")
+            if not part.get("articles"):
+                err(f"{path}: भाग {part.get('label')} में कोई अनुच्छेद नहीं")
+            for a in part.get("articles", []):
+                if not str(a.get("number") or "").strip():
+                    err(f"{path}: भाग {part.get('label')} में बिना नंबर का अनुच्छेद")
+                if not (a.get("title") or "").strip():
+                    err(f"{path}: अनुच्छेद {a.get('number')} का शीर्षक खाली है")
+        for sch in data.get("schedules", []):
+            if not (sch.get("title") or "").strip():
+                err(f"{path}: अनुसूची {sch.get('number')} का शीर्षक खाली है")
     elif isinstance(data, list) and data and "number" in data[0] and "name" in data[0]:
         # helplines.json — नाम और नंबर वाली सूची, विषयों वाली नहीं।
         for d in data:
@@ -200,6 +215,25 @@ def main():
 
     for path in files:
         check_file(path)
+
+    # ढाँचे और वास्तविक अनुच्छेदों की तुलना — कोई अनुच्छेद छूटा या अतिरिक्त न हो।
+    structure = next((f for f in files if f.endswith("constitution_structure.json")), None)
+    articles = next((f for f in files if f.endswith("articles.json")), None)
+    if structure and articles:
+        try:
+            st = json.load(open(structure, encoding="utf-8"))
+            ar = json.load(open(articles, encoding="utf-8"))
+            in_structure = {str(a["number"]) for p in st.get("parts", []) for a in p.get("articles", [])}
+            in_articles = {str(a["number"]) for a in ar.get("articles", []) if str(a.get("number")) != "P"}
+            missing = sorted(in_structure - in_articles)
+            extra = sorted(in_articles - in_structure)
+            if missing:
+                warn(f"ढाँचे में हैं पर articles.json में नहीं: {', '.join(missing[:12])}")
+            if extra:
+                warn(f"articles.json में हैं पर ढाँचे में नहीं: {', '.join(extra[:12])}")
+            print(f"  अनुच्छेद मिलान: ढाँचे में {len(in_structure)}, articles.json में {len(in_articles)}")
+        except Exception as e:
+            warn(f"अनुच्छेद मिलान नहीं हो सका — {e}")
 
     if ref:
         acts = next((f for f in files if f.endswith("acts.json")), None)
