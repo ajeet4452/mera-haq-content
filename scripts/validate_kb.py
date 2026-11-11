@@ -118,6 +118,16 @@ def check_file(path):
         for sch in data.get("schedules", []) or []:
             if not (sch.get("title") or "").strip():
                 err(f"{path}: अनुसूची {sch.get('number')} का शीर्षक खाली है")
+    elif isinstance(data, list) and data and "number" in data[0] and "name" in data[0]:
+        # helplines.json — नाम और नंबर वाली सूची, विषयों वाली नहीं।
+        for d in data:
+            if not (d.get("name") or "").strip():
+                err(f"{path}: किसी हेल्पलाइन का नाम खाली है")
+            num = str(d.get("number") or "").strip()
+            if not num:
+                err(f"{path}: {d.get('name')} का नंबर खाली है")
+            elif not re.fullmatch(r"[0-9+\-\s]{3,15}", num):
+                warn(f"{path}: {d.get('name')} का नंबर ठीक नहीं लगता — {num}")
     elif isinstance(data, list):
         ids = set()
         for d in data:
