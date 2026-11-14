@@ -20616,12 +20616,82 @@
      "questions": []
     },
     {
+     "number": "37",
+     "title": "पुलिस कंट्रोल रूम और गिरफ्तारी की जानकारी रखने वाला अधिकारी",
+     "part": "गिरफ्तारी और हिरासत",
+     "kitabi": "The State Government shall— (a) establish a police control room in every district and at State level; (b) designate a police officer in every district and in every police station, not below the rank of Assistant Sub-Inspector of Police who shall be responsible for maintaining the information about the names and addresses of the persons arrested, nature of the offence with which charged, which shall be prominently displayed in any manner including in digital mode in every police station and at the district headquarters. ---",
+     "aasan": "राज्य सरकार को हर जिले में और राज्य स्तर पर पुलिस कंट्रोल रूम बनाना होता है, और हर थाने में एक अधिकारी नामित करना होता है जो गिरफ्तारियों की पूरी जानकारी रखे।",
+     "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 37",
+     "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
+     "questions": []
+    },
+    {
      "number": "38",
      "title": "पूछताछ के दौरान वकील से मिलने का अधिकार",
      "part": "गिरफ्तारी और हिरासत",
      "kitabi": "When any person is arrested and interrogated by the police, he shall be entitled to meet an advocate of his choice during interrogation, though not throughout interrogation.",
      "aasan": "गिरफ्तार होने के बाद पूछताछ के समय आपको अपने चुने हुए वकील से मिलने का अधिकार है। पूरी पूछताछ के दौरान नहीं, पर मिलने से मना नहीं किया जा सकता।",
      "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 38",
+     "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
+     "questions": []
+    },
+    {
+     "number": "39",
+     "title": "नाम या पता न बताने पर गिरफ्तारी",
+     "part": "गिरफ्तारी और हिरासत",
+     "kitabi": "(1) When any person who, in the presence of a police officer, has committed or has been accused of committing a non-cognizable offence refuses on demand of such officer to give his name and residence or gives a name or residence which such officer has reason to believe to be false, he may be arrested by such officer in order that his name or residence may be ascertained. (2) When the true name and residence of such person have been ascertained, he shall be released on a bond or bail bond, to appear before a Magistrate if so required: Provided that if such person is not resident in India, the bail bond shall be secured by a surety or sureties resident in India. (3) If the true name and residence of such person is not ascertained within twenty-four hours from the time of arrest or if he fails to execute the bond or bail bond, or, if so required, to furnish sufficient sureties, he shall forthwith be forwarded to the nearest Magistrate having jurisdiction.",
+     "aasan": "गैर-संज्ञेय अपराध में पकड़े गए व्यक्ति से पुलिस नाम और पता पूछती है। अगर वह बताने से मना करे या झूठा पता बताए, तो उसे गिरफ्तार किया जा सकता है।",
+     "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 39",
+     "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
+     "questions": []
+    },
+    {
+     "number": "40",
+     "title": "आम व्यक्ति द्वारा गिरफ्तारी",
+     "part": "गिरफ्तारी और हिरासत",
+     "kitabi": "(1) Any private person may arrest or cause to be arrested any person who in his presence commits a non-bailable and cognizable offence, or any proclaimed offender, and, without unnecessary delay, but within six hours from such arrest, shall make over or cause to be made over any person so arrested to a police officer, or, in the absence of a police officer, take such person or cause him to be taken in custody to the nearest police station. (2) If there is reason to believe that such person comes under the provisions of sub-section (1) of section 35, a police officer shall take him in custody. (3) If there is reason to believe that he has committed a non-cognizable offence, and he refuses on the demand of a police officer to give his name and residence, or gives a name or residence which such officer has reason to believe to be false, he shall be dealt with under the provisions of section 39; but if there is no sufficient reason to believe that he has committed any offence, he shall be at once released.",
+     "aasan": "कोई भी व्यक्ति उस अपराधी को पकड़ सकता है जो उसके सामने गैर-जमानती संज्ञेय अपराध करे या घोषित अपराधी हो। पकड़े गए व्यक्ति को बिना देर किए, छह घंटे के भीतर पुलिस को सौंपना जरूरी है।",
+     "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 40",
+     "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
+     "questions": []
+    },
+    {
+     "number": "41",
+     "title": "मजिस्ट्रेट के सामने अपराध होने पर",
+     "part": "गिरफ्तारी और हिरासत",
+     "kitabi": "(1) When any offence is committed in the presence of a Magistrate, whether Executive or Judicial, within his local jurisdiction, he may himself arrest or order any person to arrest the offender, and may thereupon, subject to the provisions herein contained as to bail, commit the offender to custody. (2) Any Magistrate, whether Executive or Judicial, may at any time arrest or direct the arrest, in his presence, within his local jurisdiction, of any person for whose arrest he is competent at the time and in the circumstances to issue a warrant.",
+     "aasan": "अगर अपराध मजिस्ट्रेट के सामने उसके क्षेत्र में होता है, तो मजिस्ट्रेट खुद अपराधी को गिरफ्तार कर सकता है या कराने का आदेश दे सकता है।",
+     "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 41",
+     "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
+     "questions": []
+    },
+    {
+     "number": "43",
+     "title": "गिरफ्तारी करने का ढंग और महिला की गिरफ्तारी",
+     "part": "गिरफ्तारी और हिरासत",
+     "kitabi": "(1) In making an arrest the police officer or other person making the same shall actually touch or confine the body of the person to be arrested, unless there be a submission to the custody by word or action: Provided that where a woman is to be arrested, unless the circumstances indicate to the contrary, her submission to custody on an oral intimation of arrest shall be presumed and, unless the circumstances otherwise require or unless the police officer is a female, the police officer shall not touch the person of the woman for making her arrest. (2) If such person forcibly resists the endeavour to arrest him, or attempts to evade the arrest, such police officer or other person may use all means necessary to effect the arrest. (3) The police officer may, keeping in view the nature and gravity of the offence, use handcuff while making the arrest of a person or while producing such person before the court who is a habitual or repeat offender, or who escaped from custody, or who has committed offence of organised crime, terrorist act, drug related crime, or illegal possession of arms and ammunition, murder, rape, acid attack, counterfeiting of coins and currency-notes, human trafficking, sexual offence against children, or offence against the State. (4) Nothing in this section gives a right to cause the death of a person who is not accused of an offence punishable with death or with imprisonment for life. (5) Save in exceptional circumstances, no woman shall be arrested after sunset and before sunrise, and where such exceptional circumstances exist, the woman police officer shall, by making a written report, obtain the prior permission of the Magistrate of the first class within whose local jurisdiction the offence is committed or the arrest is to be made.",
+     "aasan": "गिरफ्तारी में व्यक्ति को छूकर या बंधन में लिया जाता है, जब तक वह बात से ही हिरासत स्वीकार न कर ले। महिला की गिरफ्तारी में शालीनता रखनी होती है — और सूर्यास्त के बाद तथा सूर्योदय से पहले महिला को गिरफ्तार नहीं किया जा सकता, सिवाय विशेष परिस्थिति में मजिस्ट्रेट की अनुमति से।",
+     "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 43",
+     "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
+     "questions": []
+    },
+    {
+     "number": "44",
+     "title": "घर के अंदर छिपे व्यक्ति की गिरफ्तारी",
+     "part": "गिरफ्तारी और हिरासत",
+     "kitabi": "(1) If any person acting under a warrant of arrest, or any police officer having authority to arrest, has reason to believe that the person to be arrested has entered into, or is within, any place, any person residing in, or being in charge of, such place shall, on demand of such person acting as aforesaid or such police officer, allow him free ingress thereto, and afford all reasonable facilities for a search therein. (2) If ingress to such place cannot be obtained under sub-section (1), it shall be lawful in any case for a person acting under a warrant and in any case in which a warrant may issue, but cannot be obtained without affording the person to be arrested an opportunity of escape, for a police officer to enter such place and search therein, and in order to effect an entrance into such place, to break open any outer or inner door or window of any house or place, whether that of the person to be arrested or of any other person, if after notification of his authority and purpose, and demand of admittance duly made, he cannot otherwise obtain admittance: Provided that if any such place is an apartment in the actual occupancy of a female (not being the person to be arrested) who, according to custom, does not appear in public, such person or police officer shall, before entering such apartment, give notice to such female that she is at liberty to withdraw and shall afford her every reasonable facility for withdrawing, and may then break open the apartment and enter it. (3) Any police officer or other person authorised to make an arrest may break open any outer or inner door or window of any house or place in order to liberate himself or any other person who, having lawfully entered for the purpose of making an arrest, is detained therein. ---",
+     "aasan": "अगर गिरफ्तार किया जाने वाला व्यक्ति किसी घर या जगह के अंदर है, तो उस जगह में रहने वाले या उसके प्रभारी व्यक्ति को माँगने पर अंदर जाने देना होता है, साथ में उचित सहायता भी देनी होती है।",
+     "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 44",
+     "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
+     "questions": []
+    },
+    {
+     "number": "45",
+     "title": "भागते व्यक्ति का पीछा",
+     "part": "गिरफ्तारी और हिरासत",
+     "kitabi": "A police officer may, for the purpose of arresting without warrant any person whom he is authorised to arrest, pursue such person into any place in India.",
+     "aasan": "बिना वारंट गिरफ्तारी के अधिकार वाला पुलिस अधिकारी उस व्यक्ति का भारत में कहीं भी पीछा कर सकता है।",
+     "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 45",
      "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
      "questions": []
     },
@@ -20656,12 +20726,72 @@
      "questions": []
     },
     {
+     "number": "49",
+     "title": "गिरफ्तार व्यक्ति को अदालत या थाने भेजना",
+     "part": "गिरफ्तारी और हिरासत",
+     "kitabi": "(1) Whenever,— (i) a person is arrested by a police officer under a warrant which does not provide for the taking of bail, or under a warrant which provides for the taking of bail but the person arrested cannot furnish bail; and *(ii)* a person is arrested without warrant, or by a private person under a warrant, and cannot legally be admitted to bail, or is unable to furnish bail, the officer making the arrest or, when the arrest is made by a private person, the police officer to whom he makes over the person arrested, may search such person, and place in safe custody all articles, other than necessary wearing-apparel, found upon him and where any article is seized from the arrested person, a receipt showing the articles taken in possession by the police officer shall be given to such person. (2) Whenever it is necessary to cause a female to be searched, the search shall be made by another female with strict regard to decency.",
+     "aasan": "गिरफ्तार व्यक्ति को बिना देर किए उस अदालत या थाना प्रभारी के सामने भेजा जाता है जिसके पास मामले का अधिकार है; जमानत के प्रावधान इस पर लागू रहते हैं।",
+     "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 49",
+     "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
+     "questions": []
+    },
+    {
+     "number": "50",
+     "title": "गिरफ्तार व्यक्ति से हथियार लेना",
+     "part": "गिरफ्तारी और हिरासत",
+     "kitabi": "The police officer or other person making any arrest under this Sanhita may, immediately after the arrest is made, take from the person arrested any offensive weapons which he has about his person, and shall deliver all weapons so taken to the Court or officer before which or whom the officer or person making the arrest is required by this Sanhita to produce the person arrested.",
+     "aasan": "गिरफ्तारी के तुरंत बाद उसके पास से खतरनाक हथियार लिए जा सकते हैं, और वे अदालत या संबंधित अधिकारी को सौंपे जाते हैं।",
+     "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 50",
+     "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
+     "questions": []
+    },
+    {
+     "number": "51",
+     "title": "सबूत के लिए शरीर की जाँच",
+     "part": "गिरफ्तारी और हिरासत",
+     "kitabi": "(1) When a person is arrested on a charge of committing an offence of such a nature and alleged to have been committed under such circumstances that there are reasonable grounds for believing that an examination of his person will afford evidence as to the commission of an offence, it shall be lawful for a registered medical practitioner, acting at the request of any police officer, and for any person acting in good faith in his aid and under his direction, to make such an examination of the person arrested as is reasonably Pursuit of offenders into other jurisdictions. No unnecessary restraint. Person arrested to be informed of grounds of arrest and of right to bail. Obligation of person making arrest to inform about arrest, etc., to relative or friend. Search of arrested person. Power to seize offensive weapons. Examination of accused by medical practitioner at request of police officer. --- Examination of person accused of rape by medical practitioner. necessary in order to ascertain the facts which may afford such evidence, and to use such force as is reasonably necessary for that purpose. (2) Whenever the person of a female is to be examined under this section, the examination shall be made only by, or under the supervision of, a female registered medical practitioner. (3) The registered medical practitioner shall, without any delay, forward the examination report to the investigating officer. Examination of arrested person by medical officer. *Explanation.*—In this section and sections 52 and 53,— (a) \"examination\" shall include the examination of blood, blood stains, semen, swabs in case of sexual offences, sputum and sweat, hair samples and finger nail clippings by the use of modern and scientific techniques including DNA profiling and such other tests which the registered medical practitioner thinks necessary in a particular case; (b) \"registered medical practitioner\" means a medical practitioner who possesses any medical qualification recognised under the National Medical Commission Act, 2019 and whose name has been entered in the National Medical Register or a State Medical Register under that Act.",
+     "aasan": "अगर मानने का ठोस कारण हो कि शरीर की जाँच से अपराध का सबूत मिलेगा, तो डॉक्टर से जाँच कराई जा सकती है।",
+     "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 51",
+     "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
+     "questions": []
+    },
+    {
+     "number": "52",
+     "title": "बलात्कार के मामले में जाँच",
+     "part": "गिरफ्तारी और हिरासत",
+     "kitabi": "(1) When a person is arrested on a charge of committing an offence of rape or an attempt to commit rape and there are reasonable grounds for believing that an examination of his person will afford evidence as to the commission of such offence, it shall be lawful for a registered medical practitioner employed in a hospital run by the Government or by a local authority and in the absence of such a practitioner within the radius of sixteen kilometres from the place where the offence has been committed, by any other registered medical practitioner, acting at the request of any police officer, and for any person acting in good faith in his aid and under his direction, to make such an examination of the arrested person and to use such force as is reasonably necessary for that purpose. (2) The registered medical practitioner conducting such examination shall, without any delay, examine such person and prepare a report of his examination giving the following particulars, namely:— (i) the name and address of the accused and of the person by whom he was brought; *(ii)* the age of the accused; *(iii)* marks of injury, if any, on the person of the accused; *(iv)* the description of material taken from the person of the accused for DNA profiling; and (v) other material particulars in reasonable detail. (3) The report shall state precisely the reasons for each conclusion arrived at. (4) The exact time of commencement and completion of the examination shall also be noted in the report. (5) The registered medical practitioner shall, without any delay, forward the report to the investigating officer, who shall forward it to the Magistrate referred to in section 193 as part of the documents referred to in clause (a) of sub-section (6) of that section.",
+     "aasan": "बलात्कार या उसके प्रयास के मामले में अभियुक्त की मेडिकल जाँच कराई जा सकती है, क्योंकि उससे सबूत मिलते हैं।",
+     "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 52",
+     "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
+     "questions": []
+    },
+    {
      "number": "53",
      "title": "गिरफ्तारी के बाद मेडिकल जाँच",
      "part": "गिरफ्तारी और हिरासत",
      "kitabi": "(1) When any person is arrested, he shall be examined by a medical officer in the service of the Central Government or a State Government, and in case the medical officer is not available, by a registered medical practitioner soon after the arrest is made: 30 of 2019. --- Provided that if the medical officer or the registered medical practitioner is of the opinion that one more examination of such person is necessary, he may do so: Provided further that where the arrested person is a female, the examination of the body shall be made only by or under the supervision of a female medical officer, and in case the female medical officer is not available, by a female registered medical practitioner. (2) The medical officer or a registered medical practitioner so examining the arrested person shall prepare the record of such examination, mentioning therein any injuries or marks of violence upon the person arrested, and the approximate time when such injuries or marks may have been inflicted. (3) Where an examination is made under sub-section (1), a copy of the report of such examination shall be furnished by the medical officer or registered medical practitioner, as the case may be, to the arrested person or the person nominated by such arrested person.",
      "aasan": "गिरफ्तारी के तुरंत बाद सरकारी डॉक्टर या पंजीकृत डॉक्टर से जाँच होती है, जिसमें शरीर पर के निशान या चोट दर्ज होती है। महिला की जाँच सिर्फ महिला डॉक्टर कर सकती है।",
      "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 53",
+     "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
+     "questions": []
+    },
+    {
+     "number": "54",
+     "title": "पहचान के लिए अदालत का निर्देश",
+     "part": "गिरफ्तारी और हिरासत",
+     "kitabi": "Where a person is arrested on a charge of committing an offence and his identification by any other person or persons is considered necessary for the purpose of investigation of such offence, the Court, having jurisdiction may, on the request of the officer in charge of a police station, direct the person so arrested to subject himself to identification by any person or persons in such manner as the Court may deem fit: Provided that if the person identifying the person arrested is mentally or physically disabled, such process of identification shall take place under the supervision of a Magistrate who shall take appropriate steps to ensure that such person identifies the person arrested using methods that person is comfortable with and the identification process shall be recorded by any audio-video electronic means.",
+     "aasan": "जाँच के लिए जरूरी हो तो अदालत थाना प्रभारी के अनुरोध पर आरोपी की पहचान कराने का निर्देश दे सकती है।",
+     "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 54",
+     "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
+     "questions": []
+    },
+    {
+     "number": "55",
+     "title": "अधीनस्थ अधिकारी को लिखित आदेश",
+     "part": "गिरफ्तारी और हिरासत",
+     "kitabi": "(1) When any officer in charge of a police station or any police officer making an investigation under Chapter XIII requires any officer subordinate to him to arrest without a warrant (otherwise than in his presence) any person who may lawfully be arrested without a warrant, he shall deliver to the officer required to make the arrest an order in writing, specifying the person to be arrested and the offence or other cause for which the arrest is to be made and the officer so required shall, before making the arrest, notify to the person to be arrested the substance of the order and, if so required by such person, shall show him the order. (2) Nothing in sub-section (1) shall affect the power of a police officer to arrest a person under section 35.",
+     "aasan": "थाना प्रभारी अपने अधीनस्थ को बिना वारंट गिरफ्तारी का आदेश लिखित में देगा, जिसमें अपराध, आदेश का आधार और पहचान की जानकारी होती है।",
+     "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 55",
      "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
      "questions": []
     },
@@ -20676,12 +20806,32 @@
      "questions": []
     },
     {
+     "number": "57",
+     "title": "गिरफ्तार व्यक्ति को आगे भेजना",
+     "part": "गिरफ्तारी और हिरासत",
+     "kitabi": "A police officer making an arrest without warrant shall, without unnecessary delay and subject to the provisions herein contained as to bail, take or send the person arrested before a Magistrate having jurisdiction in the case, or before the officer in charge of a police station.",
+     "aasan": "बिना वारंट गिरफ्तार व्यक्ति को बिना अनावश्यक देर किए मजिस्ट्रेट के सामने या थाना प्रभारी के सामने पहुँचाया जाता है।",
+     "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 57",
+     "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
+     "questions": []
+    },
+    {
      "number": "58",
      "title": "24 घंटे में मजिस्ट्रेट के सामने पेश करना",
      "part": "गिरफ्तारी और हिरासत",
      "kitabi": "No police officer shall detain in custody a person arrested without warrant for a longer period than under all the circumstances of the case is reasonable, and such period shall not, in the absence of a special order of a Magistrate under section 187, exceed twenty-four hours exclusive of the time necessary for the journey from the place of arrest to the Magistrate's Court, whether having jurisdiction or not.",
      "aasan": "बिना वारंट गिरफ्तार व्यक्ति को जरूरत से ज्यादा नहीं रोका जा सकता — और मजिस्ट्रेट का विशेष आदेश न हो तो 24 घंटे से ज्यादा हिरासत में नहीं रखा जा सकता, जिसमें थाने से अदालत तक के सफर का समय नहीं गिना जाता।",
      "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 58",
+     "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
+     "questions": []
+    },
+    {
+     "number": "59",
+     "title": "गिरफ्तारियों की रिपोर्ट जिला मजिस्ट्रेट को",
+     "part": "गिरफ्तारी और हिरासत",
+     "kitabi": "Officers in charge of police stations shall report to the District Magistrate, or, if he so directs, to the Sub-divisional Magistrate, the cases of all persons arrested without warrant, within the limits of their respective stations, whether such persons have been admitted to bail or otherwise. Identification of person arrested. Procedure when police officer deputes subordinate to arrest without warrant. Health and safety of arrested person. Person arrested to be taken before Magistrate or officer in charge of police station. Person arrested not to be detained more than twenty-four hours. Police to report apprehensions. --- Discharge of person apprehended. Power, on escape, to pursue and retake. Arrest to be made strictly according to Sanhita. Form of summons. Summons how served. Service of summons on corporate bodies, firms, and societies.",
+     "aasan": "थाना प्रभारी अपने थाने की सभी बिना वारंट गिरफ्तारियों की रिपोर्ट जिला मजिस्ट्रेट या उप-मंडल मजिस्ट्रेट को भेजता है — चाहे वे जमानत पर छूटे हों या नहीं।",
+     "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 59",
      "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
      "questions": []
     },
@@ -20696,12 +20846,112 @@
      "questions": []
     },
     {
+     "number": "61",
+     "title": "हिरासत से भागे व्यक्ति को पकड़ना",
+     "part": "गिरफ्तारी और हिरासत",
+     "kitabi": "(1) If a person in lawful custody escapes or is rescued, the person from whose custody he escaped or was rescued may immediately pursue and arrest him in any place in India. (2) The provisions of section 44 shall apply to arrests under sub-section (1) although the person making any such arrest is not acting under a warrant and is not a police officer having authority to arrest.",
+     "aasan": "कानूनी हिरासत से कोई भाग जाए या छुड़ा लिया जाए, तो जिसकी हिरासत में था वह उसे भारत में कहीं भी तुरंत पकड़ सकता है।",
+     "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 61",
+     "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
+     "questions": []
+    },
+    {
      "number": "62",
      "title": "गिरफ्तारी सिर्फ कानून के हिसाब से",
      "part": "गिरफ्तारी और हिरासत",
      "kitabi": "No arrest shall be made except in accordance with the provisions of this Sanhita or any other law for the time being in force providing for arrest. ### CHAPTER VI #### PROCESSES TO COMPEL APPEARANCE ### A.—Summons",
      "aasan": "गिरफ्तारी सिर्फ इस संहिता या किसी अन्य प्रचलित कानून के प्रावधानों के अनुसार ही की जा सकती है, उसके बाहर नहीं।",
      "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 62",
+     "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
+     "questions": []
+    },
+    {
+     "number": "63",
+     "title": "समन किस रूप में जारी होगा",
+     "part": "समन और वारंट",
+     "kitabi": "Every summons issued by a Court under this Sanhita shall be,— (i) in writing, in duplicate, signed by the presiding officer of such Court or by such other officer as the High Court may, from time to time, by rule direct, and shall bear the seal of the Court; or *(ii)* in an encrypted or any other form of electronic communication and shall bear the image of the seal of the Court or digital signature.",
+     "aasan": "अदालत का समन लिखित और दो प्रतियों में होता है, जिस पर अदालत के अधिकारी के हस्ताक्षर और मुहर होती है; अब इसे एन्क्रिप्टेड या इलेक्ट्रॉनिक रूप में भी जारी किया जा सकता है।",
+     "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 63",
+     "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
+     "questions": []
+    },
+    {
+     "number": "64",
+     "title": "समन कौन पहुँचाता है",
+     "part": "समन और वारंट",
+     "kitabi": "(1) Every summons shall be served by a police officer, or subject to such rules as the State Government may make in this behalf, by an officer of the Court issuing it or other public servant: Provided that the police station or the registrar in the Court shall maintain a register to enter the address, email address, phone number and such other details as the State Government may, by rules, provide. (2) The summons shall, if practicable, be served personally on the person summoned, by delivering or tendering to him one of the duplicates of the summons: Provided that summons bearing the image of Court's seal may also be served by electronic communication in such form and in such manner, as the State Government may, by rules, provide. (3) Every person on whom a summons is so served personally shall, if so required by the serving officer, sign a receipt therefor on the back of the other duplicate.",
+     "aasan": "समन पुलिस अधिकारी, अदालत का अधिकारी या अन्य लोक सेवक पहुँचाता है, और उसका रिकॉर्ड थाने या अदालत के रजिस्टर में दर्ज होता है।",
+     "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 64",
+     "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
+     "questions": []
+    },
+    {
+     "number": "71",
+     "title": "गवाह को इलेक्ट्रॉनिक या रजिस्ट्री से समन",
+     "part": "समन और वारंट",
+     "kitabi": "(1) Notwithstanding anything contained in the preceding sections of this Chapter, a Court issuing a summons to a witness may, in addition to and simultaneously with the issue of such summons, direct a copy of the summons to be served by electronic communication or by registered post addressed to the witness at the place where he ordinarily resides or carries on business or personally works for gain. (2) When an acknowledgement purporting to be signed by the witness or an endorsement purporting to be made by a postal employee that the witness refused to take delivery of the summons has been received or on the proof of delivery of summons under sub-section (3) of section 70 by electronic communication to the satisfaction of the Court, the Court issuing summons may deem that the summons has been duly served. ### B.—Warrant of arrest",
+     "aasan": "गवाह को समन के साथ-साथ इलेक्ट्रॉनिक संचार या रजिस्ट्री डाक से भी भेजा जा सकता है, ताकि वह समय पर पहुँच सके।",
+     "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 71",
+     "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
+     "questions": []
+    },
+    {
+     "number": "72",
+     "title": "वारंट किस रूप में जारी होगा",
+     "part": "समन और वारंट",
+     "kitabi": "(1) Every warrant of arrest issued by a Court under this Sanhita shall be in writing, signed by the presiding officer of such Court and shall bear the seal of the Court. Service when persons summoned cannot be found. Procedure when service cannot be effected as before provided. Service on Government servant. Service of summons outside local limits. Proof of service in such cases and when serving officer not present. Service of summons on witness. Form of warrant of arrest and duration. --- Power to direct security to be taken. Warrants to whom directed. Warrant may be directed to any person. Warrant directed to police officer. Notification of substance of warrant. Person arrested to be brought before Court without delay. Where warrant may be executed. (2) Every such warrant shall remain in force until it is cancelled by the Court which issued it, or until it is executed.",
+     "aasan": "गिरफ्तारी का वारंट लिखित होता है, जिस पर अदालत के अधिकारी के हस्ताक्षर और अदालत की मुहर होती है।",
+     "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 72",
+     "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
+     "questions": []
+    },
+    {
+     "number": "73",
+     "title": "वारंट पर जमानत का निर्देश",
+     "part": "समन और वारंट",
+     "kitabi": "(1) Any Court issuing a warrant for the arrest of any person may in its discretion direct by endorsement on the warrant that, if such person executes a bail bond with sufficient sureties for his attendance before the Court at a specified time and thereafter until otherwise directed by the Court, the officer to whom the warrant is directed shall take such security and shall release such person from custody. (2) The endorsement shall state— (a) the number of sureties; (b) the amount in which they and the person for whose arrest the warrant is issued, are to be respectively bound; (c) the time at which he is to attend before the Court. (3) Whenever security is taken under this section, the officer to whom the warrant is directed shall forward the bond to the Court.",
+     "aasan": "अदालत वारंट पर लिख सकती है कि अगर व्यक्ति उचित जमानतदारों के साथ बंधपत्र दे दे, तो उसे गिरफ्तार न किया जाए और वह तय समय पर अदालत में हाजिर हो।",
+     "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 73",
+     "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
+     "questions": []
+    },
+    {
+     "number": "74",
+     "title": "वारंट किसे दिया जाएगा",
+     "part": "समन और वारंट",
+     "kitabi": "(1) A warrant of arrest shall ordinarily be directed to one or more police officers; but the Court issuing such a warrant may, if its immediate execution is necessary and no police officer is immediately available, direct it to any other person or persons, and such person or persons shall execute the same. (2) When a warrant is directed to more officers or persons than one, it may be executed by all, or by any one or more of them.",
+     "aasan": "वारंट आम तौर पर एक या अधिक पुलिस अधिकारियों को दिया जाता है; तुरंत तामील जरूरी हो और पुलिस उपलब्ध न हो तो किसी अन्य व्यक्ति को भी दिया जा सकता है।",
+     "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 74",
+     "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
+     "questions": []
+    },
+    {
+     "number": "77",
+     "title": "वारंट की बात गिरफ्तार होने वाले को बताना",
+     "part": "समन और वारंट",
+     "kitabi": "The police officer or other person executing a warrant of arrest shall notify the substance thereof to the person to be arrested, and, if so required, shall show him the warrant.",
+     "aasan": "वारंट तामील करने वाला उसका सार गिरफ्तार होने वाले व्यक्ति को बताएगा, और माँगने पर वारंट दिखाएगा भी।",
+     "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 77",
+     "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
+     "questions": []
+    },
+    {
+     "number": "78",
+     "title": "वारंट पर पकड़े गए व्यक्ति को अदालत लाना",
+     "part": "समन और वारंट",
+     "kitabi": "The police officer or other person executing a warrant of arrest shall (subject to the provisions of section 73 as to security) without unnecessary delay bring the person arrested before the Court before which he is required by law to produce such person: Provided that such delay shall not, in any case, exceed twenty-four hours exclusive of the time necessary for the journey from the place of arrest to the Magistrate's Court.",
+     "aasan": "वारंट पर गिरफ्तार व्यक्ति को बिना अनावश्यक देर किए उस अदालत के सामने लाया जाता है जिसने वारंट जारी किया था।",
+     "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 78",
+     "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
+     "questions": []
+    },
+    {
+     "number": "79",
+     "title": "वारंट भारत में कहीं भी तामील हो सकता है",
+     "part": "समन और वारंट",
+     "kitabi": "A warrant of arrest may be executed at any place in India. ---",
+     "aasan": "गिरफ्तारी का वारंट भारत के किसी भी हिस्से में तामील किया जा सकता है।",
+     "source": "भारतीय नागरिक सुरक्षा संहिता 2023, धारा 79",
      "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
      "questions": []
     }
